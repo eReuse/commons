@@ -2,9 +2,6 @@ LLICÈNCIA ELECTRONIC REUSE
 =========================
 Versió 0.1, 19 de maig 2016
 
-Copyright (C) 2016 Electronic Reuse. <http://ereuse.org/>
-Tothom pot copiar i redistribuir còpies d'aquest document pero fer-ne canvis no està permès. 
-				
 Els principis fonamentals de la llicència Electronic Reuse són:
 
 1.  Traçabilitat del maquinari. Els proveïdors i els receptors del maquinari del circuït han de traçar el maquinari i components fent ús de les eines (lliures) i procediments (en obert) de Electronic Reuse amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús.
