@@ -1,6 +1,9 @@
 LLICÈNCIA ELECTRONIC REUSE
 =========================
+Versió 0.1, 19 de maig 2016
 
+Copyright (C) 2016 Electronic Reuse. <http://ereuse.org/>
+Tothom pot copiar i redistribuir còpies d'aquest document pero fer-ne canvis no està permès. 
 				
 Els principis fonamentals de la llicència Electronic Reuse són:
 
