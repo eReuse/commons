@@ -1,9 +1,12 @@
 # commons
 
-The eReuse.org commons represents a global federation of local groups, organisations, and communities that deal with the circular life of digital devices in their target communities under specic business models. They cooperate to share information, methods, services, and tools under a common governance constituting an ecosystem around circular electronics. For instance, Reutilitza.cat is a community that coordinates direct donation of computers in good condition to charities for free, while Andromines is an organisation that focuses on collecting a large number of computers from organisations for refurbishment, customisation, and sale for the cost of preparation. Both communities participate and benet from the eReuse.org commons, and their web portals
-are federated with the eReuse.org data warehouse and take advantage of common tools and services.
+The eReuse.org commons represents a global federation of local groups, organisations, and communities that deal with the circular life of digital devices in their target communities under specific business models. They cooperate to share information, methods, services, and tools under a common governance constituting an ecosystem around circular electronics. 
 
-The fundamental principles of eReuse.org, dened at the start to be fully inclusive, revolve around 1) the openness of access (usage and contribution) and 2) the openness of participation (development, operation, and governance) of this resource system. These include a set of software tools, services, and global open traceability data around the life cycle of digital devices and its community.
+Electronic Reuse can be instantiated locally by independent organizations willing to promote the use of the eReuse.org license and implement their protocols, and it gives the guarantee donors  their devices will be reusedm traced and ultimately disposed in authorized collection points. 
+
+For instance, Pangea.org is an instance of eReuse.org in Catalonia (Spain), Pangea.org is a non-profit and independent organization that promotes the strategic use of ICT for development and social justice. This organization is an umbrela of several organizations (receivers, second hand shops, refurbishers, reuse centers, waste managers, etc...), for example, reutilitza.cat is a community that coordinates direct donation of computers in good condition to charities for free, while Andromines is an organisation that focuses on collecting a large number of computers from organisations for refurbishment, customisation, and sale for the cost of preparation. Both communities participate and benefit from the eReuse.org commons, and their web portals are federated with the eReuse.org. Pangea.org has bilateral agreements with major donors, and in turn, bilateral agreements with recipients and providers.
+
+If you are a local instance of eReuse.org and you want to know how to define your agreements follow this guide.
 
 ## Agreement between eReuse.org an a donor
 1.  Select the agreement template (ex: agreement_commons_donor_ca.md in Catalan language).
@@ -11,3 +14,8 @@ The fundamental principles of eReuse.org, dened at the start to be fully inclus
 3.  Conversion to odt, pdf, html and others
   3.1.  Download de md (Markdown) document.
   3.2.  Install or user [Pandoc] online (http://pandoc.org/demos.html#examples)
+
+## Agreement between eReuse.org an providers
+
+## Agreement between eReuse.org an receivers
+
