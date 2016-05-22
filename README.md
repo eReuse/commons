@@ -9,13 +9,15 @@ For instance, [Pangea.org] (http://www.pangea.org)) is an instance of eReuse.org
 If you are a local instance of eReuse.org and you want to know how to define your agreements follow this guide.
 
 ## Agreement between eReuse.org an a donor
-1.  Select the agreement template (ex: agreement_commons_donor_ca.md in Catalan language).
-2.  Substitute parameters (TODO: search and replace script).
-3.  Conversion to odt, pdf, html and others
-* 3.1 Download de md (Markdown) document.
-* 3.2 Install or user [Pandoc] online (http://pandoc.org/demos.html#examples)
+1.  Select the **Donor Framework Agreement** in your language (ex: DonorFrameworkAgreement_CA.md in Catalan language).
+2.  Download de md (Markdown) document.
+3.  Substitute parameters (TODO: search and replace script).
+4.  Conversion to odt, pdf and others. Install or user [Pandoc] online (http://pandoc.org/demos.html#examples)
 
 ## Agreement between eReuse.org an providers
+
+TODO. Once finished loc
+
 
 ## Agreement between eReuse.org an receivers
 
