@@ -43,19 +43,26 @@ a.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recípr
 
  - a.2.2 Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació.
 
-a.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, que serien: 
+a.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, i dóna al cedent informació del: 
 
- - a.3.1    El cessionari es compromet a notificar al cendent la ubicació geogràfica on es fa ús del maquinari i el temps total d’ús fins a data de reciclatge, sempre que els proveïdors del cessionari actuint en conformitat de la llicència acordada. 
+ - a.3.1 Del receptor del maquinari **reutilitzat directament**, la ubicació geogràfica on es fa ús, i en cas contrari, la data i ubicació del punt verd on s'ha portat a reciclar, o el proveïdor autoritzat que n'ha fet la preparació per a la reutilització.
+ 
+ - a.3.2 Del proveïdor autoritzat per l'agència de residuos que ha gestionat el maquinari que ha de ser **preparat per a la reutilització **.
 
- - a.3.2    El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria ha de tenir una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
+ - a.3.3 Del proveïdor autoritzat per l'agència de residuos que ha gestionat el maquinari que ha de ser **reciclat** i fer-li arribar els corresponents certificats de reciclatge i de destrucció de dades.
 
-a.3.3    El cessionari es compromet a fer, tots els actes i coses per tal d'allargar el temps de vida útil del maquinari en el cessionari. Arribat el punt que el maquinari quedi obsolet en el circuit (no hi hagi demanda de reus), es portarà a en un punt autoritzat de reciclatge.
+a.4 El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
 
-#Indemnització
+a.5 El cessionari es compromet a fer, tots els actes i coses per tal de que:
 
-2.1 El cessionari haurà d'indemnitzar al cedent contra qualsevol pèrdua, dany o cost que el cedent pateixi o incorre en virtut de o en connexió amb el maquinari o l'ús del mateix després de la data d'aquest acte.
+ - a.5.1 Els receptors allargin el temps de vida útil del maquinari, i arribat el punt que el maquinari els hi quedi obsolet  (i no hi hagi altre demanda de reus al circuit), el portin a en un punt autoritzat de reciclatge.
+ - a.5.2 Els proveïdors prioritzin la preparació per a la reutilització al reciclatge.
 
-2.2 El cessionari haurà de proporcionar tota l'assistència raonable per permetre al cedent suportar qualsevol reclam, acció o un recurs interposat contra el cedent en virtut de o en connexió amb el maquinari o l'ús del maquinari després de la data d'aquest acte.
+#B. Indemnització
+
+b.1 El cessionari haurà d'indemnitzar al cedent contra qualsevol pèrdua, dany o cost que el cedent pateixi o incorre en virtut de o en connexió amb el maquinari o l'ús del mateix després de la data d'aquest acte.
+
+b.2 El cessionari haurà de proporcionar tota l'assistència raonable per permetre al cedent suportar qualsevol reclam, acció o un recurs interposat contra el cedent en virtut de o en connexió amb el maquinari o l'ús del maquinari després de la data d'aquest acte.
 
 #A a més de la garantia
 
