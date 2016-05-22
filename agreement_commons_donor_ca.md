@@ -10,7 +10,8 @@ entre **@donant** i @receptor
 1. Assignació
 2. Indemnització              
 3. A més de la garantia              
-4. Llei aplicable i jurisdicció                   
+4. Llei aplicable i jurisdicció 
+5. Certificats i albarà de lliurament.
 
 **AQUEST ACTE** té data **@data_dia @data_mes @data_any**
 
@@ -21,13 +22,15 @@ entre **@donant** i @receptor
  
 # Fons
 
-1. El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (maquinari),  i el maquinari és és susceptible de ser reutilitzat (**funciona**).
+* El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (maquinari),  hi ha maquinari que funciona i és susceptible de ser reutilitzat (**per a reutilitzar**) i maquinari que és susceptible de ser reciclat (**per a reciclar**) perquè no funciona o pot funcionar però difícilment té demanda que en vulgui fer reús.
 
-2. El cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
+* El cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació i les successives, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
 
-3. El cessionari acorda que canalitzarà la totalitat d’aquesta donació a terceres entitats,  una part del maquinari es destinarà a entitats d’interès social i programes solidaris (receptors), i un altra als proveïdors (entitats que fan la tasca de inventariat, preparació per a la reutilització, donació, manteniment, reciclatge) en contraprestació dels serveis prestats. 
+* El cessionari acorda que canalitzarà la totalitat del maquinari per a reutilitzar a terceres entitats,  una part es destinarà a entitats d’interès social i programes solidaris (**receptors**), i un altra les entitats que fan la tasca de inventariat, preparació per a la reutilització, donació, manteniment i reciclatge (**proveïdors**) en contraprestació dels serveis prestats.
 
-4. Existeix un acord públic (**llicència**) anomenat [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), entre cessionari i els proveïdors i receptors, de manera perpètua, irrevocable, no exclusiva, gratuïta que dóna garanties de que es farà un ús social de la part cedida als receptors, i que se’n farà una correcta gestió del maquinari, tant en la seva fase de producte, com a a la de residu, i que es tractarà de maximitar-ne el seu temps d’ús.
+* El cessionari acorda que el maquinari suceptible de ser reciclat serà gestionat per a gestors autoritzats de RAEE - Residus d'Aparells Elèctrics i Electronics, i aquests generaran els certificats pertinents de destrucció.
+
+* Existeixen acords bilaterals entre el cessionari i les terceres entitats que subcriuren totes els punts la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties de que el receptor en farà un ús social del maquinari i que al finalitzar el seu temps d'ús es portarà a un punt verd autoritzat. 
 
 # Termes acordats
 ## Assignació
