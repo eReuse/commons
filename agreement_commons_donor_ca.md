@@ -7,11 +7,11 @@ entre **@donant** i @receptor
 
 # Contingut
 ## Clàusula
-1. Assignació
-2. Indemnització              
-3. A més de la garantia              
-4. Llei aplicable i jurisdicció 
-5. Certificats i albarà de lliurament.
+a. Assignació
+b. Indemnització              
+c. A més de la garantia              
+d. Llei aplicable i jurisdicció 
+e. Certificats i albarà de lliurament.
 
 **AQUEST ACTE** té data **@data_dia @data_mes @data_any**
 
@@ -22,9 +22,9 @@ entre **@donant** i @receptor
  
 # Fons
 
-* El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (maquinari),  hi ha maquinari que funciona i és susceptible de ser reutilitzat (**per a reutilitzar**) i maquinari que és susceptible de ser reciclat (**per a reciclar**) perquè no funciona o pot funcionar però difícilment té demanda que en vulgui fer reús.
+1. El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (maquinari),  hi ha maquinari que funciona i és susceptible de ser reutilitzat (**per a reutilitzar**) i maquinari que és susceptible de ser reciclat (**per a reciclar**) perquè no funciona o pot funcionar però difícilment té demanda que en vulgui fer reús.
 
-* El cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació i les successives, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
+2. El cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació i les successives, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
 
 * El cessionari acorda que canalitzarà la totalitat del maquinari per a reutilitzar a terceres entitats,  una part es destinarà a entitats d’interès social i programes solidaris (**receptors**), i un altra les entitats que fan la tasca de inventariat, preparació per a la reutilització, donació, manteniment i reciclatge (**proveïdors**) en contraprestació dels serveis prestats.
 
@@ -35,7 +35,7 @@ entre **@donant** i @receptor
 # Termes acordats
 ## Assignació
 
-1.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i per al maquinari al cessionari i fa constar que no té cap valor comptable.
+a.1.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i per al maquinari al cessionari i fa constar que no té cap valor comptable.
 
 1.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació:
 
