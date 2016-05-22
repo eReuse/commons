@@ -12,8 +12,8 @@ If you are a local instance of eReuse.org and you want to know how to define you
 1.  Select the agreement template (ex: agreement_commons_donor_ca.md in Catalan language).
 2.  Substitute parameters (TODO: search and replace script).
 3.  Conversion to odt, pdf, html and others
-  3.1 Download de md (Markdown) document.
-  3.2 Install or user [Pandoc] online (http://pandoc.org/demos.html#examples)
+* 3.1 Download de md (Markdown) document.
+* 3.2 Install or user [Pandoc] online (http://pandoc.org/demos.html#examples)
 
 ## Agreement between eReuse.org an providers
 
