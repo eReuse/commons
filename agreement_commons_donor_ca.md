@@ -1,4 +1,4 @@
-Conveni marc per a la cessió de béns
+onveni marc per a la cessió de béns
 =========================
 Electronic Reuse Agreement Commons - eReuse.org, Versió 0.1, 22 de maig 2016
 
