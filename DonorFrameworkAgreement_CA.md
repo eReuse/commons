@@ -3,14 +3,14 @@ Donor Framework Agreement - eReuse.org, Versió 0.1, 22 de maig 2016
 ```
 
 # Conveni marc per a la cessió de béns
-entre **@donant** i @receptor
+entre **@donant** i **@receptor**
 
 # Contingut
 ## Clàusula
 a. Assignació
 b. Indemnització
 c. A més de la garantia
-d. Llei aplicable i jurisdicció 
+d. Llei aplicable i jurisdicció
 e. Certificats i albarà de lliurament.
 
 **AQUEST ACTE** té data **@data_dia @data_mes @data_any**
