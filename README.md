@@ -1,4 +1,4 @@
-# commons
+# A Circular Commons for Digital Devices
 
 The eReuse.org commons represents a global federation of local groups, organisations, and communities that deal with the circular life of digital devices in their target communities under specific business models. They cooperate to share information, methods, services, and tools under a common governance constituting an ecosystem around circular electronics. 
 
