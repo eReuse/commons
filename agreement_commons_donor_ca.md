@@ -26,30 +26,30 @@ e. Certificats i albarà de lliurament.
 
 2. El cedent desitja donar i assignar al cessionari, el maquinari que:  i) funciona i que té demanda (**per a reutilitzar directament**), el maquinari que es suceptible de ser reutilitzat però que no funciona i ha de ser preparat per a la reutilització (**per a preparar per a la reutilització**), i el maquinari susceptible de ser reciclat (**per a reciclar**).
 
-3. El cessionari acorda que desitja donar la totalitat del maquinari "per a reutilitzar" a terceres entitats,  una part es destinarà a entitats d’interès social i programes solidaris (**receptors**), i un altra als **proveïdors**, les entitats que fan la necessària intermediació entre cessionari i receptor proveïnt de serveis de reparació, inventariat, preparació per a la reutilització, redistribució, manteniment i reciclatge (**proveïdors**) en contraprestació dels serveis prestats.
+3. El cessionari acorda que desitja donar la totalitat del maquinari "per a reutilitzar" a terceres entitats,  una part es destinarà a entitats d’interès social i programes solidaris (**receptors**), i un altra als **proveïdors**, les entitats que fan la necessària intermediació entre cessionari i receptor proveïnt de serveis (**proveïdors**) de: reparació, inventariat, preparació per a la reutilització, redistribució, manteniment, reciclatge i d'altres en contraprestació dels serveis prestats.
 
-4. El cessionari acorda amb el cedent que el maquinari consirat **per a reutilitzar directament** tractarà de donar-se al receptor a les mateixes instal·lacions del cedent, i que en compliment del Reial Decret 110/2015, donarà el maquinari considerat **per a preparar per a la reutilització** a proveïdors autoritzats per a fer les tasques de preparació per a la reutilització, i donarà el maquinari considerat **per a reciclar** a proveïdors autoritzats per a fer-ne el reciclatge.
+4. El cessionari acorda amb el cedent que el maquinari consirat "per a reutilitzar directament" tractarà de donar-se al receptor a les mateixes instal·lacions del cedent, i que en compliment del Reial Decret 110/2015, donarà el maquinari considerat "per a preparar per a la reutilització" a proveïdors autoritzats per a fer les tasques de preparació per a la reutilització, i donarà el maquinari considerat **per a reciclar** a proveïdors autoritzats per a fer-ne el reciclatge.
 
-5. Existeixen o poden existir acords bilaterals entre el cessionari i les terceres entitats que subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties de que el receptor en farà un ús social del maquinari i que al finalitzar el seu temps d'ús es portarà a un punt verd autoritzat.
+5. Existeixen o poden existir acords bilaterals entre el cessionari i les terceres entitats que subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties que el receptor farà un ús social del maquinari i que al finalitzar el seu temps d'ús es portarà a un punt verd autoritzat.
 
 # Termes acordats
 ## Assignació
 
-a.1.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i per al maquinari al cessionari i fa constar que no té cap valor comptable.
+a.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i per al maquinari al cessionari i fa constar que no té cap valor comptable.
 
-1.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació:
+a.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació:
 
-1.2.1 Puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i a les respectives, del cessionari, del cedent, i dels proveïdors i dels receptors. 
+ a.2.1 Puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i a les respectives, del cessionari, del cedent, i dels proveïdors i dels receptors. 
 
-1.2.2    Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació a les xarxes socials i a les respectives webs dels proveïdors del cessionari i del cendent.
+ a.2.2    Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació a les xarxes socials i a les respectives webs dels proveïdors del cessionari i del cendent.
 
-1.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, que serien: 
+a.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, que serien: 
 
-1.3.1    El cessionari es compromet a notificar al cendent la ubicació geogràfica on es fa ús del maquinari i el temps total d’ús fins a data de reciclatge, sempre que els proveïdors del cessionari actuint en conformitat de la llicència acordada. 
+ a.3.1    El cessionari es compromet a notificar al cendent la ubicació geogràfica on es fa ús del maquinari i el temps total d’ús fins a data de reciclatge, sempre que els proveïdors del cessionari actuint en conformitat de la llicència acordada. 
 
-1.3.2    El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria ha de tenir una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
+ a.3.2    El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria ha de tenir una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
 
-1.3.3    El cessionari es compromet a fer, tots els actes i coses per tal d'allargar el temps de vida útil del maquinari en el cessionari. Arribat el punt que el maquinari quedi obsolet en el circuit (no hi hagi demanda de reus), es portarà a en un punt autoritzat de reciclatge.
+a.3.3    El cessionari es compromet a fer, tots els actes i coses per tal d'allargar el temps de vida útil del maquinari en el cessionari. Arribat el punt que el maquinari quedi obsolet en el circuit (no hi hagi demanda de reus), es portarà a en un punt autoritzat de reciclatge.
     
 
 #Indemnització
