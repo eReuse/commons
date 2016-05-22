@@ -1,6 +1,6 @@
-LLICÈNCIA ELECTRONIC REUSE
+LLICÈNCIA CIRCULAR COMMONS FOR DIGITAL DEVICES
 =========================
-Versió 0.1, 19 de maig 2016
+Electronic Reuse - eReuse.org, Versió 0.1, 19 de maig 2016
 
 Els principis fonamentals de la llicència Electronic Reuse són:
 
