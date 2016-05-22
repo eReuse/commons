@@ -68,7 +68,7 @@ Cada part ha de fer, o procurar de fer, tots els actes i coses, i executar, o pr
 
 Aquest document s'ha executat com una escritura i està lliurat i entra en vigor en la data prevista en el començament de la mateixa.
 
-S'executa com un acte per al **cedent** que es pronunciarà per @donant_signant_nom @donant_signant_cognom, un director, en la presència de:
+S'executa com un acte per al **@donant** que es pronunciarà per @donant_signant_nom , un director, en la presència de:
  
  
 .......................................
@@ -78,13 +78,11 @@ Direcció:
 Ocupació:
 
 
-
 .......................................
 Director
  
  
- 
-S'executa com un acte per la persona física amb @nomicognom  actuant com a responsable, en la presència de:
+S'executa com un acte per a **@receptor** la persona física amb @receptor_signant_nom , actuant com a responsable, en la presència de:
  
  
 .......................................
@@ -92,6 +90,8 @@ Testimoni
 Nom: 
 Direcció:
 Ocupació: 
+
+
 .......................................
 Responsable
  
