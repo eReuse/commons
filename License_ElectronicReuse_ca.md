@@ -1,4 +1,4 @@
-LLICÈNCIA ELECTRONIC REUSE COMMONS
+LLICÈNCIA ELECTRONIC REUSE
 =========================
 Electronic Reuse Commons - eReuse.org, Versió 0.1, 19 de maig 2016
 
