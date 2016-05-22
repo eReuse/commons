@@ -8,8 +8,8 @@ entre **@donant** i @receptor
 # Contingut
 ## Clàusula
 a. Assignació
-b. Indemnització              
-c. A més de la garantia              
+b. Indemnització
+c. A més de la garantia
 d. Llei aplicable i jurisdicció 
 e. Certificats i albarà de lliurament.
 
@@ -22,15 +22,15 @@ e. Certificats i albarà de lliurament.
  
 # Fons
 
-1. El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (maquinari),  hi ha maquinari que funciona i és susceptible de ser reutilitzat (**per a reutilitzar**) i maquinari que és susceptible de ser reciclat (**per a reciclar**) perquè no funciona o pot funcionar però difícilment té demanda que en vulgui fer reús.
+1. El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (maquinari), i el cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació i les successives, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
 
-2. El cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació i les successives, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
+2. El cedent desitja donar i assignar al cessionari, el maquinari que:  i) funciona i que té demanda, i per tant és susceptible de ser reutilitzat directament sense requerir-ne tractament (**per a reutilitzar directament**), el maquinari que es suceptible de ser reutilitzat però que no funciona i per tant abans ha de ser preparat per a la reutilització (** per a preparar per a la reutilització**), i el maquinari susceptible de reciclar (**per a reciclar**).
 
-* El cessionari acorda que canalitzarà la totalitat del maquinari per a reutilitzar a terceres entitats,  una part es destinarà a entitats d’interès social i programes solidaris (**receptors**), i un altra les entitats que fan la tasca de inventariat, preparació per a la reutilització, donació, manteniment i reciclatge (**proveïdors**) en contraprestació dels serveis prestats.
+3. El cessionari acorda que desitja donar la totalitat del maquinari "per a reutilitzar" a terceres entitats,  una part es destinarà a entitats d’interès social i programes solidaris (**receptors**), i un altra als **proveïdors**, les entitats que fan la tasca de reparació, inventariat, preparació per a la reutilització, redistribució, manteniment i reciclatge (**proveïdors**) en contraprestació dels serveis prestats.
 
-* El cessionari acorda que el maquinari suceptible de ser reciclat serà gestionat per a gestors autoritzats de RAEE - Residus d'Aparells Elèctrics i Electronics, i aquests generaran els certificats pertinents de destrucció.
+4. El cessionari acorda amb el cedent que el maquinari consirat **per a reutilitzar directament** tractarà de donar-se al receptor a les mateixes instal·lacions del cedent, i que en compliment del Reial Decret 110/2015, donarà el maquinari considerat **per a preparar per a la reutilització** a proveïdors autoritzats per a fer les tasques de preparació per a la reutilització, i donarà el maquinari considerat **per a reciclar** a proveïdors autoritzats per a fer-ne el reciclatge.
 
-* Existeixen acords bilaterals entre el cessionari i les terceres entitats que subcriuren totes els punts la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties de que el receptor en farà un ús social del maquinari i que al finalitzar el seu temps d'ús es portarà a un punt verd autoritzat. 
+5. Existeixen o poden existir acords bilaterals entre el cessionari i les terceres entitats que subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties de que el receptor en farà un ús social del maquinari i que al finalitzar el seu temps d'ús es portarà a un punt verd autoritzat.
 
 # Termes acordats
 ## Assignació
