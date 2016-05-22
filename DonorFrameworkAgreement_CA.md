@@ -8,9 +8,13 @@ entre **@donant** i **@receptor**
 # Contingut
 ## Clàusula
 a. Assignació
+
 b. Indemnització
+
 c. A més de la garantia
+
 d. Llei aplicable i jurisdicció
+
 e. Certificats i albarà de lliurament.
 
 **AQUEST ACTE** té data **@data_dia @data_mes @data_any**
