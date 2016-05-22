@@ -1,4 +1,4 @@
-LLICÈNCIA CIRCULAR COMMONS FOR DIGITAL DEVICES
+LLICÈNCIA ELECTRONIC REUSE COMMONS
 =========================
 Electronic Reuse - eReuse.org, Versió 0.1, 19 de maig 2016
 
