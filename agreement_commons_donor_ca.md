@@ -41,7 +41,7 @@ a.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recípr
 
  - a.2.1 Puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i a les respectives, del cessionari, del cedent, i dels proveïdors i dels receptors. 
 
- - a.2.2    Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació a les xarxes socials i a les respectives webs dels proveïdors del cessionari i del cendent.
+ - a.2.2 Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació.
 
 a.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, que serien: 
 
