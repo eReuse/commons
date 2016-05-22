@@ -33,24 +33,23 @@ e. Certificats i albarà de lliurament.
 5. Existeixen o poden existir acords bilaterals entre el cessionari i les terceres entitats que subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties que el receptor farà un ús social del maquinari i que al finalitzar el seu temps d'ús es portarà a un punt verd autoritzat.
 
 # Termes acordats
-## Assignació
+## A. Assignació
 
 a.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i per al maquinari al cessionari i fa constar que no té cap valor comptable.
 
 a.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació:
 
- a.2.1 Puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i a les respectives, del cessionari, del cedent, i dels proveïdors i dels receptors. 
+ - a.2.1 Puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i a les respectives, del cessionari, del cedent, i dels proveïdors i dels receptors. 
 
- a.2.2    Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació a les xarxes socials i a les respectives webs dels proveïdors del cessionari i del cendent.
+ - a.2.2    Per part seva i per part dels propietaris de la imatge de la donació o dels seus protagonistes es concedeix la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació a les xarxes socials i a les respectives webs dels proveïdors del cessionari i del cendent.
 
 a.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, que serien: 
 
- a.3.1    El cessionari es compromet a notificar al cendent la ubicació geogràfica on es fa ús del maquinari i el temps total d’ús fins a data de reciclatge, sempre que els proveïdors del cessionari actuint en conformitat de la llicència acordada. 
+ - a.3.1    El cessionari es compromet a notificar al cendent la ubicació geogràfica on es fa ús del maquinari i el temps total d’ús fins a data de reciclatge, sempre que els proveïdors del cessionari actuint en conformitat de la llicència acordada. 
 
- a.3.2    El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria ha de tenir una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
+ - a.3.2    El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria ha de tenir una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
 
 a.3.3    El cessionari es compromet a fer, tots els actes i coses per tal d'allargar el temps de vida útil del maquinari en el cessionari. Arribat el punt que el maquinari quedi obsolet en el circuit (no hi hagi demanda de reus), es portarà a en un punt autoritzat de reciclatge.
-    
 
 #Indemnització
 
