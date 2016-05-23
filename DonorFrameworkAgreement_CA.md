@@ -69,15 +69,31 @@ b.1 El cessionari haurà d'indemnitzar al cedent contra qualsevol pèrdua, dany 
 
 b.2 El cessionari haurà de proporcionar tota l'assistència raonable per permetre al cedent suportar qualsevol reclam, acció o un recurs interposat contra el cedent en virtut de o en connexió amb el maquinari o l'ús del maquinari després de la data d'aquest acte.
 
-#A a més de la garantia
+#C a més de la garantia
 
 Cada part ha de fer, o procurar de fer, tots els actes i coses, i executar, o procurar l'execució de, tots els documents, que siguin raonablement necessaris per donar ple efecte al present acte.
 
-#Llei aplicable i jurisdicció
+#D Llei aplicable i jurisdicció
 
-3.1 Aquest acte i qualsevol disputa o reclam que sorgeixi de o en relació amb la mateixa o el seu objecte o creació (incloent disputes o demandes no contractuals) es regiran i interpretaran d'acord amb la llei espanyola.
+d.1 Aquest acte i qualsevol disputa o reclam que sorgeixi de o en relació amb la mateixa o el seu objecte o creació (incloent disputes o demandes no contractuals) es regiran i interpretaran d'acord amb la llei espanyola.
 
-3.2 Les parts acorden de manera irrevocable que els tribunals d'Espanya tindran jurisdicció exclusiva per resoldre qualsevol disputa o reclamació que sorgeixi de o en connexió amb aquest títol de propietat o el seu objecte o creació (incloent disputes extracontractuals o reclamacions).
+d.2 Les parts acorden de manera irrevocable que els tribunals d'Espanya tindran jurisdicció exclusiva per resoldre qualsevol disputa o reclamació que sorgeixi de o en connexió amb aquest títol de propietat o el seu objecte o creació (incloent disputes extracontractuals o reclamacions).
+
+#E Certificats.
+
+e.1 Certificat de lliurament (**albarà**). En el moment en que els equips es donen el cessionari ha de lliurar al cedent un albarà, on consta: 1) el identificador del maquinari en el cedent (**identificador cedent**), 2) el identificador del maquinari del fabricant o el número de sèrie (**identificador en el cessionari**), en aquest cas només pel maquinari considerat **per a reutilitzar**, 3) el proveïdor del cessionari que gestionarà la donació, 4) la tipologia de maquinari que es defineix com a: i) *per a reutilitzar*, ii) *per a reparar*, i iii) *per a preparar*   
+
+e.2 Certificats de destrucció. Transcorreguts uns dies de la donació del maquinari amb tipologia *per a reparar* i *per a preparar*  En el moment en que els equips es donen el cessionari El proveïdor del cessionari resposnable de gestionar el maquinari que no hagi pogut ser reutilitzat (que era *per a reparar* i *per a preparar*)    preparat  que inclou el identificadors número d'identificació del maquinari (en el cedent) i el número de maquinari dels equips en el cessionari  sèrie dels equips *per a reutilitzar* (sempre que es pugui obtenir de manera automàtica amb les eines d'inventari.
+
+e.3 Certificats de reutilització.
+
+
+llistat d'equips destinats a la preparació per a la reutilització (S/N equip, S/N BA intern)
+-1.2- llistat d'equips destinats al reciclatge (S/N equip, S/N BA intern)
+
+ Certificats de destrucció. Transcorreguts unes dies, s'ha de lliurar un certificat de destrucció dels equips que s'han reclciat ( els equips destinants al reciclatge (1.1) + els que no s'han pogut preparar (1.2) + els que s'han pogut preparar pero no tenen demanda).
+ Certificats de reutilització. En el moment en que els equips arribin al receptor (qui els reutilitzarà), s'ha de notificar a BC, i també cedir el material de comunicació (text, imatges).
+
 
 Aquest document s'ha executat com una escritura i està lliurat i entra en vigor en la data prevista en el començament de la mateixa.
 
