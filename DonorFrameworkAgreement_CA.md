@@ -69,17 +69,17 @@ b.1 El cessionari haurà d'indemnitzar al cedent contra qualsevol pèrdua, dany 
 
 b.2 El cessionari haurà de proporcionar tota l'assistència raonable per permetre al cedent suportar qualsevol reclam, acció o un recurs interposat contra el cedent en virtut de o en connexió amb el maquinari o l'ús del maquinari després de la data d'aquest acte.
 
-#C a més de la garantia
+#C. a més de la garantia
 
 Cada part ha de fer, o procurar de fer, tots els actes i coses, i executar, o procurar l'execució de, tots els documents, que siguin raonablement necessaris per donar ple efecte al present acte.
 
-#D Llei aplicable i jurisdicció
+#D. Llei aplicable i jurisdicció
 
 d.1 Aquest acte i qualsevol disputa o reclam que sorgeixi de o en relació amb la mateixa o el seu objecte o creació (incloent disputes o demandes no contractuals) es regiran i interpretaran d'acord amb la llei espanyola.
 
 d.2 Les parts acorden de manera irrevocable que els tribunals d'Espanya tindran jurisdicció exclusiva per resoldre qualsevol disputa o reclamació que sorgeixi de o en connexió amb aquest títol de propietat o el seu objecte o creació (incloent disputes extracontractuals o reclamacions).
 
-#E Certificats.
+#E. Certificats.
 
 e.1 Certificat de lliurament (**albarà**). Quan el cedent dóna al cessionari els equips, el cessionari ha de lliurar al cedent un albarà, on consta: 1) el identificador del maquinari en el cedent (**identificador cedent**), 2) el identificador del maquinari del fabricant o el número de sèrie (**identificador en el cessionari**) - només pel maquinari considerat *per a reutilitzar*, 3) el receptor i/o proveïdor del cessionari a qui el cessionari en fa cessió, 4) la tipologia de maquinari que es defineix com a: i) *per a reutilitzar*, ii) *per a reciclar*   
 
