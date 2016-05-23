@@ -51,18 +51,17 @@ a.2 El cessionari i el cedent es cedeixen i atorguen el seu consentiment recípr
 
 a.3 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, i dóna al cedent informació del: 
 
- - a.3.1 Del receptor del maquinari **reutilitzat directament**, la ubicació geogràfica on es fa ús, i en cas contrari, la data i ubicació del punt verd on s'ha portat a reciclar, o el proveïdor autoritzat que n'ha fet la preparació per a la reutilització.
+ - a.3.1 receptor del maquinari *per a reutilitzar*, la ubicació geogràfica on es fa ús, i en cas contrari, la data i ubicació del punt verd on s'ha portat a reciclar, o el proveïdor autoritzat que n'ha fet la preparació per a la reutilització.
  
- - a.3.2 Del proveïdor autoritzat per l'agència de residuos que ha gestionat el maquinari que ha de ser **preparat per a la reutilització **.
+ - a.3.2 Del proveïdor autoritzat per l'agència de residuos que ha gestionat el maquinari *per a preparar* i fer-li arribar els corresponents certificats de reciclatge.
 
- - a.3.3 Del proveïdor autoritzat per l'agència de residuos que ha gestionat el maquinari que ha de ser **reciclat** i fer-li arribar els corresponents certificats de reciclatge i de destrucció de dades.
-
-a.4 El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió (sempre que els seus proveïdors li hi facin arribar) on consti el impacte social que ha generat l'ús del maquinari. La memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
+a.4 El cessionari es compromet a fer arribar una una memòria transcorreguts sis mesos de la cessió dels equips *per a reutilitzar* (sempre que els seus proveïdors li hi facin arribar). La memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
 
 a.5 El cessionari es compromet a fer, tots els actes i coses per tal de que:
 
- - a.5.1 Els receptors allargin el temps de vida útil del maquinari, i arribat el punt que el maquinari els hi quedi obsolet  (i no hi hagi altre demanda de reus al circuit), el portin a en un punt autoritzat de reciclatge.
- - a.5.2 Els proveïdors prioritzin la preparació per a la reutilització al reciclatge.
+ - a.5.1 Els *receptors* allargin el temps de vida útil del maquinari, i arribat el punt que el maquinari els hi quedi obsolet  (i no hi hagi altre demanda de reus al circuit), el portin a en un punt autoritzat de reciclatge.
+ 
+ - a.5.2 Els *proveïdors* prioritzin la preparació per a la reutilització al reciclatge.
 
 #B. Indemnització
 
