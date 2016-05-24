@@ -83,11 +83,14 @@ d.2 Les parts acorden de manera irrevocable que els tribunals d'Espanya tindran 
 e.1 Certificat de lliurament (**albarà**). Quan el cedent dóna al cessionari els equips, el cessionari o els seus proveïdors han de lliurar telemàticament al cedent un albarà, on consta:
 
  - e.1.1 El identificador del maquinari en el cedent (**identificador cedent**), 
+ 
  - e.1.2 El identificador del maquinari del fabricant o el número de sèrie (**identificador en del fabricant**) - només pel maquinari considerat *per a reutilitzar*, 
+ 
  - e.1.3 El receptor i/o proveïdor del cessionari a qui el cessionari en fa cessió, 
+ 
  - e.1.4 La tipologia de maquinari que es defineix com a: i) *per a reutilitzar*, ii) *per a reciclar*   
 
-e.2 Certificats de destrucció. Transcorreguts uns dies de la donació del maquinari el cessionari o els seus proveïdors han de lliurar al cedent un certificat del maquinari que no s'ha pogut preparar per a la reutilització i que finalment ha quedat reciclat. En aquest certificat constarà la relació de *identificadors cedent* que han estat destruits i dels que s'ha pogut preparar per a la reutilització. 
+e.2 Certificats de reciclatge. Quan el cedent dóna al cessionari els equips (i fins a 10 dies després de la donació), el cessionari o els seus proveïdors han de lliurar telemàticament al cedent un certificat del maquinari que s'ha enviat a reciclar, i en aquest certificat constarà la relació de *identificadors cedent*. 
 
 Aquest document s'ha executat com una escritura i està lliurat i entra en vigor en la data prevista en el començament de la mateixa.
 
