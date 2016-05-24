@@ -29,30 +29,30 @@ e. Certificats i albarà de lliurament.
 
 1. El cedent és propietari i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament de l'oficina (**maquinari**), i el cedent desitja donar i assignar al cessionari, i el cessionari es compromet a aquesta donació, i per a l'assignació de, el maquinari i tots els drets, obligacions i responsabilitats relacionades amb el maquinari.
 
-2. El cedent dóna i assigna al cessionari, el maquinari que funciona (**per a reutilitzar**) i el maquinari que no funciona i que pot ser reparat o reciclat (**per a reciclar**).
+2. En el moment de la cessió de bens el cedent permet al cessionari cedir la totalitat del maquinari a entitats que li proveeixen de serveis (**proveïdors**), i aquesta cessió s'ha de realitzar a les mateixes instal·lacions del cedent i no requereix que el cessionari hi sigui presencialment.
 
-3. En el moment de la cessió de bens el cedent permet al cessionari cedir la totalitat del maquinari a entitats que li proveeixen de serveis (**proveïdors**), i aquesta cessió s'ha de realitzar a les mateixes instal·lacions del cedent i no requereix que el cessionari hi sigui presencialment.
+3. El cedent dóna i assigna al cessionari, el maquinari que funciona (**per a reutilitzar**) i el maquinari que no funciona i que pot ser reparat o reciclat (**per a reciclar**).
 
-4. En compliment de la voluntat del cedent, una part del maquinari considerat *per a reutilitzar* es dóna a *proveïdors* que els cediran a entitats d’interès social i a programes solidaris (**receptors**), i la part restant es dóna als *proveïdors* en contraprestació dels serveis realitzats al cessionari. 
+4. En compliment de la voluntat del cedent, una part del maquinari considerat *per a reutilitzar* es dóna a *proveïdors* que els cediran a entitats d’interès social i a programes solidaris (**receptors**), i la part restant es dóna a *proveïdors* en contraprestació dels serveis realitzats al cessionari. 
 
 5. En compliment de la voluntat del cedent i del Reial Decret 110/2015 de gestió de residus d'Aparells Elèctrics i Electrònics, la totalitat del maquinari considerat *per a reciclar*, es dóna a proveïdors autoritzats per l'Agència de Residus de Catalunya o autoritats competents.
 
-6. El cessionari, els provéïdors i els receptors subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable dóna garanties que el receptor farà un ús social del maquinari i que al finalitzar el seu temps d'ús el portarà a un punt verd autoritzat.
+6. El cessionari, els provéïdors i els receptors subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
 
 ## Termes acordats
 ### A. Assignació
 
 a.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i per al maquinari al cessionari i fa constar que no té cap valor comptable.
 
-a.2 El cessionari ha obtingut per part dels propietaris de la imatge de la donació o dels seus protagonistes la llicència a favor del cessionari de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació.
+a.2 El cessionari, i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i als respectius, del cessionari, del cedent, i dels proveïdors i dels receptors.
 
-a.3 El cessionari, i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i a les respectives, del cessionari, del cedent, i dels proveïdors i dels receptors. 
+a.3 El cessionari ha obtingut per part dels propietaris de la imatge de la donació o dels seus protagonistes, i el cedent ho obte per part del cessionari, la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació.
 
 a.4 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, i en notificarà el seu darrer destí, que pot ser:
 
- - a.4.1 En el cas del maquinari *per a reutilitzar* donat als receptors, el cessionari informarà al cedent de la ubicació geogràfica actual del maquinari, l'entitat que en fa reús, i en cas que ja no s'usi, la data i ubicació del punt verd on s'ha portat a reciclar, en tots casos sempre que el receptors cooperin.
+ - a.4.1 En el cas del maquinari *per a reutilitzar* donat als receptors, el cessionari informarà al cedent de la ubicació geogràfica del maquinari, l'entitat que en fa reús, i en cas que ja no s'usi, la data i ubicació del punt verd on s'ha portat a reciclar, en tots casos sempre que el receptors cooperin.
  
- - a.4.2 En el cas del maquinari *per a reutilitzar* i *per a reciclar* donat a proveïdors, el cessionari informarà al cedent les dades del proveïdor, tipologia d'entitat i la ubicació geogràfica del proveïdor. 
+ - a.4.2 En el cas del maquinari *per a reutilitzar* i *per a reciclar* donat als proveïdors, el cessionari informarà al cedent les dades del proveïdor, tipologia d'entitat i la ubicació geogràfica del proveïdor. 
  
 a.5 El cessionari es compromet a fer arribar una memòria dels receptors transcorreguts sis mesos de la cessió dels equips (sempre que el receptors cooperin), i la memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional (CC BY 4.0) tal que es permet la compartició i adaptació per a qualsevol propòsit, inclòs el comercial. 
 
@@ -80,7 +80,12 @@ d.2 Les parts acorden de manera irrevocable que els tribunals d'Espanya tindran 
 
 ###E. Certificats.
 
-e.1 Certificat de lliurament (**albarà**). Quan el cedent dóna al cessionari els equips, el cessionari o els seus proveïdors han de lliurar al cedent un albarà, on consta: 1) el identificador del maquinari en el cedent (**identificador cedent**), 2) el identificador del maquinari del fabricant o el número de sèrie (**identificador en el cessionari**) - només pel maquinari considerat *per a reutilitzar*, 3) el receptor i/o proveïdor del cessionari a qui el cessionari en fa cessió, 4) la tipologia de maquinari que es defineix com a: i) *per a reutilitzar*, ii) *per a reciclar*   
+e.1 Certificat de lliurament (**albarà**). Quan el cedent dóna al cessionari els equips, el cessionari o els seus proveïdors han de lliurar telemàticament al cedent un albarà, on consta:
+
+ - e.1.1 El identificador del maquinari en el cedent (**identificador cedent**), 
+ - e.1.2 El identificador del maquinari del fabricant o el número de sèrie (**identificador en del fabricant**) - només pel maquinari considerat *per a reutilitzar*, 
+ - e.1.3 El receptor i/o proveïdor del cessionari a qui el cessionari en fa cessió, 
+ - e.1.4 La tipologia de maquinari que es defineix com a: i) *per a reutilitzar*, ii) *per a reciclar*   
 
 e.2 Certificats de destrucció. Transcorreguts uns dies de la donació del maquinari el cessionari o els seus proveïdors han de lliurar al cedent un certificat del maquinari que no s'ha pogut preparar per a la reutilització i que finalment ha quedat reciclat. En aquest certificat constarà la relació de *identificadors cedent* que han estat destruits i dels que s'ha pogut preparar per a la reutilització. 
 
