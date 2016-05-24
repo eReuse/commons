@@ -37,7 +37,7 @@ e. Certificats i albarà de lliurament.
 
 5. En compliment de la voluntat del cedent i del Reial Decret 110/2015 de gestió de residus d'Aparells Elèctrics i Electrònics, la totalitat del maquinari considerat *per a reciclar*, es dóna a proveïdors autoritzats per l'Agència de Residus de Catalunya o autoritats competents.
 
-6. El cessionari, els provéïdors i els receptors subcriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
+6. El cessionari, els provéïdors i els receptors subscriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
 
 ## Termes acordats
 ### A. Assignació
@@ -64,9 +64,7 @@ a.6 El cessionari es compromet a fer, tots els actes i coses per tal de que:
 
 ###B. Indemnització
 
-b.1 El cessionari haurà d'indemnitzar al cedent contra qualsevol pèrdua, dany o cost que el cedent pateixi o incorre en virtut de o en connexió amb el maquinari o l'ús del mateix després de la data d'aquest acte.
-
-b.2 El cessionari haurà de proporcionar tota l'assistència raonable per permetre al cedent suportar qualsevol reclam, acció o un recurs interposat contra el cedent en virtut de o en connexió amb el maquinari o l'ús del maquinari després de la data d'aquest acte.
+b.1 El cessionari haurà de proporcionar tota l'assistència raonable per permetre al cedent suportar qualsevol reclam, acció o un recurs interposat contra el cedent en virtut de o en connexió amb el maquinari o l'ús del maquinari després de la data d'aquest acte.
 
 ###C. a més de la garantia
 
@@ -90,7 +88,7 @@ e.1 Certificat de lliurament (**albarà**). Quan el cedent dóna al cessionari e
  
  - e.1.4 La tipologia de maquinari que es defineix com a: i) *per a reutilitzar*, ii) *per a reciclar*   
 
-e.2 Certificats de reciclatge. Quan el cedent dóna al cessionari els equips (i fins a 10 dies després de la donació), el cessionari o els seus proveïdors han de lliurar telemàticament al cedent un certificat del maquinari que s'ha enviat a reciclar, i en aquest certificat constarà la relació de *identificadors cedent*. 
+e.2 Certificats de reciclatge. Quan el cedent dóna al cessionari els equips (i fins a 10 dies després de la donació), el cessionari o els seus proveïdors han de lliurar digitalment al cedent un certificat del maquinari que s'ha enviat a reciclar, i en aquest certificat constarà la relació de *identificadors cedent*. 
 
 Aquest document s'ha executat com una escritura i està lliurat i entra en vigor en la data prevista en el començament de la mateixa.
 
@@ -104,7 +102,7 @@ Ocupació:
 
 
 .......................................
-Director
+Actuant com a responsable
  
  
 S'executa com un acte per a **@receptor** la persona física amb @receptor_signant_nom , actuant com a responsable, en la presència de:
