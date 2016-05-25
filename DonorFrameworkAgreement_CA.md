@@ -37,7 +37,7 @@ e. Certificats i albarà de lliurament.
 
 5. En compliment de la voluntat del cedent i del Reial Decret 110/2015 de gestió de residus d'Aparells Elèctrics i Electrònics, la totalitat del maquinari considerat *per a reciclar*, es dóna a proveïdors autoritzats per l'Agència de Residus de Catalunya o autoritats competents.
 
-6. El cessionari, els provéïdors i els receptors subscriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
+6. El cessionari, els proveïdors i els receptors subscriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
 
 ## Termes acordats
 ### A. Assignació
@@ -50,7 +50,7 @@ a.3 El cessionari ha obtingut per part dels propietaris de la imatge de la donac
 
 a.4 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, i en notificarà el seu darrer destí, que pot ser:
 
- - a.4.1 En el cas del maquinari *per a reutilitzar* donat als receptors, el cessionari informarà al cedent de la ubicació geogràfica del maquinari, l'entitat que en fa reús, i en cas que ja no s'usi, la data i ubicació del punt verd on s'ha portat a reciclar, en tots casos sempre que el receptors cooperin.
+ - a.4.1 En el cas del maquinari *per a reutilitzar* donat als receptors, el cessionari informarà al cedent de la ubicació geogràfica del maquinari, l'entitat que en fa reus, i en cas que ja no s'usi, la data i ubicació del punt verd on s'ha portat a reciclar, en tots casos sempre que el receptors cooperin.
  
  - a.4.2 En el cas del maquinari *per a reutilitzar* i *per a reciclar* donat als proveïdors, el cessionari informarà al cedent les dades del proveïdor, tipologia d'entitat i la ubicació geogràfica del proveïdor. 
  
@@ -58,7 +58,7 @@ a.5 El cessionari es compromet a fer arribar una memòria dels receptors transco
 
 a.6 El cessionari es compromet a fer, tots els actes i coses per tal de que:
 
- - a.6.1 Els *receptors* allargin el temps de vida útil del maquinari, i arribat el punt que el maquinari els hi quedi obsolet  (i no hi hagi més demanda de reus en la proximitat del receptor), el portin a en un punt autoritzat de reciclatge.
+ - a.6.1 Els *receptors* allarguin el temps de vida útil del maquinari, i arribat el punt que el maquinari els hi quedi obsolet  (i no hi hagi més demanda de reus en la proximitat del receptor), el portin a en un punt autoritzat de reciclatge.
  
  - a.6.2 Els *proveïdors* prioritzin la preparació per a la reutilització al reciclatge.
 
@@ -90,7 +90,7 @@ e.1 Certificat de lliurament (**albarà**). Quan el cedent dóna al cessionari e
 
 e.2 Certificats de reciclatge. Quan el cedent dóna al cessionari els equips (i fins a 10 dies després de la donació), el cessionari o els seus proveïdors han de lliurar digitalment al cedent un certificat del maquinari que s'ha enviat a reciclar, i en aquest certificat constarà la relació de *identificadors cedent*. 
 
-Aquest document s'ha executat com una escritura i està lliurat i entra en vigor en la data prevista en el començament de la mateixa.
+Aquest document s'ha executat com una escriptura i està lliurat i entra en vigor en la data prevista en el començament de la mateixa.
 
 S'executa com un acte per al **@donant** que es pronunciarà per @donant_signant_nom , un director, en la presència de:
 
