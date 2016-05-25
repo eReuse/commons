@@ -1,6 +1,6 @@
-LLICÈNCIA ELECTRONIC REUSE
-=========================
-Circular and Reuse Commons - eReuse.org, Versió 0.1, 19 de maig 2016
+Llicència Circular and Reuse Commons
+====================================
+eReuse.org, Versió 0.1, 19 de maig 2016
 
 ### I. Resum i principis fonamentals.
 
