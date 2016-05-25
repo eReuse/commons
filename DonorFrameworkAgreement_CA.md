@@ -46,7 +46,7 @@ a.1 El cedent assigna tots els seus drets, títols, interessos i beneficis en i 
 
 a.2 El cessionari, i el cedent es cedeixen i atorguen el seu consentiment recíprocament per què les imatges realitzades durant el moment de la donació puguin ser utilitzades, conservades i tractades amb la finalitat de fer difusió de la donació als mitjans de comunicació, i als respectius, del cessionari, del cedent, i dels proveïdors i dels receptors.
 
-a.3 El cessionari ha obtingut per part dels propietaris de la imatge de la donació o dels seus protagonistes, i el cedent ho obte per part del cessionari, la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació.
+a.3 El cessionari ha obtingut per part dels propietaris de la imatge de la donació o dels seus protagonistes, i el cedent ho obté per part del cessionari, la llicència a favor del cessionari i del cedent de manera perpètua, intransferible, irrevocable, no exclusiva, gratuïta i d’àmbit mundial per utilitzar la imatge amb la finalitat de fer difusió de la donació.
 
 a.4 El cessionari es compromet a complir totes les obligacions del cedent en relació amb el maquinari i l'ús del mateix, i en notificarà el seu darrer destí, que pot ser:
 
