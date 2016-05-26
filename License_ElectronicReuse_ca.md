@@ -14,19 +14,19 @@ Llicència eReuse.org, Versió 0.1, 19 de maig 2016
 
 ### II. Definicions i consideracions.
 
-1. El procomú **"Circular Commons for Digital Devices ("CCDD")"** és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret a tota persona a la seva alfabetització a partir de recursos inutilitzats i el dret ambiental d'explotar un recurs per evitar-ne el seu reciclatge prematur, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
+1. El "Circular Commons for Digital Devices ("CCDD")" (**procomú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret legítim a tota persona a la seva alfabetització a partir de l'ús de recursos inutilitzats i el dret ambiental d'explotar un recurs per evitar-ne el seu reciclatge prematur, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
 
-2. El **sistema de recursos (RS)** del procomú CCDD és defineix com un conjunt de (**dispositius digitals**) i de (**circuits**), un circuit són les dades, eines, procediments i serveis, que permeten la circulació indefinida (amb els boxes) dels dispositius, i el sistema de recursos (dispositius i circuits) estan creats, compartits i gestionats de manera col·lectiva per usuaris que han acceptat la llicència eReuse.org.
+2. El **sistema de recursos (RS)** del procomú és defineix com un conjunt de (**dispositius digitals**) i de (**circuits**), un circuit es defineix com les dades, eines, procediments i serveis, que permeten la circulació segura i indefinida dels dispositius digtals en un circuit, i el sistema de recursos esta creat, compartit i gestionat de manera col·lectiva per usuaris que han acceptat la **llicència** eReuse.org.
 
 3. El procomú és una federació mundial descentralitzada de grups locals, organitzacions i comunitats que conformen un ecosistema que promou un model de **producció i consum durable i circular** dels dispositius digitals.
 
-4. Un dispositiu digital és durable i circular quan no té **obsolescència programada**, és **reparable** i existeixen **recanvis**, és **modular**, és **actualitzable**, **reutilitzable**, i és fàcil de desmantellar i recuperar-ne (**reciclar**) les matèries primeres.  
+4. Un dispositiu digital és durable i circular quan pot funcionar amb **programari lliure**, no té **obsolescència programada**, és de viable la seva **reparació** i existeixen **recanvis** de manera indefinida, és pot millorar/actualitzar amb **mòduls**, és pot conèixer la seva informació de manera automàtica per facilitar la seva **reutilització**, és pot identificar els seus components de manera única per a garantitzar la seva **traçabilitat**, i és fàcil de desmantellar i recuperar-ne (**reciclar**) les matèries primeres.  
 
-5. El procomú considera que un recurs esdevé residu només quan no hi **demanda de reús**, aplicant així la llei de les 3 R, en que s'ha de *Reduir* sempre que sigui possible, *Reutilitzar* com a segona opció i *Reciclar* com a última, per això promou un model de producció i consum durable i circular via: 
+5. El procomú considera que un recurs esdevé residu només quan no hi **demanda de reús**, aplicant així la llei de les 3 R, en que s'ha de *Reduir* sempre que sigui possible, *Reutilitzar* com a segona opció i *Reciclar* com a última, per això el procomú promou un model de producció i consum durable i circular via: 
 
- * a) la tria dels productes de major durabilitat, 
- * b) la reparació i l'actualització de components dels ja existents,
- * c) la cerca de nous usuaris que en vulguin continuar fent un ús, 
+ * a) l'adquisició dels productes de major durabilitat, 
+ * b) la reparació dels dispositius digitals sempre que sigui raonablement possible,
+ * c) la nous usuaris que en vulguin continuar fent un ús, 
  * d) la traçabilitat per a facilitar-ne el reciclatge final.
 
 6. El procomú és un acord d'adhesió als circuits i a l'explotació del sistema de recursos entre iguals de cada participant amb el conjunt de ereuse.org i que és comú per a tothom que en forma part. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús del sistema de recursos, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom.
