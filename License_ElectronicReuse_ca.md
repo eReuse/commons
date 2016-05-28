@@ -1,6 +1,6 @@
 Circular Commons for Digital Devices
 ====================================
-Llicència eReuse.org, Versió 0.1, 19 de maig 2016
+Llicència eReuse.org, Versió 0.2, 29 de maig 2016
 
 ### I. Resum i principis fonamentals.
 
