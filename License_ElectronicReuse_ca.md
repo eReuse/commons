@@ -14,20 +14,23 @@ Llicència eReuse.org, Versió 0.1, 19 de maig 2016
 
 ### II. Definicions i consideracions.
 
-1. El "Circular Commons for Digital Devices ("CCDD")" (**procomú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret digital i ambiental d'explotar un recurs per a l'alfabetització digital de les persones i per evitar el reciclatge prematur dels recursos, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
+1. El "Circular Commons for Digital Devices ("CCDD")" (**procomú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret digital i ambiental d'explotar un recurs per a l'alfabetització digital de les persones i per evitar el reciclatge prematur dels dispositius digitals, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
 
-2. El procomú és una federació mundial descentralitzada de grups locals, organitzacions i comunitats que conformen un ecosistema que promou un model de **producció/consum durable i circular** dels dispositius digitals, i el procomú esta creat, compartit i gestionat de manera col·lectiva per usuaris que han acceptat la **llicència** eReuse.org.
+2. El procomú és una federació mundial descentralitzada de grups, organitzacions i comunitats que conformen un ecosistema que promou un model de **producció/consum durable i circular** de dispositius digitals, i on el procomú esta creat, compartit i gestionat de manera col·lectiva per usuaris que han acceptat la **llicència** eReuse.org.
 
-3. El **sistema de recursos (RS)** del procomú és defineix com un conjunt de (**dispositius digitals**) i de (**circuits**), un circuit es defineix com les dades, eines, procediments, serveis i models de negoci, que permeten als dispositius digitals "seguir en vida" de manera indefinida i que de forma segura se'n realitza la seva traçabilitat fins al reciclatge.
+3. El **sistema de recursos (RS)** del procomú és defineix com un conjunt de (**dispositius digitals**) i de (**circuits**), un circuit es defineix com les dades, eines, procediments, serveis i models de negoci, que permeten als dispositius digitals "seguir en vida" de manera indefinida i que de forma segura se'n fa la seva traçabilitat fins al reciclatge.
 
-4. Un dispositiu digital és durable i circular quan pot funcionar amb **programari lliure**, no té **obsolescència programada**, és viable la seva **reparació** i existeixen **recanvis**, és pot millorar/actualitzar amb **mòduls**, permet un **diagnostic** desatès, es poden **identificar** de manera única dels seus components per a possibilitar-ne la **traçabilitat**, i és fàcil de desmantellar i recuperar-ne (**reciclar**) les matèries primeres.  
+4. Un dispositiu digital és durable i circular quan pot funcionar amb **programari lliure**, és viable la seva **reparació** i existeixen **recanvis**, és pot millorar/actualitzar amb **mòduls**, permet un **diagnostic** desatès, es poden **identificar** de manera única dels seus components per a possibilitar-ne la **traçabilitat**, i és fàcil de desmantellar i se'n poden recuperar (**reciclar**) gran part les matèries primeres empleades en la fabricació.  
 
-5. El procomú considera que un recurs esdevé residu només quan no hi **demanda de reús**, aplicant així la llei de les 3 R, en que s'ha de *Reduir* sempre que sigui possible, *Reutilitzar* com a segona opció i *Reciclar* com a última, per això el procomú promou un model de producció i consum durable i circular via: 
+5. El procomú considera que un dispositius digital del circuit esdevé residu si es compleix que, en el cas que funcioni, ha deixat de ser útil per al seu posseïdor i no hi ha altres usuaris de proximitat que el vulguin, i en cas que no funcioni, és de díficil reparació pel poseïdor i no hi ha proveïdors disposats a fer la inversió neccessaria en accions de millora o restauració (**preparar-lo per a la reutilització**), d'aquesta manera cumplim la llei de les 3 R, en que s'ha de *Reduir* sempre que sigui possible, *Reutilitzar* com a segona opció i *Reciclar* com a última, 
 
- * a) l'adquisició dels productes de major durabilitat, 
- * b) la reparació dels dispositius digitals sempre que sigui raonablement possible,
- * c) la nous usuaris que en vulguin continuar fent un ús, 
- * d) la traçabilitat per a facilitar-ne el reciclatge final.
+6. El procomú promou un model de producció i consum durable i circular via: 
+
+ * a) l'adquisició pel circuit dels dispositius de major durabilitat, 
+ * b) la millora i reparació dels dispositius digitals sempre que sigui raonablement possible,
+ * c) la cerca de nous usuaris que en vulguin continuar fent un ús,
+ * d) l'explotació continuada via l'oferiment als proveïdors de preparació per a la reutilització,
+ * e) la traçabilitat per a facilitar-ne el reciclatge final.
 
 6. El procomú és un acord d'adhesió als circuits i a l'explotació del sistema de recursos entre iguals de cada participant amb el conjunt de ereuse.org i que és comú per a tothom que en forma part. L'acord fa alhora les funcions de contracte d'adhesió i de llicència d'ús del sistema de recursos, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom.
 
