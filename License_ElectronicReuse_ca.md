@@ -14,7 +14,7 @@ Llicència eReuse.org, Versió 0.2, 29 de maig 2016
 
 ### II. Definicions i consideracions.
 
-1. El "Circular Commons for Digital Devices ("CCDD")" (**procomú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret digital i ambiental d'explotar un recurs per a l'alfabetització digital de les persones i per evitar el reciclatge prematur dels dispositius digitals, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
+1. El "Circular Commons for Digital Devices ("CCDD")" (**procomú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret digital i ambiental d'explotar un recurs per evitar el reciclatge en favor de l'alfabetització digital de les persones, la creació de treball i de la reducció de residus contaminants i de dificil reciclatge, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
 
 2. El procomú és una federació mundial descentralitzada de grups, organitzacions i comunitats que conformen un ecosistema que promou un model de **producció/consum durable i circular** de dispositius digitals, i on el procomú esta creat, compartit i gestionat de manera col·lectiva per usuaris que han acceptat la **llicència** eReuse.org.
 
