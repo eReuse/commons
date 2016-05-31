@@ -62,7 +62,7 @@ Llicència eReuse.org, Versió 0.2, 29 de maig 2016
   * d) El de recicladors. **TODO**
 
 
-## Calaix de sac ##
+## Calaix de sastre ##
    c.1 Els receptors allarguin el temps de vida útil del maquinari, i arribat el punt que el maquinari els hi quedi obsolet (i no hi hagi més demanda de reus en la proximitat del receptor), el portin a en un punt autoritzat de reciclatge.
    
    c.2 Els proveïdors prioritzin la preparació per a la reutilització al reciclatge i cerquin acords de cooperació per a tractar de donar sortida al maquinari preparat, evitant així el seu reciclatge per falta de demanda. 
