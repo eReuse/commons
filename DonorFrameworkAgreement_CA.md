@@ -37,7 +37,7 @@ e. Certificats i albarà de lliurament.
 
 5. En compliment de la voluntat del cedent i del Reial Decret 110/2015 de gestió de residus d'Aparells Elèctrics i Electrònics, la totalitat del maquinari considerat *per a reciclar*, es dóna a proveïdors autoritzats per l'Agència de Residus de Catalunya o autoritats competents.
 
-6. El cessionari, els proveïdors i els receptors subscriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/license_commons_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
+6. El cessionari, els proveïdors i els receptors subscriuen tots els punts de la **llicència** [ELECTRONIC REUSE COMMONS] (https://github.com/eReuse/commons/blob/master/License_ElectronicReuse_ca.md), que de manera irrevocable compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el depositarà a un punt verd autoritzat.
 
 ## Termes acordats
 ### A. Assignació
