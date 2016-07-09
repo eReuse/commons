@@ -4,17 +4,17 @@ Llicència eReuse.org, Versió 0.2, 29 de maig 2016
 
 ### I. Resum i principis fonamentals.
 
-1. Ets lliure d'utilitzar el procomú per qualsevol propòsit en tant que no perjudiquis el seu funcionament, la llibertat dels altres usuaris, i respectis les condicions d'ús dels seus recursos.
+1. Ets lliure d'utilitzar el circuit comú per qualsevol propòsit en tant que no perjudiquis el seu funcionament, la llibertat dels altres usuaris, i respectis les condicions d'ús dels seus recursos.
 
-2. Ets lliure de saber com és el procomú, els seus recursos, com funciona i difondre'n el seu esperit i funcionament.
+2. Ets lliure de saber com és el circuit comú, els seus recursos, com funciona i difondre'n el seu esperit i funcionament.
 
-3. Ets lliure d'incorporar recursos al procomú amb les condicions que vulguis.
+3. Ets lliure d'incorporar recursos al el circuit comú amb les condicions que vulguis.
 
-4. Incorporant-te al procomú, ajudes a estendre aquestes llibertats en les mateixes condicions.
+4. Incorporant-te al circuit comú, ajudes a estendre aquestes llibertats en les mateixes condicions.
 
 ### II. Definicions i consideracions.
 
-1. El "Circular Commons for Digital Devices ("CCDD")" (**procomú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, a través del dret digital i ambiental d'explotar un recurs per evitar el reciclatge en favor de l'alfabetització digital de les persones, la creació de treball i de la reducció de residus contaminants i de dificil reciclatge, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
+1. El "Circular Commons for Digital Devices ("CCDD")" (**Circuit Comú**) és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la circularitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, que promou el dret digital de tota persona a la seva alfabetització tecnològica, i el dret ambiental i laboral d'explotar un recurs per evitar-ne el seu reciclatge prematur, en favor de la creació de treball, la transferència del coneixement i l'us responsable dels recursos, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la interpretació del CCDD.
 
 2. El procomú és una federació mundial descentralitzada de grups, organitzacions i comunitats que conformen un ecosistema que promou un model de **producció/consum durable i circular** de dispositius digitals, i on el procomú esta creat, compartit i gestionat de manera col·lectiva per usuaris que han acceptat la **llicència** eReuse.org.
 
