@@ -1,6 +1,7 @@
 Llicències:
 
 **(1) Llicència General de Circuit de Dispositius:**
+
 Entre actors d’un circuit i eReuse.org
 Defineix els principis de eReuse.org
 Defineix els circuits d’equips
