@@ -1,5 +1,7 @@
 Llicències:
 
+### Llicències Generals
+
 ####(1) Llicència General d'un Comú Circular de Dispositius:
 
 * Entre grups d'interès i eReuse.org
@@ -20,23 +22,30 @@ https://github.com/eReuse/commons/blob/master/License_Devices_ElectronicReuse_CA
 
 TODO.
 
-####(3) Llicència entre Cendent i gestor d'un Comú Circular de Dispositius – No Comercial
+### Llicències entre cendent i gestor d'un comú
+
+####(3) Llicència entre cendent i gestor d'un Comú Circular de Dispositius – No Comercial
+* Hereta d'1
 * Entre un cedent públic i el gestor d’un comú.
 
 TODO: Actualitzar amb la darrera versió en base als darrers acords.
 https://github.com/eReuse/commons/blob/master/DonorFrameworkAgreement_CA.md
 
-####(4) Llicència de Cendent amb Gestor d'un Comú Circular de Dispositius –
-*Entre un cedent privat i el gestor d’un comú.
+####(4) Llicència entre cendent i gestor d'un Comú Circular de Dispositius –
+* Hereda d'1
+* Entre un cedent privat i el gestor d’un comú.
 
-TODO a partir de 3.
+TODO:
+
+### Llicències entre gestor i un comú
 
 ####(5) Llicència entre gestor i un Comú Circular de Dispositius – adaptació per a un cedent públic
-*Entre un gestor d’un comú local i proveïdors, receptors.
-*Els actors hereten compromisos llicència 3.
-*És defineixen la tipologia d’actors a participar de circuit.
-*Es defineixen les quotes.
-*Hauria d'incloure clàusules heretades de 3, + llicència (1).
+* Hereta d'3.
+* Entre un gestor d’un comú local i proveïdors, receptors.
+* Els actors hereten compromisos llicència 3.
+* És defineixen la tipologia d’actors a participar de circuit.
+* Es defineixen les quotes.
+* Hauria d'incloure clàusules heretades de 3, + llicència (1).
 
 TODO: Sessió treball 14/07.
 https://github.com/eReuse/commons/blob/master/License_Devices_NonComercial_CA.md
