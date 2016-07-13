@@ -1,3 +1,7 @@
+Llicència General d'un Comú Circular de Dispositius
+====================================
+Llicència eReuse.org, Versió 0.3, 13 de juliol 2016
+
 ### I. Resum i principis fonamentals.
 
 1. Ets lliure d'utilitzar el comú per qualsevol propòsit en tant que no perjudiquis el seu funcionament, la llibertat dels altres usuaris, i respectis les condicions d'ús dels seus recursos.
