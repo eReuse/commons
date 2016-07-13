@@ -1,4 +1,6 @@
 
+Accés no discriminatori** - l’accés als dispositius per a proveïr-ne serveis o fer-ne ús no és discriminatori perquè el preu d'accés es determina fonamentalment en funció de costos i marges, però no amb el preu de mercat.    
+
 3. El Circuit ha d'assignar als proveïdors, receptors i 
 4. 
 5. **Quota maquinari**. El volum de maquinari que un proveïdor o un receptor poden absorvir depen de la quota que tinguin. En el cas dels proveïdors la quota es calcula en base a l'estructura operativa, i en el cas dels receptors la quota és en funció del nombre d'usuaris. En ambdos casos quota es revisable a l’alça/baixa en base als rendiments de circularitat i la reputació otorgada pels usuaris. 
