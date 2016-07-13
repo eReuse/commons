@@ -92,16 +92,19 @@ c. Els posseïdors dels dispositius han de **traçar el maquinari i components**
 
 ### Resolució de conflictes
 
-#### Quotes de serveis
-Els proveïdors tenen una quota de serveis en base als acords subscrits en una llicència derivada.
 
-#### Quotes de dispositius
-Els dispositius s’assignen als proveïdors i receptors en base a la voluntat del cedent definida en una llicència derivada.
+#### Quota dispositius.
+Els dispositius s’assignen als proveïdors i receptors en base a la voluntat del cedent definida en una llicència derivada. El volum de maquinari que un proveïdor o un receptor poden absorbir depén de la quota que tinguin. En ambdós casos quota es revisable a l’alça/baixa en base als rendiments de circularitat i la reputació atorgada pels usuaris. 
 
-#### Reputació
-
-Reputació dels proveïdors. La reputació es mesura en base a la contribució en dades, programari i processos, i a la resolució de no conformitats en quan a la traçabilitat, reutilització i reciclatge del maquinari.   
-Reputació de receptors.
+#### Quota de serveis
+Els proveïdors i els receptors tenen una quota de serveis en base als acords subscrits en una llicència derivada. A l'entorn del circuit existeixen múltiples formats de serveis per als dispositius en circulació, que són: inventariat, preparació per a al reutilització, reparació, actualització, redistribució, reutilització, manteniment, transport, reciclatge i altres. L'assignació de serveis es realitza en funció de la quota i la reputació.
+### Rendiment de circularitat. 
+a) El de fabricants / i refabricants. A definir en llicència derivada.
+b) El de preparadors per a la reutilització. A definir en llicència derivada.
+c) El d'usuaris. A definir en llicència derivada.
+d) El de recicladors. A definir en llicència derivada.
+### Reputació
+Reputació dels proveïdors. La reputació es mesura en base a la contribució en dades, programari i processos, i a la resolució de no conformitats en quan a la traçabilitat, reutilització i reciclatge del maquinari.   Els proveïdors i els receptors es comprometen a fer, tots els actes i coses per tal de que el compromís de traçabilitat, ús, i de recollida per al reciclatge. 
 
 ### Sobre la llicència "A Circular Commons for Digital Devices ("CCDD")"
 
@@ -122,4 +125,3 @@ Reputació de receptors.
   * a La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona eReuse.org, o en cas de que les participacions subsisteixin, per transmisió als nous titulars.
   
   * Per els procediment previst en l'apartat sobre la resolució de conflictes.
-
