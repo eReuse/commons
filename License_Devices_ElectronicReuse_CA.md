@@ -2,7 +2,7 @@ Llicència General d'un Comú Circular de Dispositius
 ====================================
 Llicència eReuse.org, Versió 0 Revisió 3, 13 de juliol 2016
 
-### I. Resum i principis fonamentals.
+## I. Resum i principis fonamentals.
 
 1. Ets lliure d'utilitzar el comú per qualsevol propòsit en tant que no perjudiquis el seu funcionament, la llibertat dels altres usuaris, i respectis les condicions d'ús dels seus recursos.
 
@@ -12,7 +12,7 @@ Llicència eReuse.org, Versió 0 Revisió 3, 13 de juliol 2016
 
 4. Incorporant-te al comú, ajudes a estendre aquestes llibertats en les mateixes condicions.
 
-### II. Definicions i consideracions.
+## II. Definicions i consideracions.
 
 1. Un Comú Circular de Dispositius Digitals o **circuit** és una expressió de valors fonamentals com la llibertat, la sostenibilitat, la circularitat, la igualtat d'oportunitats, la solidaritat i la fraternitat, que promou el dret de tota persona a la seva alfabetització digital, i el dret ambiental i laboral d'explotar un recurs per evitar-ne el seu reciclatge prematur, en favor d'un ús responsable dels recursos, i d'acord amb els principis generals, que es faran servir d'inspiració en cas d'haver de resoldre qualsevol dubte sobre la seva interpretació.
 
@@ -24,7 +24,7 @@ Llicència eReuse.org, Versió 0 Revisió 3, 13 de juliol 2016
 
 5. Un circuit és un acord d'adhesió i explotació que fa entre iguals, de cada participant amb el conjunt, i que és comú per a tothom que en forma part. El circuit va lligat a una llicència, i aquesta fa alhora les funcions de contracte d'adhesió i de llicència d'ús del sistema de recursos, esdevenint així una garantia per qui el subscriuen sobre quins son els termes i condicions aplicables i que son iguals per tothom.
 
-### III. Grups d'interès
+## III. Grups d'interès
 
 #### Cedents
 Individus o organitzacions disposats a transferir dispositius sota certes condicions (donació, venta, ...) determinats en una llicència derivada, i que estan interessats a conèixer l'estat dels dispositius que donen; si són tractats legalment, traçats, seguint les seves polítiques i finalment es reciclen.
@@ -41,14 +41,14 @@ Professionals o voluntaris que presten serveis per estendre el temps de vida del
 #### Administració pública
 Interessades en la gestió de les atribucions i obligacions específiques per regular la participació de la societat, vigilar els efectes ambientals i de protecció de dades, i la satisfacció de les seves pròpies necessitats en matèria de donació de dispositius digitals.
 
-### IV. Requeriments del circuit.
+## IV. Requeriments del circuit.
 
 1. Assegurar la reutilització i el reciclatge dels dispositius.
 2. Maximitzar la utilitat del dispositius.
 3. Transparència i qualitat de les dades.
 4. Generar inputs per a la circularitat.
 
-### V. Condicions d’ús del sistema de recursos
+## V. Condicions d’ús del sistema de recursos
 
 Tot usuari del circuit al que pertany acorda el compliment dels principis i consideracions d’interès públic, social i ambiental indicades en els punts anteriors i es reconeix amb capacitat legal necessària per a obligar-se en representació de les respectives entitats a les que pertanyen, la subscripció del present acord, que es regirà pels següents punts:
 
@@ -66,7 +66,7 @@ b) Els posseïdors dels dispositius han de tractar de mantenir-los en circulaci�
 
 c. Els posseïdors dels dispositius han de **traçar el maquinari i components** fent ús de les eines (lliures) i procediments (en obert) de Electronic Reuse amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús.
 
-##### Acords específics dels grups d'interès
+## Acords específics dels grups d'interès
 
 #### Cedents
 1. Oferir al gestor i als seus proveïdors d’un espai adequat on fer el diagnòstic, preparació i inventariat dels dispositius.
@@ -89,23 +89,21 @@ c. Els posseïdors dels dispositius han de **traçar el maquinari i components**
 #### Administració pública
 
 
-### Resolució de conflictes
+## Resolució de conflictes
 Presentem els principals aspectes que són generadors de conflictes entre els cedents, proveïdors i receptors del circuit. Definim un conjunt de criteris bàsics, que el circuit ha d'aplicar, i que en pot crear de nous que han de quedar recollits en una llicència derivada.
 
 1. En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació de la llicència, tothom es pot dirigir al gestor del circuit perquè ho resolgui. La petició es formalitza a través d'un correu dirigit al responsable del circuit (publicat a eReuse.org), especificant-ho clarament a l'assumpte (per exemple "Consulta / Conflicte sobre el circuit en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor. Un cop el gestor ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
 
-⋅⋅1. Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
-⋅⋅2. Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió. Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el  cas, s'haurà d'inhibir. Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell. 
+* a. Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
+* b. Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió. Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el  cas, s'haurà d'inhibir. Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell. 
 * c. Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
-d. Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
+* d. Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
 
-Les resolucions hauran d'orientar-se a aplicar l'esperit del Comuns de la XOLN, i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
-    En casos extrems, es pot resoldre la suspensió l'acord del Comuns de la XOLN amb un particpant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat "Sobre la titularitat i els participants". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via els Tribunals competents.
-    A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
-    La Fundació s'ha constituit segons la Llei de Fundacions 4/2008 de Catalunya. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació del Comuns de la XOLN és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
+2. Les resolucions hauran d'orientar-se a aplicar l'esperit de la Llicència General d'un Comú, i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+3. En casos extrems, es pot resoldre la suspensió l'acord de llicència amb un participant, deixant-lo sense efectes, i podrà recuperar la inversió realitzada en els dispositius en circulació en funció del que es preveu en l'apartat "Sobre la titularitat i els participants TODO". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via els Tribunals competents. 
+4. A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
-
-
+## Sobre la gestió del circuit, quotes, serveis, reputació i rendiment.
 #### Quota dispositius.
 Els dispositius s’assignen als proveïdors i receptors en base a la voluntat del cedent, el volum tractable, els rendiments de circularitat i la reputació otorgada pels altres usuaris. La quota es revisable de manera transparent pels gestors i es poden incorporar altres criteris i mecanismes que es definiran en una llicència derivada.   
 
