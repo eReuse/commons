@@ -2,15 +2,15 @@ Llicències:
 
 ####(1) Llicència General d'un Comú Circular de Dispositius:
 
+* Entre grups d'interès i eReuse.org
 * Resum i principis fonamentals.
 * Definicions i consideracions.
 * Grups d'interès
-* Defineix els comú d’equips.
-* Manifest i pacte entre els grups d'interès i un comú.
+* Manifest i pacte entre els grups d'interès i el comú.
 * Acords específics entre els grups d'interès.
 
-TODO: En treball.
-* Els accepten al llicència General de dades
+TODO:
+* Incloure compromís acceptació Llicència General de dades.
 https://github.com/eReuse/commons/blob/master/License_Devices_ElectronicReuse_CA.md
 
 ####(2) Llicència General de Dades
@@ -20,18 +20,18 @@ https://github.com/eReuse/commons/blob/master/License_Devices_ElectronicReuse_CA
 
 TODO.
 
-####(3) Llicència de Gestor de Circuit de Dispositius – No Comercial
-* Entre un cedent públic i el gestor d’un comú local.
+####(3) Llicència entre Cendent i gestor d'un Comú Circular de Dispositius – No Comercial
+* Entre un cedent públic i el gestor d’un comú.
 
 TODO: Actualitzar amb la darrera versió en base als darrers acords.
 https://github.com/eReuse/commons/blob/master/DonorFrameworkAgreement_CA.md
 
-####(4) Llicència de Gestor de Circuit de Dispositius – Comercial
-*Entre un cedent privat i el gestor d’un comú local.
+####(4) Llicència de Cendent amb Gestor d'un Comú Circular de Dispositius –
+*Entre un cedent privat i el gestor d’un comú.
 
 TODO a partir de 3.
 
-####(5) Llicència Particular de Circuit de Dispositius – adaptació per a un cedent públic
+####(5) Llicència entre gestor i un Comú Circular de Dispositius – adaptació per a un cedent públic
 *Entre un gestor d’un comú local i proveïdors, receptors.
 *Els actors hereten compromisos llicència 3.
 *És defineixen la tipologia d’actors a participar de circuit.
