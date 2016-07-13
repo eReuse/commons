@@ -1,6 +1,6 @@
 Llicència General d'un Comú Circular de Dispositius
 ====================================
-Llicència eReuse.org, Versió 0.3, 13 de juliol 2016
+Llicència eReuse.org, Versió 0 Revisió 3, 13 de juliol 2016
 
 ### I. Resum i principis fonamentals.
 
@@ -92,6 +92,19 @@ c. Els posseïdors dels dispositius han de **traçar el maquinari i components**
 ### Resolució de conflictes
 Presentem els principals aspectes que són generadors de conflictes entre els cedents, proveïdors i receptors del circuit. Definim un conjunt de criteris bàsics, que el circuit ha d'aplicar, i que en pot crear de nous que han de quedar recollits en una llicència derivada.
 
+1. En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació de la llicència, tothom es pot dirigir al gestor del circuit perquè ho resolgui. La petició es formalitza a través d'un correu dirigit al responsable del circuit (publicat a eReuse.org), especificant-ho clarament a l'assumpte (per exemple "Consulta / Conflicte sobre el circuit en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor. Un cop el gestor ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
+
+.. 1. Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
+.. 2. Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió. Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el  cas, s'haurà d'inhibir. Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell. 
+* c. Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
+d. Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
+
+Les resolucions hauran d'orientar-se a aplicar l'esperit del Comuns de la XOLN, i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+    En casos extrems, es pot resoldre la suspensió l'acord del Comuns de la XOLN amb un particpant, deixant-lo sense efectes, i podrà recuperar les infraestructures de la seva titularitat en funció del que es preveu en l'apartat "Sobre la titularitat i els participants". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via els Tribunals competents.
+    A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
+    La Fundació s'ha constituit segons la Llei de Fundacions 4/2008 de Catalunya. A efectes legals i en cas de conflicte, si les parts no acorden una altra cosa, la jurisdicció aplicable per a la Fundació i per a la interpretació del Comuns de la XOLN és la que correspongui del Tribunal competent a Barcelona segons la legislació vigent a Catalunya.
+
+
 
 #### Quota dispositius.
 Els dispositius s’assignen als proveïdors i receptors en base a la voluntat del cedent, el volum tractable, els rendiments de circularitat i la reputació otorgada pels altres usuaris. La quota es revisable de manera transparent pels gestors i es poden incorporar altres criteris i mecanismes que es definiran en una llicència derivada.   
@@ -99,16 +112,18 @@ Els dispositius s’assignen als proveïdors i receptors en base a la voluntat d
 #### Oferta de serveis
 A l'entorn del circuit existeixen múltiples formats de serveis per als dispositius en circulació, que són: inventariat, preparació per a al reutilització, reparació, actualització, redistribució, reutilització, manteniment, transport, reciclatge i altres. Els proveïdors poden ser contractats directament i els gestors els han de promocionar equitativament entre els usuaris del circuït. La informació dels serveis oferts, la quota, rendiments de circularitat i reputació dels usuaris hauria de ser visible als usuaris del circuit. 
 
-### Rendiment de circularitat. 
+#### Reputació
+Reputació dels proveïdors. La reputació es mesura en base a la contribució en dades, programari i processos, la puntuació rebuda pels usuaris als que donen servei, i a la resolució de no conformitats en quan a la traçabilitat, reutilització i reciclatge del maquinari.  Els proveïdors i els receptors es comprometen a fer, tots els actes i coses per tal de que el compromís de traçabilitat, ús, i de recollida per al reciclatge. El indicador en traçabilitat es mesura a nivell de components i és el càlcul és components traçats / components rebuts.
 
-a) El de fabricants / i refabricants. A definir en llicència derivada.
-b) El de preparadors per a la reutilització. A definir en llicència derivada.
-c) El d'usuaris. A definir en llicència derivada.
-d) El de recicladors. A definir en llicència derivada.
-### Reputació
-Reputació dels proveïdors. La reputació es mesura en base a la contribució en dades, programari i processos, i a la resolució de no conformitats en quan a la traçabilitat, reutilització i reciclatge del maquinari.   Els proveïdors i els receptors es comprometen a fer, tots els actes i coses per tal de que el compromís de traçabilitat, ús, i de recollida per al reciclatge. 
+#### Rendiment de circularitat. 
 
-### Sobre la llicència "A Circular Commons for Digital Devices ("CCDD")"
+a) El de fabricants / i refabricants. Dispositius refabricats / Dispositius rebuts 
+b) El de preparadors per a la reutilització. Dispositius preparats / Dispositius rebuts
+c) El de manteniment. Dispositius reemplaçats / Dispositius rebuts.
+d) Els distribuÏdors. Dispositius distribuïts / Dispositius gestionats. 
+e) El de recicladors. Relació processat i dispositius rebuts. A definir en llicència derivada.
+
+### Sobre la Llicència General d'un Comú Circular de Dispositius
 
 1. Gestació, interpretació i revisió del text. Una activitat innovadora com la que es realitza a eReuse.org exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expresant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
@@ -116,7 +131,7 @@ Reputació dels proveïdors. La reputació es mesura en base a la contribució e
 
 * b. Quan en una revisió s'exten a noves situacions que abans no existien, com per exemple les derivades d'algun tipus d'ampliació  o d'actualització tecnològica, s'entén que implicitament es renova l'acceptació segons la revisió vigent del moment en que es produeix l'actualització o ampliació.
 
-* c. Totes les revisions del "Circular and Reuse Commons ("CIRC")" es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
+* c. Totes les revisions es guarden i es publiquen de manera que permet conèixer el seu redactat en el temps, per tant quina era la revisió vigent en el moment en que es produeix una acceptació i si cal, es pot fer servir de referència en cas de que existeixi un conflicte d'interpretació.
 
 * d. Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt II.1.a, ho pot manifestar segons el que es preveu en l'apartat "Sobre la resolució de conflictes".
 
