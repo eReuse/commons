@@ -124,11 +124,11 @@ El indicador de traçabilitat. components traçats / components rebuts.
 
 Altres indicadors específics per grup d'interès:
 
-a) Fabricants / i refabricants. Dispositius refabricats / Dispositius rebuts
-b) Preparadors per a la reutilització. Dispositius preparats / Dispositius rebuts
-c) Manteniment. Dispositius reemplaçats / Dispositius rebuts.
-d) DistribuÏdors. Dispositius distribuïts / Dispositius gestionats. 
-e) **TODO** Recicladors. Relació processat i dispositius rebuts. 
+* Fabricants / i refabricants. Dispositius refabricats / Dispositius rebuts
+* Preparadors per a la reutilització. Dispositius preparats / Dispositius rebuts
+* Manteniment. Dispositius reemplaçats / Dispositius rebuts.
+* DistribuÏdors. Dispositius distribuïts / Dispositius gestionats. 
+* **TODO** Recicladors. Relació processat i dispositius rebuts. 
 
 ## Resolució de conflictes
 Presentem els principals aspectes que són generadors de conflictes entre els cedents, proveïdors i receptors del circuit. Definim un conjunt de criteris bàsics, que el circuit ha d'aplicar, i que en pot crear de nous que han de quedar recollits en una llicència derivada.
@@ -136,12 +136,17 @@ Presentem els principals aspectes que són generadors de conflictes entre els ce
 1. En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació de la llicència, tothom es pot dirigir al gestor del circuit perquè ho resolgui. La petició es formalitza a través d'un correu dirigit al responsable del circuit (publicat a eReuse.org), especificant-ho clarament a l'assumpte (per exemple "Consulta / Conflicte sobre el circuit en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor. Un cop el gestor ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
 
 * a. Decidir si la qüestió és prou fonamentada per cursar-la o arxivar-la. En cas d'arxivar-se, finalitza el procediment.
+
 * b. Decidir si es fa càrrec de resoldre la qüestió directament, o bé nomena una comissió específica amb el mandat de resoldre la qüestió. Ningú que sigui part en un conflicte pot formar part dels qui han de prendre una resolució, si fos el  cas, s'haurà d'inhibir. Els encarregats de deliberar i resoldre una qüestió prendran les decisions per votació, i per evitar l'empat, estarà format per un nombre imparell. 
+
 * c. Decidir si la documentació aportada és suficient o si cal obrir un període públic informatiu per recollir més dades. En el cas de que la qüestió afecti a tercers el període informatiu públic és obligatori per tal de permetre a tothom expressar la seva versió o opinió sobre la qüestió a analitzar.
+
 * d. Un cop finalitzat el procés informatiu, el Patronat o la Comissió haurà de debatre i finalment, resoldre.
 
 2. Les resolucions hauran d'orientar-se a aplicar l'esperit de la Llicència General d'un Comú, i en cas de que es constati un conflicte o una situació d'incompliment, servir d'arbitratge i proposar solucions per esmenar la situació que s'hagi pogut crear.
+
 3. En casos extrems, es pot resoldre la suspensió l'acord de llicència amb un participant, deixant-lo sense efectes, i podrà recuperar la inversió realitzada en els dispositius en circulació en funció del que es preveu en l'apartat "Sobre la titularitat i els participants **TODO**". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via els Tribunals competents. 
+
 4. A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
 ### Sobre la Llicència General d'un Comú Circular de Dispositius
