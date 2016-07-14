@@ -58,23 +58,23 @@ Als cedents se’ls hi ha de garantir la reutilització, la traçabilitat i el r
 
 ### Condicions d'ús general del sistema de recursos
 
-a) El sistema de recursos s’ha de preservar, sostenir i millorar:
-1. Els dispositius del circuit amb un baix índex de circularitat poden no compensar els costos per el que és convenient minimitzar l'entrada al circuit.
-2. Les dades que fan referència a la circularitat dels dispositius han de ser fiables (generar confiança), fàcilment consultables desde l'origen, han de compartir-se entre els proveïdors i es valora positivament que s'ofereixin en un format obert i intercanviable cap a d'altres circuits i eReuse.org.
-3. Les eines software preferiblement han de ser en programari lliure, no crear dependències, tenir formats d'intercanvi en obert, i se'n ha de promoure la seva millora i aprenentatge.
-4. Els procediments i certificats emprats pels proveïdors han d'homogeneitzar-se, estandaritzar-se i han de generar dades i poder ser monitoritzats per permetren la seva millora continuada.
-5. Els sistemes d'informació han d’integrar-se i s'ha de respectar la privacitat de les persones participants. 
-6. Les llicències han de ser respectades i se'n poden fer obres derivades.
+1. El sistema de recursos s’ha de preservar, sostenir i millorar:
+* a. Els dispositius del circuit amb un baix índex de circularitat poden no compensar els costos per el que és convenient minimitzar l'entrada al circuit.
+* b. Les dades que fan referència a la circularitat dels dispositius han de ser fiables (generar confiança), fàcilment consultables desde l'origen, han de compartir-se entre els proveïdors i es valora positivament que s'ofereixin en un format obert i intercanviable cap a d'altres circuits i eReuse.org.
+* c. Les eines software preferiblement han de ser en programari lliure, no crear dependències, tenir formats d'intercanvi en obert, i se'n ha de promoure la seva millora i aprenentatge.
+* d. Els procediments i certificats emprats pels proveïdors han d'homogeneitzar-se, estandaritzar-se i han de generar dades i poder ser monitoritzats per permetren la seva millora continuada.
+* e. Els sistemes d'informació han d’integrar-se i s'ha de respectar la privacitat de les persones participants. 
+* f. Les llicències han de ser respectades i se'n poden fer obres derivades.
 
-b) El posseïdor actual d'un dispositiu del circuit ha de tractar de:
-1. Mantenir-los en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
-2. Ha de traçar-los (també els seus components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús.
-2. Si se'n vol despendre, ha de facilitar que torni al circuit (o d'altres circuits si es permet en la llicència) esdevenint així donant. 
-3. Si no hi ha demanda en el circuit s'ha de portar a un punt verd de les autoritats competents.
+2. El posseïdor actual d'un dispositiu del circuit ha de tractar de:
+* a. Mantenir-los en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
+* b. Ha de traçar-los (també els seus components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús.
+* c. Si se'n vol despendre, ha de facilitar que torni al circuit (o d'altres circuits si es permet en la llicència) esdevenint així donant.
+* d. Si no hi ha demanda en el circuit s'ha de portar a un punt verd de les autoritats competents.
 
 ## Condicions d'ús específiques dels grups d'interès
 
-Aquestes condicions s'afegueixen a les genrals i si se'n poden crear de noves en llicències derivades de l'actual.
+Aquestes condicions s'afegueixen a les generals i si se'n poden crear noves en llicències derivades de l'actual.
 
 #### Cedents
 1. Tractar de facilitar al gestor i als seus proveïdors un espai adequat on fer el diagnòstic, preparació i inventariat dels dispositius doncs permet als proveïdors optimitzar el procés i als cedents donar directament els dispositius directament reutilitzables.
