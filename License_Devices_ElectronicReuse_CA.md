@@ -73,9 +73,13 @@ El sistema de recursos s’ha de preservar, sostenir i millorar:
 6. Les llicències han de ser respectades i se'n poden fer obres derivades.
 
 7. El posseïdor actual d'un dispositiu del circuit ha de tractar de: 
+
 * a. Mantenir-los en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
+
 * b. Ha de traçar-los (també els seus components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús, 
+
 * c. Si se'n vol despendre, ha de facilitar que torni al circuit (o d'altres circuits si es permet en la llicència) esdevenint així donant. 
+
 * d. Si no hi ha demanda en el circuit s'ha de portar a un punt verd de les autoritats competents.
 
 ## Condicions d'ús específiques dels grups d'interès
