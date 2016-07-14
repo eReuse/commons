@@ -35,7 +35,7 @@ Individus o organitzacions disposats a transferir dispositius sota certes condic
 Individus o entitats que fan reús dels dispositius digitals.
 
 #### Gestors i voluntaris
-Entitats que gestionen el circuit seguint els principis fonamentals i les consideracions anteriorment presentades. Els seus individus normalment són investigadors, professorat, advocats, analistes, auditors i col·laboradors voluntaris, preocupats per la sostenibilitat del medi ambient, la gestió del sistema de recursos, la reducció de la fractura digital, el desenvolupament de programari, l'economia circular, el reciclatge, la protecció dels drets dels consumidors, la protecció dels drets del ciutadà, o la protecció del medi ambient. Participen en la gestió transparent per a l’assignació dels dispositius i serveis als usuaris, el monitoratge dels circuits, la promoció de nous circuits, la creació i revisió de llicències, l'explotació de dades i la generació de coneixement.
+Entitats que gestionen el circuit i els seus individus o col·lectius normalment són investigadors, professorat, advocats, analistes, auditors i col·laboradors voluntaris, preocupats per la sostenibilitat del medi ambient, la gestió del sistema de recursos, la reducció de la fractura digital, el desenvolupament de programari, l'economia circular, el reciclatge, la protecció dels drets dels consumidors, la protecció dels drets del ciutadà, o la protecció del medi ambient. Participen en la gestió transparent per a l’assignació dels dispositius i serveis als usuaris, el monitoratge dels circuits, la promoció de nous circuits, la creació i revisió de llicències, l'explotació de dades i la generació de coneixement.
 
 #### Proveïdors
 Professionals o voluntaris que presten serveis per estendre el temps de vida dels dispositius i garantir-ne el seu reciclatge final. Els formen els reparadors, preparadors per a la reutilització, gestors de residus i reciclatge, fabricants (refabricants), distribuïdors (plataformes socials, comerços,...), transportistes, mantenidors, entitats que ofereixen garanties, etc...
@@ -59,7 +59,6 @@ Als cedents se’ls hi ha de garantir la reutilització, la traçabilitat i el r
 ### Condicions d'ús general del sistema de recursos
 
 a) El sistema de recursos s’ha de preservar, sostenir i millorar:
-
 1. Els dispositius del circuit amb un baix índex de circularitat poden no compensar els costos per el que és convenient minimitzar l'entrada al circuit.
 2. Les dades que fan referència a la circularitat dels dispositius han de ser fiables (generar confiança), fàcilment consultables desde l'origen, han de compartir-se entre els proveïdors i es valora positivament que s'ofereixin en un format obert i intercanviable cap a d'altres circuits i eReuse.org.
 3. Les eines software preferiblement han de ser en programari lliure, no crear dependències, tenir formats d'intercanvi en obert, i se'n ha de promoure la seva millora i aprenentatge.
@@ -67,26 +66,30 @@ a) El sistema de recursos s’ha de preservar, sostenir i millorar:
 5. Els sistemes d'informació han d’integrar-se i s'ha de respectar la privacitat de les persones participants. 
 6. Les llicències han de ser respectades i se'n poden fer obres derivades.
 
-b) El posseïdor actual d'un dispositiu del circuit ha de tractar de mantenir-los en circulació i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. Un cop el posseïdor se'n vol despendre, ha de facilitar que torni al circuit esdevenint un donant, i adreçant-se al circuit (o d'altres circuits si es permet en la llicència, i en cas que no hi hagi demanda, ha de portar-lo preferiblement a un punt verd del circuit, i en cas de no ternir-ne un de proximitat, s'ha de portar a un punt verd de les autoritats competents.
+b) El posseïdor actual d'un dispositiu del circuit ha de tractar de:
+1. Mantenir-los en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
+2. Ha de traçar-los (també els seus components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús.
+2. Si se'n vol despendre, ha de facilitar que torni al circuit (o d'altres circuits si es permet en la llicència) esdevenint així donant. 
+3. Si no hi ha demanda en el circuit s'ha de portar a un punt verd de les autoritats competents.
 
-c. Els posseïdors dels dispositius han de traçar els dispositius i components fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne el seu reús.
+## Condicions d'ús específiques dels grups d'interès
 
-## VI. Acords específics dels grups d'interès
-
-Aquesta és una proposta de mínims que permet preservar, sostenir i millorar el sistema de recursos del comú i si es vol nous acords poden definir-se en llicències derivades.
+Aquestes condicions s'afegueixen a les genrals i si se'n poden crear de noves en llicències derivades de l'actual.
 
 #### Cedents
-1. Oferir al gestor i als seus proveïdors un espai adequat on fer el diagnòstic, preparació i inventariat dels dispositius doncs permet als proveïdors optimitzar el procés i als cedents donar directament els dispositius directament reutilitzables.
-2. Notificar al gestor amb suficient antelació d'una cessió de béns doncs permet planificar i identificar la demanda reduïnt els temps de estock.  
-3. Permetre als proveïdors tenir emmagatzemats els dispositius preparats per a la reutilització als seus magatzems doncs evita un transport inecessari dels dispositius fins a les instal·lacions del proveïdor i dóna garanties al cedent de la seva reutilització. 
+1. Tractar de facilitar al gestor i als seus proveïdors un espai adequat on fer el diagnòstic, preparació i inventariat dels dispositius doncs permet als proveïdors optimitzar el procés i als cedents donar directament els dispositius directament reutilitzables.
+2. Tractar de notificar al gestor amb suficient antelació d'una cessió de béns doncs permet planificar i identificar la demanda reduïnt els temps de estock.  
+3. Tractar d'oferir als proveïdors tenir emmagatzemats els dispositius preparats per a la reutilització als seus magatzems doncs evita un transport inecessari dels dispositius fins a les instal·lacions del proveïdor i dóna garanties al cedent de la seva reutilització. 
 
 #### Receptors
 1. Notificar al gestor de la ubicació geogràfica dels dispositius (nomes a nivell de ciutat).
 2. Notificar al gestor amb un més d'antelació abans de despendres dels dispositius (i components), notificar les causes i en cas que el gestor ho consideri fer novament la seva cessió als proveïdors o receptors que proposi el gestor, sempre que sigui reaonablement possible. 
-3. Contractar els serveis dels proveïdors del circuit o en cas d'impossibilitat (també per preu), promouran la incorporació de nous proveïdors sota les condicions de llicència del circuit.
+3. Sol·licitar els serveis als proveïdors del circuit o en cas d'impossibilitat (també per preu), promouran la incorporació de nous proveïdors sota les condicions de llicència del circuit.
 
 #### Gestors.
-1. Notificar els dispositius que gestionen i la ubicació geogràfica a nivell de ciutat.
+1. Notificar a eReuse.org el circuit que es crea, els seus responsables, la llicència i acceptar la llicència de dades o una de derivada (creada o pròpia).
+2. Fer una gestió del circuit seguint els principis fonamentals i les consideracions anteriorment presentades i vetllar pel compliment de les condicions d'ús generals i específiques. 
+
 
 #### Proveïdors
 1. Els proveïdors de preparació per a la reutilització i de reciclatge han de donar-se d'alta al sistema DCP.
@@ -95,11 +98,11 @@ Aquesta és una proposta de mínims que permet preservar, sostenir i millorar el
 
 #### Administració pública
 
-## VIII. Sobre la gestió del circuit, quotes, serveis, reputació i rendiment.
-#### Quota dispositius.
-Els dispositius s’assignen als proveïdors i receptors en base a la voluntat del cedent, el volum tractable, els rendiments de circularitat i la reputació otorgada pels altres usuaris. La quota es revisable de manera transparent pels gestors i es poden incorporar altres criteris i mecanismes.
+## Sobre la gestió del circuit, quotes, promoció, reputació i rendiment.
+#### Quota de dispositius per proveïdor.
+El gestor assigna els dispositius als proveïdors i receptors en base a la voluntat del cedent, el volum tractable, els rendiments de circularitat i la reputació otorgada pels altres usuaris. La quota es revisable de manera transparent pels gestors i es poden incorporar altres criteris i mecanismes.
 
-#### Oferta de serveis
+#### Promoció dels proveïdors
 A l'entorn del circuit existeixen múltiples formats de serveis per als dispositius en circulació, que són: inventariat, preparació per a al reutilització, reparació, actualització, redistribució, reutilització, manteniment, transport, reciclatge i altres. Els proveïdors poden ser contractats directament i els gestors els han de promocionar equitativament entre els usuaris del circuït. La informació dels serveis oferts, la quota, rendiments de circularitat i reputació dels usuaris hauria de ser visible als usuaris del circuit. 
 
 #### Reputació
@@ -117,7 +120,7 @@ c) Manteniment. Dispositius reemplaçats / Dispositius rebuts.
 d) DistribuÏdors. Dispositius distribuïts / Dispositius gestionats. 
 e) **TODO** Recicladors. Relació processat i dispositius rebuts. 
 
-## IX. Resolució de conflictes
+## Resolució de conflictes
 Presentem els principals aspectes que són generadors de conflictes entre els cedents, proveïdors i receptors del circuit. Definim un conjunt de criteris bàsics, que el circuit ha d'aplicar, i que en pot crear de nous que han de quedar recollits en una llicència derivada.
 
 1. En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació de la llicència, tothom es pot dirigir al gestor del circuit perquè ho resolgui. La petició es formalitza a través d'un correu dirigit al responsable del circuit (publicat a eReuse.org), especificant-ho clarament a l'assumpte (per exemple "Consulta / Conflicte sobre el circuit en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i entenedor. Un cop el gestor ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
@@ -131,7 +134,7 @@ Presentem els principals aspectes que són generadors de conflictes entre els ce
 3. En casos extrems, es pot resoldre la suspensió l'acord de llicència amb un participant, deixant-lo sense efectes, i podrà recuperar la inversió realitzada en els dispositius en circulació en funció del que es preveu en l'apartat "Sobre la titularitat i els participants **TODO**". Per aquesta via no es poden resoldre penalitzacions o compensacions de tipus econòmic per danys o perjudicis i similars, si fos el cas s'haurà de fer via els Tribunals competents. 
 4. A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
-### X. Sobre la Llicència General d'un Comú Circular de Dispositius
+### Sobre la Llicència General d'un Comú Circular de Dispositius
 
 1. Gestació, interpretació i revisió del text. Una activitat innovadora com la que es realitza a eReuse.org exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expresant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
@@ -143,10 +146,10 @@ Presentem els principals aspectes que són generadors de conflictes entre els ce
 
 * d. Si algú creu que en alguna revisió posterior se li ha modificat un compromís adquirit i no hi ha donat el seu consentiment tal i com es diu el punt 1.a de l'apartat, ho pot manifestar segons el que es preveu en l'apartat "Sobre la resolució de conflictes".
 
-2.  El "CCDD" s'elabora i es revisa a través d'un debat públic entre els tots els qui participen al circuit.
+2.  El Circuit s'elabora i es revisa a través d'un debat públic entre els tots els qui participen al circuit.
 
-3. Finalització de l'acord. El CCDD es pot suspendre o finalitzar per:
+3. Finalització de l'acord. El Circuit es pot suspendre o finalitzar per:
 
-  * a La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions en les eines que proporciona eReuse.org, o en cas de que les participacions subsisteixin, per transmisió als nous titulars.
+  * a La voluntat de qui l'ha subscrit. La voluntat s'expressa directament donant-se de baixa les seves participacions al gestor del circuit i a eReuse.org, o en cas de que les participacions subsisteixin, per transmisió als nous titulars.
   
   * Per els procediment previst en l'apartat sobre la resolució de conflictes.
