@@ -28,7 +28,7 @@ Llicència eReuse.org, Versió 0 Revisió 4, 15 de juliol 2016
 
 Els grups d’interès són grups, col·lectius, organitzacions i individus que extreuen i creen valor amb la circularitat dels dispositius digitals, la mostra presentada és orientativa i se’n poden crear de nous.
 
-#### Cedents / Donants
+#### Cedents / Donants / 
 Individus o organitzacions disposats a transferir dispositius sota certes condicions, i que estan interessats a conèixer l'estat dels dispositius que donen; si són tractats legalment, traçats, reusats seguint les seves polítiques i si finalment es reciclen.
 
 #### Receptors
