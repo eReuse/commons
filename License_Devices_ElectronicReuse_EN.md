@@ -28,7 +28,7 @@ You are free to know how, resources, how it works, replicate it and spread the s
 
 Stakeholders are groups, collectives, organizations and individuals who create and extract value from the circularity of digital devices. *The following sample is indicative and it can be extended*.
 
-#### Assignor / Donors
+#### Assignor / Givers
 Individuals or organizations willing to transfer devices under certain conditions, and are interested in knowing the status of devices that they donate; if they are treated legally, traced, reused following their policies, and finally recycled.
 
 #### Receivers
@@ -79,7 +79,7 @@ The Resource System must be preserved, maintained and improved:
 
   2. Should draw them (including components) using the tools of the circuit in order to reduce its loss and facilitate their reuse.
 
-  3. If the possessor wants to rip it off, it needs to facilitate its return to the Circuit (or to other Circuits if the license allows it), becoming a donor.
+  3. If the possessor wants to rip it off, it needs to facilitate its return to the Circuit (or to other Circuits if the license allows it), becoming a giver.
 
   4. If there is no demand in the Circuit(s), it must be carried to a legal collection point.
 
