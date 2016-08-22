@@ -105,18 +105,17 @@ El Sistema de Recursos s’ha de preservar, sostenir i millorar:
 * d. Si no hi ha demanda en el Circuit(s), s'ha de portar a un punt verd legal.
 
 ## Condicions d'ús específiques dels grups d'interès
-
-Aquestes condicions s'afegeixen a les generals i se'n poden crear noves en llicències derivades de l'actual.
+*Aquestes condicions s'afegeixen a les generals i se'n poden crear noves en llicències derivades de l'actual*.
 
 #### Cedents
 1. Tractar de facilitar al gestor i als seus proveïdors un espai adequat on fer el diagnòstic, la preparació i l'inventariat dels dispositius; permet als proveïdors optimitzar el procés i als cedents donar directament els dispositius directament reutilitzables.
 2. Tractar de notificar al gestor amb suficient antelació d'una cessió de béns; permet planificar i identificar la demanda reduint els temps de *stock*.  
-3. Tractar d'oferir als proveïdors tenir emmagatzemats els dispositius preparats per la reutilització als seus magatzems; evita un transport innecessari dels dispositius fins a les instal·lacions del proveïdor i dóna garanties al cedent de la seva reutilització. 
+3. Intentar fer la transferència dels dispositius en el mateix magatzem del cedent, evitant moure els dispositius a magatzems temporals del proveïdor, reduïnt costos.
 
 #### Receptors
 1. Notificar al gestor de la ubicació geogràfica dels dispositius (només a nivell de ciutat).
-2. Notificar al gestor amb un més d'antelació abans de despendre's dels dispositius (i components), amb les causes de la disposició i, en cas que el gestor ho consideri, fer novament la seva cessió als proveïdors o receptors proposats pel gestor, sempre que sigui raonablement possible.
-3. Sol·licitar els serveis als proveïdors del circuit, o en cas d'impossibilitat (també per preu), promoure la incorporació de nous proveïdors sota les condicions de llicència del circuit.
+2. Notificar al gestor amb un més d'antelació abans de despendre's dels dispositius (i components), amb les causes de la disposició. En cas que el gestor ho consideri, el receptor haurà de cedir als proveïdors o receptors proposats pel gestor, sempre que sigui raonablement possible.
+3. Sol·licitar els serveis als proveïdors del Circuit. En cas d'impossibilitat (incloent monetària), promoure la incorporació de nous proveïdors al Circuit.
 
 #### Gestors
 1. Notificar a eReuse.org el circuit que es crea, els seus responsables, la llicència i acceptar la llicència de dades o una de derivada (creada o pròpia).

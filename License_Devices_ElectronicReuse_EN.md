@@ -73,37 +73,36 @@ The Resource System must be preserved, maintained and improved:
 
 6. The licenses have to be respected and they can be extended.
 
-7. The current possessor of a device from the Circuit has to try the following:<!--todo: approach better the translation to the original meaning-->
+7. The current possessor of a device from the Circuit has to try the following: <!--todo: approach better the translation to the original meaning-->
 
-* A. Keep it in use and avoid premature recycling, via reduction, repair and upgrade components.
+  1. Keep it in use and avoid premature recycling, via reduction, repair and upgrade components.
 
-* B. Should draw them (including components) using the tools of the circuit in order to reduce its loss and facilitate their reuse.
+  2. Should draw them (including components) using the tools of the circuit in order to reduce its loss and facilitate their reuse.
 
-* C. If the possessor wants to rip it off, it needs to facilitate its return to the Circuit (or to other Circuits if the license allows it), becoming a donor.
+  3. If the possessor wants to rip it off, it needs to facilitate its return to the Circuit (or to other Circuits if the license allows it), becoming a donor.
 
-* D. If there is no demand in the Circuit(s), it must be carried to a legal collection point.
+  4. If there is no demand in the Circuit(s), it must be carried to a legal collection point.
 
 ## Specific Terms of stakeholders
-
-These conditions extend the general ones, and they can be extended.
-<!--continuar traduint-->
+*These conditions extend the general ones, and they can be extended*.
 #### Assignor
-1. To try to provide the manager and its suppliers adequate space where to make the diagnosis, preparation and inventoried devices because it allows suppliers to optimize the process and give issuers directly reusable devices directly.
-2. To try to notify the manager in advance of a transfer of assets to plan and then identify the demand of Stock display while reducing time.
-3. To try to provide suppliers have stored the devices ready for reuse in its stores because avoids inecessari transport devices to the facilities of the supplier and warranties from the transferor reuse.
+1. To try to provide the manager and its suppliers adequate space where to make the diagnosis, preparation and inventory of devices; it allows suppliers to optimize the process and the assignors to directly give the devices that are direcly reusable (without upgrading, etc).
+2. To try to notify the manager in advance of a transfer of assets; it lets plan and identify the demand reducing the time in *stock*.
+3. To try to to complete the transfer in the same warehouse of the assignor, avoiding moving the devices to temporal warehouses of the provider, reducing costs.
 
-#### Recipients
-1. Notify the manager of the location of the device (only at the city level).
-2. Notify the manager a month before despendres of devices (and components), the causes and notify the manager if they decide to do once their assignment to suppliers or recipients to propose Manager whenever reaonablement possible.
-3. Request service providers in the event of circuit failure (also by price), promote the incorporation of new providers under the license conditions of the circuit.
+#### Receivers
+1. To notify the manager of the geolocation of the device (only at the city level).
+2. To notify the manager a month before the disposal of devices (and components), explaining the causes. If the manager decides so, the receiver will have to give the device to providers or other receivers, following the instructions of the manager.
+3. To request services to the providers of the Circuit. If it is not possible (considering price too), to promote the addition of new providers in the Circuit.
 
-#### Managers.
-1. Notify eReuse.org circuit is created, its leaders, accept the license and the license data or a derivative (or created itself).
-2. Make a loop management following the principles and considerations presented above and to ensure compliance with the general and specific conditions of use.
+#### Managers
+1. Notify eReuse.org when a circuit is created, its leaders, the license and the data license or a derivative one (or created itself).
+2. Manage the Circuit by following the fonamental principles and the presented considerations in this document, ensuring compliance with the general and specific conditions of use.
 
+<!--todo: continue translating-->
 
 #### Suppliers
-1. Suppliers of preparation for reuse and recycling should be a high DCP system.
+1. Suppliers of preparation for reuse and recycling need to sign in the DCP system.
 2. recycling vendors must notify the location of the receiving devices.
 3. Providers preparation for reuse should prioritize preparation for recycling, and try to give them out to criminals.
 
