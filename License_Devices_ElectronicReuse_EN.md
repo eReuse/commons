@@ -29,7 +29,7 @@ You are free to know how, resources, how it works, replicate it and spread the s
 Stakeholders are groups, collectives, organizations and individuals who create and extract value from the circularity of digital devices. *The following sample is indicative and it can be extended*.
 
 #### Assignor / Givers
-Individuals or organizations willing to transfer devices under certain conditions, and are interested in knowing the status of devices that they donate; if they are treated legally, traced, reused following their policies, and finally recycled.
+Individuals or organizations willing to transfer devices under certain conditions, and are interested in knowing the status of devices that they give; if they are treated legally, traced, reused following their policies, and finally recycled.
 
 #### Receivers
 Individuals or organizations that reuse digital devices.
@@ -49,7 +49,7 @@ All users of the Circuit to which it belongs agrees to comply with the principle
 
 ### Requirements
 
-1. Ensure the reuse and recycling of devices. Users need to ensure assignors the reuse, recycling and traceability; they need to respect assignor's policies (e.g. the selection of providers and receivers), and assignors have to know the state of the devices they donate, knowing if they are treated legally.
+1. Ensure the reuse and recycling of devices. Users need to ensure assignors the reuse, recycling and traceability; they need to respect assignor's policies (e.g. the selection of providers and receivers), and assignors have to know the state of the devices they give, knowing if they are treated legally.
 
 2. Maximizing the utility of devices.
 
