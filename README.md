@@ -1,8 +1,8 @@
-Llicències:
+Llicències i convenis de transferència de béns:
 
 ### Llicències Generals
 
-####(G1) Llicència General d'un Circuit Comú de Dispositius:
+####(GLC) Llicència General d'un Circuit Comú de Dispositius:
 
 * Entre grups d'interès i eReuse.org
 * Resum i principis fonamentals.
@@ -15,12 +15,20 @@ TODO:
 * Incloure compromís acceptació Llicència General de dades.
 https://github.com/eReuse/commons/blob/master/License_Devices_ElectronicReuse_CA.md
 
-####(G2) Llicència General de Dades
+####(GLD) Llicència General de Dades
 
 * Entre actors i eReuse.org.
 * Les parts acorden aportar dades a eReuse.org i viceversa.
+* Es defineixen almenys tres tipus de llicència segons el contingut de les dades aportades
+  * GLD.1 - Product and component: durability (technical and Hardware ID).
+  * GLD.2 - Device Traceability: transferred organization (not if is a final customer social or not social) and disposal.
+  * GLD.3 - Social Impact of reuse: social receivers and impact (only if receiver is agreed with this license).
 
 TODO.
+ * Definir llicència GLD.1
+ * Definir llicència GLD.2
+ * Definir llicència GLD.3
+ 
 
 ### Llicències específiques
 
