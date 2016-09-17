@@ -19,11 +19,11 @@ En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament 
 
 ### PACTES
 
-1\. OBJECTE
+### 1\. OBJECTE
 
 1.1. La cedent fa donació de tots els seus drets, títols, interessos i beneficis en i per al maquinari a la cessionària per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
 
-2\. CONDICIONS DE LA DONACIÓ
+### 2\. CONDICIONS DE LA DONACIÓ
 
 2.1. La cessionària es compromet a complir totes les obligacions de la cedent en relació amb el maquinari i l'ús del mateix i a notificar el seu darrer destí, que pot ser:
 
@@ -50,7 +50,7 @@ b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilitza
 2.8.  La cessionària, els proveïdors i els receptors hauran de subscriue de forma obligatòria tots els punts de la llicència [ELECTRONIC REUSE COMMONS](https://github.com/eReuse/commons/blob/master/License\_ElectronicReuse\_ca.md), que, de manera irrevocable, compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el dipositarà en un punt verd autoritzat.
 
 
-3.  CERTIFICATS
+### 3.  CERTIFICATS
 
 3.1. **Certificat de lliurament (albarà**): Quan la cedent dóna a la cessionària els equips i aquesta han de lliurar telemàticament a la cedent un albarà, on constarà:
 
