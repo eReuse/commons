@@ -25,13 +25,13 @@ Llicència d'un circuit en concret on principalment intervenen donants, gestors,
 > En aquest repositori posarem diversos convenis i pactes tipo per tal de donar diversitat d'exemples.   
 > Per exemple un pacte tipo podria ser "el receptor té obligació de retornar al gestor del circuit el dispositius", o "el gestor només pot ser una entitat sense ànim de lucre", etc...
   
-##### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor
+##### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor <!-- EN: DEED-OF-ASSIGNMENT-OF-ASSETS-DONOR-TO-MANAGER -->
 
 En aquest conveni el donant/cedent transfereixen les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
 
 > En el cas d'implementació d'un transferhub aquest conveni el signarien tots els donants que volen donar al circuit 
 
-##### (CL-II) Llicències de circuit  - II) Conveni de cessió entre gestor i receptor
+##### (CL-II) Llicències de circuit  - II) Conveni de cessió entre gestor i receptor <!-- EN: DEED-OF-ASSIGNMENT-OF-ASSETS-MANAGER-TO-RECEIVER -->
 
 Aquest conveni és identic al I, només cal intercanviar els rols. Assegurem que les responsabilitats transferides al gestor alhora es transfereixen al receptor. El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
 
@@ -39,7 +39,7 @@ Aquest conveni és identic al I, només cal intercanviar els rols. Assegurem que
 >
 > Si un transferhub reb equips de donants que usen diferents convenis tipus I comporta que el receptor també haura de signar el corresponent conveni tipus II per a poder rebre dels tots els donants. 
 
-##### (CL-III) Llicències de circuit  - III) Conveni de gestió entre totes les parts.
+##### (CL-III) Llicències de circuit  - III) Conveni de gestió entre totes les parts. <!-- EN: DEED-OF-ASSIGNMENT-OF-ASSETS-ALL-PARTS -->
 
 En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en els punts I i II. 
 
