@@ -1,23 +1,26 @@
 @city, @day de @month de @year
 
+
+variant: sense ànim de lucre, no reventa, ús social.
+
 ### INTERVENEN:
 
-D'una part, @name-person-donor, @position-person-donor i representant de @name-company-donor (en endavant @abbreviation-company-donor), amb domicili social al carrer @street-donor @streetnumber-donor de @city-donor i CIF @vat-donor, en endavant, la part CEDENT.
+D'una part, @name-person-receiver, @position-person-manager i representant de @name-company-manager (en endavant @abbreviation-company-manager), amb domicili social al carrer @street-manager @streetnumber-manager de @city-manager i CIF @vat-manager, en endavant, la part CEDENT.
 
-D’altra part, @name-person-manager en representació de @name-company-manager, amb seu a @street-manager, @streetnumber-manager de @city-manager i CIF @vat-manager, en endavant la part CESSIONÀRIA.
+D’altra part, @name-person-receiver en representació de @name-company-receiver, amb seu a @street-receiver, @streetnumber-receiver de @city-receiver i CIF @vat-receiver, en endavant la part CESSIONÀRIA.
 
 ### MANIFESTEN:
 
 La cessionària és:  
-> *explicació del tipus d’entitat què és, quina és la seva missió i la finalitat d’interès públic i social per al compliment de la qual està interessada en la donació dels equips informàtics de la cedent*
+> *explicació del tipus d’entitat què és (lucre o no lucre), quina és la seva missió i la finalitat d’interès públic i social per al compliment de la qual està interessada en la donació dels equips informàtics de la cedent*
 
-una organització independent i sense ànim de lucre que promou l’ús estratègic de les xarxes de comunicació i les tecnologies de la informació i comunicació (TIC) per al desenvolupament i la justícia social i vol facilitar el reaprofitament de maquinari en bon estat de funcionament per part d’entitats sense ànim de lucre i amb un fi social 
+una organització independent i sense ànim de lucre que .... 
 
 .....................................................................................................
 
-La cedent és propietària i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament del seus serveis i activitats, equips completament amortitzats econòmicament i sense utilització actual.
+La cedent és propietària d'un maquinari completament amortitzat econòmicament i sense utilització actual.
 
-La cessionària està interessada en la donació dels equips per al compliment de les finalitats d’interès públic i social indicades en el paràgraf primer.
+La cessionària està interessada en la recepció del maquinari per al compliment de les finalitats indicades en el paràgraf primer.
 
 En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament capacitat legal necessària per a obligar-se en representació de les respectives entitats, acorden subscriure el present acord de donació, que es regirà pels següents:
 
@@ -36,6 +39,25 @@ a)  En el cas del maquinari *per a reutilitzar* donat als receptors, la cession�
 b)  En el cas del maquinari *per a reparar* donat als proveïdors, la cessionària informarà a la cedent de les dades del proveïdor, tipologia d'entitat i la ubicació geogràfica del proveïdor.
 
 2.2. La cessionària es compromet a fer tots els actes i gestions per tal de que:
+
+El receptor es compromet a anar a buscar a les instal·lacions del donant els dispositius que prèviament ha acceptat telemàticament. 
+
+El receptor es compromet a fer un ús social del maquinari. 
+
+Mantenir els dispositius en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
+
+Traçar els dispositius (incloent els components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne la reutilització.  
+
+Arribat el punt que els dispositius els hi quedin obsolets, han de retornar-los al cedent esdevenint així donant.  
+
+Arribat el punt que els dispositius els hi quedin obsolets, i no hi hagi més demanda de reús al circuit, cal que el portin a en un punt autoritzat de reciclatge.  
+
+El receptor es comproment a elaborar una memòria d'impacte social de l'ús dels dispositius rebuts, que s'ha d'enviar abans dels sis mesos de la cessió i que tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
+
+No reventa. El receptor en és propietari legal però a efectes del circuit n'és usufructurari, tal que, s'han de retornar al gestor i sota cap concepte es poden vendre a uns tercers.  
+
+El receptor paga un cost anual per dispositiu rebut en concepte de seguiment del impacte social i de traçabilitat  
+
 
 a. Els *receptors* allarguin el temps de vida útil del maquinari i arribat el punt que el maquinari els hi quedi obsolet i no hi hagi més demanda de reús, el portin a en un punt autoritzat de reciclatge.
 

@@ -71,7 +71,7 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **num:** 11  
 **who:** Receiver   
 **from:** GCL   
-**description:** Arribat el punt que els dispositius els hi quedin obsolets, han de retornar-los al circuit esdevenint així donant.  
+**description:** Arribat el punt que els dispositius els hi quedin obsolets, han de retornar-los al gestor esdevenint així donant.  
 **icon:**  
 
 **num:** 12  
@@ -151,7 +151,7 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 
 **num:** 23  
 **who:** Receiver  
-**from:** CL-I - (variant el receptor es una entitat sense ànim de lucre) 
+**from:** CL-I - (variant el receptor es una entitat amb un fi social) 
 **description:** El receptor es compromet a fer un ús social del maquinari.  
 **icon:**  
 
@@ -192,12 +192,3 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **from:** CL-II   
 **description:** El receptor paga un cost anual per dispositiu rebut en concepte de seguiment del impacte social i de traçabilitat    
 **icon:**  
-
-**num:** 30  
-**who:** Receptor  
-**from:** CL-II   
-**description:** El receptor paga un cost anual per dispositiu rebut en concepte de seguiment del impacte social i de traçabilitat    
-**icon:** 
-
-
-

@@ -21,17 +21,15 @@ Llicències i convenis de transferència de béns:
 
 #### (CL) Llicències de circuit
 
-Llicència d'un circuit en concret on principalment intervenen donants, gestors, proveïdors i receptors. Està composta de tres convenis:
+Està composta de tres convenis:
 
  * I) el conveni de cessió de dispositius entre el donant i el gestor, i l'annex amb les especificitats del donant, 
  * II) el conveni de cessió de dispositius entre el gestor i el receptor (similar al I però intercanviant rols), 
  * III) el conveni de gestió del circuit on es defineix la comissió de seguiment i normes de funcionament.
 
-El procés d'elaboració de la llicència d'un circuit consta d'unir els tres convenis.
+El procés d'elaboració de la llicència d'un circuit consta d'unir els tres convenis. En un circuit participen diferents donants i poden tenir voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex, i per tant, una llicència de circuit pot tenir diversos annexos de tipus I.  
 
-En un circuit hi poden participar diferents donants i poden tenir voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el gestor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex.  
-
-Els convenis on intervenen els donants són el I, III i annex, els gestors el I,II i III i annexos, els proveïdors el III i els receptors el II i III. 
+Els convenis on intervenen els donants són el I, III i annex, els gestors en el I, II i III i annexos, els proveïdors el III i els receptors el II i III. 
   
 ##### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor <!-- EN: DEED-OF-ASSIGNMENT-OF-ASSETS-DONOR-TO-MANAGER -->
 
