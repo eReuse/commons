@@ -19,13 +19,13 @@ Llicència eReuse.org, Versió 0 Revisió 5, 19 de setembre 2016
 
 3. Un Circuit és d'accés i de participació oberta en quan els usuaris el poden usar, contribuir al sistema de recursos i participar en el seu desenvolupament, operacions i governança. 
 
-4. Un Circuit ha de promoure el consum i producció de dispositius circulars. Un dispositiu digital és circular si és durable, és viable la seva **reparació** i existeixen **recanvis**, és pot millorar/actualitzar amb **components** <!--normalització, de mòduls a components-->, permet un **diagnòstic** i una **identificació** única desatesos dels seus components (possibilitant la **traçabilitat**), i és fàcil de desmantellar i de recuperar les matèries primeres (**reciclar**).
+4. Un Circuit ha de promoure el consum i producció de dispositius circulars. Un dispositiu digital és circular si és durable, és viable la seva **reparació** i existeixen **recanvis**, és pot millorar/actualitzar amb **components** <!--normalització, de mòduls a components -->, permet un **diagnòstic** i una **identificació** única desatesos dels seus components (possibilitant la **traçabilitat**), i és fàcil de desmantellar i de recuperar les matèries primeres (**reciclar**).
 
 5. Un Circuit és un acord d'adhesió i explotació que es fa entre iguals, de cada participant amb el conjunt, i què és comú per a tothom que en forma part. Cada Circuit va lligat a una llicència comú per tothom, que fa alhora les funcions de contracte d'adhesió i de llicència d'ús del sistema de recursos, esdevenint així una garantia per qui subscriuen el Circuit (sobre quins són els termes i condicions aplicables). La creació de Circuits no és exclusiva i se'n poden crear llicències derivades.
 
 ## Grups d'interès
 
-<!--todo: merge i linkar la wiki, http://wiki.ereuse.org/def:stakeholders-->
+<!--todo: merge i linkar la wiki, http://wiki.ereuse.org/def:stakeholders -->
 
 Els grups d’interès són grups, col·lectius, organitzacions i individus que extreuen i creen valor amb la circularitat dels dispositius digitals. *La mostra presentada és orientativa i se’n poden crear de nous*.
 
@@ -85,9 +85,8 @@ El Sistema de Recursos s’ha de preservar, sostenir i millorar:
 3. Assegurar als cendents la reutilització, la traçabilitat i el reciclatge; els cedents han de conèixer l'estat dels dispositius que donen, i han de saber si són tractats legalment.
 
 #### Proveïdors
-1. En cas que de ser un gestor de residus autoritzat, tant en l'àmbit de preparació per a la reutiltizació com de reciclatge, cal donar-se d'alta al sistema "Directory of Collection Points" de eReuse.org i 
-2. Notificar al gestor la ubicació geogràfica dels dispositius que gestionen, els que preparen per a la reutiltizació (anteriorment eren residus) i els que envien al reciclatge. 
-3. Els proveïdors de preparació per a la reutilització han de prioritzar la preparació a la reutilització al reciclatge.
+1. En cas que de ser un gestor de residus autoritzat, tant en l'àmbit de preparació per a la reutilització com de reciclatge, cal notificar al gestor la ubicació geogràfica dels dispositius que gestionen, els que preparen per a la reutiltizació (anteriorment eren residus) i els que envien al reciclatge. 
+2. Els proveïdors de preparació per a la reutilització han de prioritzar la preparació a la reutilització al reciclatge.
 
 
 ## Resolució de conflictes

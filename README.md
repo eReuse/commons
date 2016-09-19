@@ -8,7 +8,7 @@ Llicències i convenis de transferència de béns:
 
 > Llicència d'àmbit general en el àmbit dels dispositius digitals  
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [General-Circuit-License_CA.md](https://github.com/eReuse/commons/blob/devel/0-GCL-General-Circuit-License/0-General-Circuit-License_CA.md)
+> Enllaç: [General-Circuit-License_CA.md](https://github.com/eReuse/commons/blob/devel/0-GCL-General-Circuit-License/General-Circuit-License_CA.md)
 
 
 #### (GDL) Llicència General de Dades

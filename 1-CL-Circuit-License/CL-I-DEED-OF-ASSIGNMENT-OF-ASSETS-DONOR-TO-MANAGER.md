@@ -8,7 +8,11 @@ D’altra part, @name-person-receiver en representació de @name-company-manager
 
 ### MANIFESTEN:
 
-La cessionària és una organització independent i sense ànim de lucre que promou l’ús estratègic de les xarxes de comunicació i les tecnologies de la informació i comunicació (TIC) per al desenvolupament i la justícia social i vol facilitar el reaprofitament de maquinari en bon estat de funcionament per part d’entitats sense ànim de lucre i amb un fi social <!-- (*explicació del tipus d’entitat què és, quina és la seva missió i la finalitat d’interès públic i social per al compliment de la qual està interessada en la donació dels equips informàtics de la cedent*) -->  
+La cessionària és:  
+> *explicació del tipus d’entitat què és, quina és la seva missió i la finalitat d’interès públic i social per al compliment de la qual està interessada en la donació dels equips informàtics de la cedent*
+
+una organització independent i sense ànim de lucre que promou l’ús estratègic de les xarxes de comunicació i les tecnologies de la informació i comunicació (TIC) per al desenvolupament i la justícia social i vol facilitar el reaprofitament de maquinari en bon estat de funcionament per part d’entitats sense ànim de lucre i amb un fi social 
+
 .....................................................................................................
 
 La cedent és propietària i prèviament ha utilitzat una gamma d'equips informàtics per al funcionament del seus serveis i activitats, equips completament amortitzats econòmicament i sense utilització actual.
@@ -43,11 +47,11 @@ b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilitza
 
 2.5. La cedent permet a la cessionària que les entitats que proveeixen a aquestes de serveis informàtics puguin realitzar les tasques de 'posada a punt' del maquinari a les mateixes instal·lacions de la cedent i no requereix que la cessionària hi sigui presencialment. Aquestes tasques inclouen el diagnòstic, inventariat, destrucció de dades via sobreescriptura, l'etiquetatge i la instal·lació del sistema operatiu i no comporta haver d'obrir físicament l'equipament. Aquestes tasques es poden fer a raó de vuitanta equips informàtics per jornada de treball.
 
-2.6.  En el moment de la cessió de bens, la cedent permet a la cessionària    lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a entitats d’interès social i a programes solidaris (receptors) i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment.
+2.6.  En el moment de la cessió de bens, la cedent permet a la cessionària    lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a entitats d’interès social i a programes solidaris (receptors) i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment. <!-- Aquesta restricció condiciona qui en pot ser el receptor, definir la llicència com a tal o posar-ho en un annex al conveni -->
 
 2.7.  La cedent dóna i assigna a la cessionària el maquinari que funciona i supera les proves de rendiment (per a reutilitzar), i el maquinari que no funciona o té baix rendiment (per a reparar) però que pot ser reparat, actualitzat o reciclat. La totalitat del maquinari per a reutilitzar és dóna als receptors, i la totalitat del maquinari per a reparar i/o reciclar, als proveïdors per a que el reparin,  actualitzin o en facin el reciclatge adeqüat.
 
-2.8.  La cessionària, els proveïdors i els receptors hauran de subscriue de forma obligatòria tots els punts de la llicència [ELECTRONIC REUSE COMMONS](https://github.com/eReuse/commons/blob/master/License\_ElectronicReuse\_ca.md), que, de manera irrevocable, compromet al receptor que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el dipositarà en un punt verd autoritzat.
+2.8.  La cessionària compromet al receptor a que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el retorni a la cessionaria i en cas de no ser reutilitzable el porti a un punt verd autoritzat. <!-- Aquesta restricció condiciona qui en pot ser el receptor, definir la llicència com a tal o posar-ho en un annex al conveni -->
 
 
 ### 3.  CERTIFICATS
