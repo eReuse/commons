@@ -77,7 +77,8 @@ El Sistema de Recursos s’ha de preservar, sostenir i millorar:
 
 1. Mantenir els dispositius en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
 2. Traçar els dispositius (incloent els components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne la reutilització.
-3. Retornar els dispositius al circuit (o d'altres circuits si es permet en la llicència) esdevenint així donant, o si el gestor li permet, s'ha de portar a un punt verd autoritzat.
+3. Retornar els dispositius al circuit esdevenint així donant.
+4. Portar els dispositius a un punt verd autoritzat en reciclatge; en el cas que no hi hagi demanda de reús al circuit.
 
 #### Gestors
 1. Fer una gestió seguint els principis fonamentals i vetllar pel compliment de les condicions d'ús general, derivades en nous acords de llicència i específiques dels grups d'interès. 

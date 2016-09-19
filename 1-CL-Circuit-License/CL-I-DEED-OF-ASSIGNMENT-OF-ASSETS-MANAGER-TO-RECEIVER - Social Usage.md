@@ -28,62 +28,33 @@ En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament 
 
 ### 1\. OBJECTE
 
-1.1. La cedent fa donació de tots els seus drets, títols, interessos i beneficis en i per al maquinari a la cessionària per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
+1.1 La cedent fa donació de tots els seus drets, títols, interessos i beneficis en i per al maquinari a la cessionària per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
+
+1.2 La cessionària es compromet a complir totes les obligacions de la cedent en relació amb el maquinari, l'ús del mateix, les condicions de la donació i a retornar-lo un cop no en faci ús. 
+
+1.3 La cedent lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat.
+
+1.4 La cedent dóna i assigna a la cessionària maquinari que funciona, supera les proves de rendiment i que prèviament la cessionària ha acceptat telemàticament.
+
 
 ### 2\. CONDICIONS DE LA DONACIÓ
 
-2.1. La cessionària es compromet a complir totes les obligacions de la cedent en relació amb el maquinari i l'ús del mateix i a notificar el seu darrer destí, que pot ser:
+La cessionària es compromet a fer tots els actes i gestions per tal de que:
 
-a)  En el cas del maquinari *per a reutilitzar* donat als receptors, la cessionària informarà a la cedent de la ubicació geogràfica del maquinari, l'entitat que en fa reús i en cas que ja no s'usi, la data i ubicació del punt verd on s'ha portat a reciclar.
+2.1 Anar a buscar a les instal·lacions del donant els dispositius que prèviament ha acceptat telemàticament. 
 
-b)  En el cas del maquinari *per a reparar* donat als proveïdors, la cessionària informarà a la cedent de les dades del proveïdor, tipologia d'entitat i la ubicació geogràfica del proveïdor.
+2.2 Fer un ús social del maquinari. 
 
-2.2. La cessionària es compromet a fer tots els actes i gestions per tal de que:
+2.3 Usar el maquinari, tractar de reparar-lo si s'espatlla i actualitzar-ne els components. 
 
-El receptor es compromet a anar a buscar a les instal·lacions del donant els dispositius que prèviament ha acceptat telemàticament. 
+2.4 Traçar els dispositius (incloent els components) amb la ubicació geogràfica del maquinari i confirmar que encara és l'entitat que en fa reús.
 
-El receptor es compromet a fer un ús social del maquinari. 
+2.5 En cas que el maquinari quedi en desus ha de retornar-lo al cedent, i en cas que el cedent el descarti, l'ha de portar a un punt de recollida pel reciclatge (punt autoritzat per les autoritats competents) i fer les accions que el cedent li sol·liciti per a que en quedi constància.  
 
-Mantenir els dispositius en ús i evitar-ne el reciclatge prematur, via la reducció, reparació i actualització de components. 
+2.6 Elaborar una memòria d'impacte social de l'ús dels dispositius rebuts, que s'ha d'enviar després dels sis mesos de la cessió i que tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
 
-Traçar els dispositius (incloent els components) fent ús de les eines del circuit amb l’objectiu de reduir la seva pèrdua i facilitar-ne la reutilització.  
+2.7 No revendre a tercers sota cap concepte el maquinari.     
 
-Arribat el punt que els dispositius els hi quedin obsolets, han de retornar-los al cedent esdevenint així donant.  
-
-Arribat el punt que els dispositius els hi quedin obsolets, i no hi hagi més demanda de reús al circuit, cal que el portin a en un punt autoritzat de reciclatge.  
-
-El receptor es comproment a elaborar una memòria d'impacte social de l'ús dels dispositius rebuts, que s'ha d'enviar abans dels sis mesos de la cessió i que tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
-
-No reventa. El receptor en és propietari legal però a efectes del circuit n'és usufructurari, tal que, s'han de retornar al gestor i sota cap concepte es poden vendre a uns tercers.  
-
-El receptor paga un cost anual per dispositiu rebut en concepte de seguiment del impacte social i de traçabilitat  
-
-
-a. Els *receptors* allarguin el temps de vida útil del maquinari i arribat el punt que el maquinari els hi quedi obsolet i no hi hagi més demanda de reús, el portin a en un punt autoritzat de reciclatge.
-
-b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilització al reciclatge.
-
-2.3. La cedent lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat, abans que els seus proveïdors iniciïn el procés de preparació per a la reutilització.
-
-2.4. La cedent permet a la cessionària que les entitats que proveeixen a aquestes de serveis informàtics puguin realitzar les tasques de 'posada a punt' del maquinari a les mateixes instal·lacions de la cedent i no requereix que la cessionària hi sigui presencialment. Aquestes tasques inclouen el diagnòstic, inventariat, destrucció de dades via sobreescriptura, l'etiquetatge i la instal·lació del sistema operatiu i no comporta haver d'obrir físicament l'equipament. Aquestes tasques es poden fer a raó de vuitanta equips informàtics per jornada de treball.
-
-2.5.  En el moment de la cessió de bens, la cedent permet a la cessionària lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a les entitats receptores i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment. 
-
-2.6.  La cedent dóna i assigna a la cessionària el maquinari que funciona i supera les proves de rendiment (per a reutilitzar), i el maquinari que no funciona o té baix rendiment (per a reparar) però que pot ser reparat, actualitzat o reciclat. La totalitat del maquinari per a reutilitzar és dóna als receptors, i la totalitat del maquinari per a reparar i/o reciclar, als proveïdors per a que el reparin,  actualitzin o en facin el reciclatge adeqüat.
-
-
-### 3.  CERTIFICATS
-
-3.1. **Certificat de lliurament (albarà**): Quan la cedent dóna a la cessionària els equips, aquesta ha de lliurar telemàticament a la cedent un albarà, on constarà:
-
-  -   La identificació del maquinari (número d’inventari de la cedent).
-  -   La marca i model del maquinari cedit
-  -   La identificació del maquinari del fabricant o el número de sèrie  (identificador del fabricant), només pel maquinari considerat *per a
-    reutilitzar*,
-  -   El receptor i/o proveïdor de la cessionària a qui aquesta fa la cessió. 
-  -   La tipologia de maquinari que es defineix com a *per a reutilitzar o per a reparar.*
-
-3.2. **Certificat de reciclatge:** Quan la cedent dóna a la cessionària el maquinari per a reparar (i fins a 10 dies naturals després de la donació), aquesta o els seus proveïdors han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que s'ha enviat a reciclar i el que s'ha enviat a la posada a punt per a la reutilització i en aquest certificat constarà la relació de números d’inventari de la cedent així com la marca i el model del maquinari cedit.
 
 ### 4. RESPONSABILITATS
 
@@ -91,7 +62,7 @@ La cedent podrà repetir contra la cessionària tots els danys i perjudicis que 
 
 ### 5. VIGÈNCIA
 
-El present conveni té una vigència de dos anys i es renovarà de forma tàcita de forma anual excepte decisió de qualsevol de les parts comunicada per escrit a l’altra amb una anticipació mínima d’un mes. En tot cas, la vigència màxima de l’acord, incloent el termini inicial i les eventuals pròrrogues, serà de 4 anys.
+El present conveni té una vigència indefinida i es renovarà de forma tàcita de forma anual excepte decisió de qualsevol de les parts comunicada per escrit a l’altra amb una anticipació mínima d’un mes. 
 
 ### 6. CONTRAPRESTACIONS ECONÒMIQUES
 
