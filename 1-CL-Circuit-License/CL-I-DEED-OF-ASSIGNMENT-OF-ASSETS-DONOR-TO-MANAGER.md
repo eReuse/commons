@@ -35,28 +35,26 @@ a)  En el cas del maquinari *per a reutilitzar* donat als receptors, la cession�
 
 b)  En el cas del maquinari *per a reparar* donat als proveïdors, la cessionària informarà a la cedent de les dades del proveïdor, tipologia d'entitat i la ubicació geogràfica del proveïdor.
 
-2.2. La cessionària es compromet a fer arribar una memòria dels receptors com a màxim als sis mesos de la cessió dels equips i la memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).
-
-2.3.  La cessionària es compromet a fer tots els actes i gestions per tal de que:
+2.2. La cessionària es compromet a fer tots els actes i gestions per tal de que:
 
 a. Els *receptors* allarguin el temps de vida útil del maquinari i arribat el punt que el maquinari els hi quedi obsolet i no hi hagi més demanda de reús, el portin a en un punt autoritzat de reciclatge.
 
-b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilització         al reciclatge.
+b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilització al reciclatge.
 
-2.4. La cedent lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat, abans que els seus proveïdors iniciïn el procés de preparació per a la reutilització.
+2.3. La cedent lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat, abans que els seus proveïdors iniciïn el procés de preparació per a la reutilització.
 
-2.5. La cedent permet a la cessionària que les entitats que proveeixen a aquestes de serveis informàtics puguin realitzar les tasques de 'posada a punt' del maquinari a les mateixes instal·lacions de la cedent i no requereix que la cessionària hi sigui presencialment. Aquestes tasques inclouen el diagnòstic, inventariat, destrucció de dades via sobreescriptura, l'etiquetatge i la instal·lació del sistema operatiu i no comporta haver d'obrir físicament l'equipament. Aquestes tasques es poden fer a raó de vuitanta equips informàtics per jornada de treball.
+2.4. La cedent permet a la cessionària que les entitats que proveeixen a aquestes de serveis informàtics puguin realitzar les tasques de 'posada a punt' del maquinari a les mateixes instal·lacions de la cedent i no requereix que la cessionària hi sigui presencialment. Aquestes tasques inclouen el diagnòstic, inventariat, destrucció de dades via sobreescriptura, l'etiquetatge i la instal·lació del sistema operatiu i no comporta haver d'obrir físicament l'equipament. Aquestes tasques es poden fer a raó de vuitanta equips informàtics per jornada de treball.
 
-2.6.  En el moment de la cessió de bens, la cedent permet a la cessionària    lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a entitats d’interès social i a programes solidaris (receptors) i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment. <!-- Aquesta restricció condiciona qui en pot ser el receptor, definir la llicència com a tal o posar-ho en un annex al conveni -->
+2.5.  En el moment de la cessió de bens, la cedent permet a la cessionària lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a les entitats receptores i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment. 
 
-2.7.  La cedent dóna i assigna a la cessionària el maquinari que funciona i supera les proves de rendiment (per a reutilitzar), i el maquinari que no funciona o té baix rendiment (per a reparar) però que pot ser reparat, actualitzat o reciclat. La totalitat del maquinari per a reutilitzar és dóna als receptors, i la totalitat del maquinari per a reparar i/o reciclar, als proveïdors per a que el reparin,  actualitzin o en facin el reciclatge adeqüat.
+2.6.  La cedent dóna i assigna a la cessionària el maquinari que funciona i supera les proves de rendiment (per a reutilitzar), i el maquinari que no funciona o té baix rendiment (per a reparar) però que pot ser reparat, actualitzat o reciclat. La totalitat del maquinari per a reutilitzar és dóna als receptors, i la totalitat del maquinari per a reparar i/o reciclar, als proveïdors per a que el reparin,  actualitzin o en facin el reciclatge adeqüat.
 
-2.8.  La cessionària compromet al receptor a que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el retorni a la cessionaria i en cas de no ser reutilitzable el porti a un punt verd autoritzat. <!-- Aquesta restricció condiciona qui en pot ser el receptor, definir la llicència com a tal o posar-ho en un annex al conveni -->
+
 
 
 ### 3.  CERTIFICATS
 
-3.1. **Certificat de lliurament (albarà**): Quan la cedent dóna a la cessionària els equips i aquesta han de lliurar telemàticament a la cedent un albarà, on constarà:
+3.1. **Certificat de lliurament (albarà**): Quan la cedent dóna a la cessionària els equips, aquesta ha de lliurar telemàticament a la cedent un albarà, on constarà:
 
   -   La identificació del maquinari (número d’inventari de la cedent).
   -   La marca i model del maquinari cedit

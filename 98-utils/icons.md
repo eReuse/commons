@@ -2,9 +2,9 @@
 
 Icona que representa una condició d'ús per un donant, proveïdor, gestor i receptor.
 
-> posem el tag "num" per númerar l'icona
-> posem el tag "who" per dir a quin grup li afecta
-> posem el tag "from" per dir en quin document el pacte es subscriu  
+> posem el tag "num" per númerar l'icona,  
+> posem el tag "who" per dir a quin grup li afecta,  
+> posem el tag "from" per dir en quin document el pacte es subscriu,    
 
 ### Llistat d'icones
 
@@ -47,13 +47,13 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **num:** 7  
 **who:** Donor   
 **from:** GCL   
-**description:** Tractar de facilitar al gestor i als seus proveïdors un espai adequat on fer el diagnòstic, la posada a punt i l'inventariat dels dispositius; permet als proveïdors optimitzar el procés i als cedents donar directament els dispositius directament reutilitzables.   
+**description:** Tractar de facilitar al gestor i als seus proveïdors un espai adequat on fer el diagnòstic, la posada a punt i l'inventariat dels dispositius.   
 **icon:**  
 
 **num:** 8  
 **who:** Donor   
 **from:** GCL   
-**description:** Intentar fer la transferència dels dispositius en el mateix magatzem del cedent, evitant moure els dispositius a magatzems temporals del proveïdor.  
+**description:** Permetre de fer la transferència dels dispositius en el mateix magatzem del donant, evitant moure els dispositius a magatzems temporals del proveïdor.  
 **icon:**  
 
 **num:** 9  
@@ -71,7 +71,7 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **num:** 11  
 **who:** Receiver   
 **from:** GCL   
-**description:** Retornar els dispositius al circuit (o d'altres circuits si es permet en la llicència) esdevenint així donant, o si el gestor li permet, s'ha de portar a un punt verd autoritzat.  
+**description:** Arribat el punt que els dispositius els hi quedin obsolets, han de retornar-los al circuit esdevenint així donant.  
 **icon:**  
 
 **num:** 12  
@@ -89,7 +89,7 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **num:** 14  
 **who:** Manager   
 **from:** GCL   
-**description:** Assegurar als cendents la reutilització, la traçabilitat i el reciclatge; els cedents han de conèixer l'estat dels dispositius que donen, i han de saber si són tractats legalment.  
+**description:** Assegurar als donants la reutilització, la traçabilitat i el reciclatge; els donants han de conèixer l'estat dels dispositius que donen, i han de saber si són tractats legalment.  
 **icon:**  
 
 **num:** 15  
@@ -117,15 +117,15 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **icon:**  
 
 **num:** 18  
-**who:** Manager  
+**who:** Manager, Receiver, Proveïdor  
 **from:** CL-I   
-**description:** El gestor es compromet a fer arribar una memòria dels receptors com a màxim als sis mesos de la cessió dels equips i la memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
+**description:** El receptor es comproment a elaborar una memòria d'impacte social de l'ús dels dispositius rebuts, que s'ha d'enviar abans dels sis mesos de la cessió i que tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
 **icon:**  
 
 **num:** 19  
 **who:** Receptor  
 **from:** CL-II   
-**description:** Els receptors es comprometen a tractar d'allargar el temps de vida útil del maquinari i arribat el punt que el maquinari els hi quedi obsolet i no hi hagi més demanda de reús, el portin a en un punt autoritzat de reciclatge.  
+**description:** Arribat el punt que els dispositius els hi quedin obsolets, i no hi hagi més demanda de reús al circuit, cal que el portin a en un punt autoritzat de reciclatge.  
 **icon:**  
 
 **num:** 20  
@@ -141,36 +141,63 @@ Icona que representa una condició d'ús per un donant, proveïdor, gestor i rec
 **description:** El donant lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix al gestor d’aquesta responsabilitat.  
 **icon:**  
 
+
 **num:** 22  
-**who:** Donor  
-**from:** CL-I   
-**description:** El donant lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix al gestor d’aquesta responsabilitat.  
+**who:** Receiver  
+**from:** CL-II 
+**description:** El receptor es compromet a anar a buscar a les instal·lacions del donant els dispositius que prèviament ha acceptat telemàticament.   
 **icon:**  
 
 
 **num:** 23  
-**who:** Donor  
+**who:** Receiver  
 **from:** CL-I - (variant el receptor es una entitat sense ànim de lucre) 
-**description:** El receptor es compromet a fer un ús social del maquinari i que al finalitzar el seu temps d'ús el retorni a la cessionaria i en cas de no ser reutilitzable el porti a un punt verd autoritzat.  
+**description:** El receptor es compromet a fer un ús social del maquinari.  
 **icon:**  
 
 **num:** 24  
 **who:** Donor  
 **from:** CL-I
-**description:** En el moment de la cessió de bens, el donant permet al gestor lliurar el maquinari als proveïdors i als receptors, i aquest lliurament es pot realitzar a les mateixes instal·lacions del donant no requereix que la  cessionària hi sigui presencialment.  
+**description:** En el moment de la cessió de bens, el donant permet al gestor lliurar el maquinari als proveïdors i als receptors, i aquest lliurament es pot realitzar a les mateixes instal·lacions del donant no requereix que el gestor hi sigui presencialment.  
 **icon:**  
 
-**TODO: Acabar CLI**  
+
+**num:** 25  
+**who:** Manager  
+**from:** CL-I
+**description:** Certificat de lliurament (albarà): Quan el donant dóna al gestor els equips, aquest ha de lliurar telemàticament a la donant un albarà on constarà: i) La identificació del maquinari (número d’inventari del donant), ii) a marca i model del maquinari cedit, iii) La identificació del maquinari del fabricant o el número de sèrie  (identificador del fabricant), només pel maquinari considerat *per a reutilitzar*, iv) El receptor i/o proveïdor del gestor a qui aquest fa la cessió, v) La tipologia de maquinari que es defineix com a *per a reutilitzar o per a reparar.*  
+**icon:** (DFG: No cal posar tots el punts, s'ha deixat a la descripció per ajudar )
 
 
+**num:** 26  
+**who:** Manager  
+**from:** CL-I
+**description:** Certificat de reciclatge: Quan el donant dóna al gestor el maquinari per a reparar (i fins a 10 dies naturals després de la donació), aquesta o els seus proveïdors han de lliurar digitalment al donant un certificat amb la relació del maquinari que s'ha enviat a reciclar i el que s'ha enviat a la posada a punt per a la reutilització i en aquest certificat constarà la relació de números d’inventari del donant així com la marca i el model del maquinari cedit.  
+**icon:** 
 
+**num:** 27  
+**who:** Receptor  
+**from:** CL-II   
+**description:** S'ha de notificar al gestor la ubicació actual dels dispositius via l'ús de les eines (fent una localització amb l'APP).    
+**icon:**  
 
+**num:** 28  
+**who:** Receptor  
+**from:** CL-II   
+**description:** No reventa. El receptor en és propietari legal però a efectes del circuit n'és usufructurari, tal que, s'han de retornar al gestor i sota cap concepte es poden vendre a uns tercers.    
+**icon:**  
 
+**num:** 29  
+**who:** Receptor  
+**from:** CL-II   
+**description:** El receptor paga un cost anual per dispositiu rebut en concepte de seguiment del impacte social i de traçabilitat    
+**icon:**  
 
-
-
-
-
+**num:** 30  
+**who:** Receptor  
+**from:** CL-II   
+**description:** El receptor paga un cost anual per dispositiu rebut en concepte de seguiment del impacte social i de traçabilitat    
+**icon:** 
 
 
 
