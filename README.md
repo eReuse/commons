@@ -29,7 +29,7 @@ Està composta de tres convenis:
 
 En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex al conveni I. 
 
-![Image of Yaktocat](./commons/98-utils/DocumentLicenseSchema.png) 
+![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
 
 El procés d'elaboració de la llicència d'un circuit consta d'unir els tres convenis.
 
