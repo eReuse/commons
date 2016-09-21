@@ -1,5 +1,7 @@
 ## Annex al conveni de cessió de bens entre el cedent i la cessionària 
 
+> El cedent és el gestor del circuit i la cessionària és el receptor final dels dispositius
+
 @city, @day de @month de @year
 
 ### INTERVENEN:
@@ -12,13 +14,9 @@ D’altra part, @name-person-receiver en representació de @name-company-manager
 
 #### Beneficiaris del maquinari
 
-1. La cessionària es compromet a fer arribar una memòria d'impacte social dels maquinari als receptors com a màxim als sis mesos de la cessió del maquinari i la memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).
+1. La cessionària es compromet a fer arribar una memòria d'impacte social dels dispositius al gestor com a màxim als sis mesos de la cessió dels dispositius i la memòria tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).
 
-2. Les entitats receptores del maquinari de la cedent són preferiblement entitats ubicades en la proximitat del cedent.  
-
-3. entitats ubicades En el moment de la cessió de bens, la cedent permet a la cessionària lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a entitats d’interès social i a programes solidaris (receptors) i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment. 
-
-4. La cessionària compromet al receptor a que faci un ús social del maquinari i que al finalitzar el seu temps d'ús el retorni a la cessionaria i en cas de no ser reutilitzable el porti a un punt verd autoritzat. 
+2. La cessionària es compromet a fer un ús social dels dispositius  i que al finalitzar el seu temps d'ús el retorni a la cessionaria i en cas de no ser reutilitzable el porti a un punt verd autoritzat. 
 
 
 
