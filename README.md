@@ -17,7 +17,7 @@ Llicències i convenis de transferència de béns:
 > Estat: No iniciada  
 > Enllaç: 
 
-## Llicències de circuit
+## Llicència de circuit
 
 Està composta de tres documents:
 
@@ -29,38 +29,89 @@ Els convenis on intervenen els donants són el I i l'annex, els gestors en el I,
 
 ![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
 
-> Els documents I, annex al I i II estàn d'acord amb la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md).
 
-> El document III és una extenció de la llicència general i en (re)defineix les normes de funcionament.
+<!-- BR introduced to fit code with output-->
 
-> Tot dispositiu té una llicència que depen de la combinació de les restriccions dels documents commentats i desccrits en més detall abaix.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+> Els documents I i II accepten la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md).
+
+> Els documents Annex al I i III són una extenció de la llicència general i en (re)defineixen les normes de funcionament sense invalidad els principis i clàusules de la llicència general.
+
+> Un dispositiu està vinculat a un document tipus II, obligacions del donant, i a un document tipus III, obligacions dels grups d'interès. 
+
+* Tot dispositiu té una llicència que depen de la combinació de les restriccions dels documents commentats i descrits en més detall a continuació. *
 
   
-### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor 
+### (CL-I) Conveni de cessió entre donant i gestor 
 
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
+> Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager.md)  
+> Enllaç: [CL-I-Agreement-Donor-to-Manager ANNEX](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
 
-En aquest conveni el donant/cedent transfereixen les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment o una part excloures.
+En aquest conveni el cedent (donant) transfereix les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment. 
 
-En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex al conveni I. 
+En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document **annex** al conveni I. En funció d'aquest annex els dispositius es donaran a uns o altres receptors o els  
 
 > Aquest conveni el signarien tots els donants que volen donar al circuit (Aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 > Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi les dels documents II i III.
 
-### (CL-II) Llicències de circuit  - II) Conveni de cessió entre gestor i receptor
+### (CL-II) Conveni de cessió entre gestor i receptor
 
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-NotForProfit](./1-CL-Circuit-License/CL-II-Agreement-Manger-To-Receiver-NotForProfit.md)>
-> Enllaç: CL-I-Agreement-Manager-to-Receiver-NotForProfit (en desenvolupament) 
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-NotForProfit](./1-CL-Circuit-License/CL-II-Agreement-Manger-To-Receiver-NotForProfit.md)  
+> Enllaç: CL-I-Agreement-Manager-to-Receiver-ForProfit (en desenvolupament) 
 
-Aquest conveni és idèntic al I, només cal intercanviar els rols. Assegurem que les responsabilitats transferides al gestor alhora es transfereixen al receptor. El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
+El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
 
 > Aquest conveni el signarien tots els receptors que volen rebre del circuit (Aquesta signatura es pot realitzar en el moment que l'entitat presenta el primer projecte).  
 
-### (CL-III) Llicències de circuit  - III) Conveni de gestió entre Grups d'Interès.
+### (CL-III) Conveni de gestió entre Grups d'Interès o Llicència del comú.
 
-En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en els punts I i II. 
+> Estat: en desenvolupament la versió 1.0 
+
+En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en la llicència.
+
+Els dispositius que arriben al comú procedeixen de donants o d'latres circuits tal i que aniran lligats a uns compromissos assumits en els documents I i Annex, i document II, tal que un comú ha de respectar aquests compromisos i fer-los prevaldre. 
+
+> Suposem que un donant vol donar un dispositiu que va rebre d'un altre circuit (li direm circuit X), si    un dispositius procedent d'un altre circuit (X), i aquest obliga al receptor a portar-lo a un punt verd, el gestor del comú haurà d'avisar al donant de que només pot donar el dispositius si  
 
 > En el cas d'implementació d'un transferhub aquest conveni el signarien els receptors en el moment de rebre el dispositius. Pot passar que un receptor tingui dispositius amb diferents pactes tipus III (i també tipus II). Per exemple suposem que un receptor rep d'un donant públic i de un refabricador, l'equip del doannt públic no el podrà vendre i en canvi si podrà vendre l'equip del refabricador. Aquests pactes (o restriccions) aniran relfexades a l'etiqueta o seran visibles via realitat aumentada al llegir-se el codi QR.
 
@@ -77,8 +128,10 @@ TODO.
  * Definir llicència DL.3* 
 
 ## How to create odt or docx file
-1.  Select a License or derived license
-2.  Download de md (Markdown) document.
-3.  Substitute parameters (TODO: search and replace script).
-4.  Conversion to odt, pdf and others. Install or user [Pandoc] online (http://pandoc.org/demos.html#examples) or use Markdown Edit program.
+1.  Select the file
+2.  Download de md (Markdown) document (remember click on raw)
+3.  Conversion from markdown to odt: in command line "pandoc doc.md -o doc.odt
+4.  Conversion from markdown to docx: in command line "pandoc-s -S doc.md -o doc.docx
+
+More examples of conversion online (http://pandoc.org/demos.html#examples) or use Markdown Edit program.
 
