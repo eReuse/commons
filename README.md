@@ -8,7 +8,7 @@ Llicències i convenis de transferència de béns:
 
 > Llicència d'àmbit general en el àmbit dels dispositius digitals  
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [General-Circuit-License_CA.md](https://github.com/eReuse/commons/blob/devel/0-GCL-General-Circuit-License/General-Circuit-License_CA.md)
+> Enllaç: [General-Circuit-License_CA.md](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md)
 
 
 #### (GDL) Llicència General de Dades
@@ -19,45 +19,52 @@ Llicències i convenis de transferència de béns:
 
 ## Llicències de circuit
 
-#### (CL) Llicències de circuit
-
-Està composta de tres convenis:
+Està composta de tres documents:
 
  * I) el conveni de cessió de dispositius entre el donant i el gestor, i l'annex amb les especificitats del donant, 
  * II) el conveni de cessió de dispositius entre el gestor i el receptor, i
  * III) el conveni de gestió del circuit on es defineixen les normes de funcionament.
 
-En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex al conveni I. 
+Els convenis on intervenen els donants són el I i l'annex, els gestors en el I, annex al I, II i III, els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) el III i els receptors en el II. 
 
 ![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
 
-El procés d'elaboració de la llicència d'un circuit consta d'unir els tres convenis.
+> Els documents I, annex al I i II estàn d'acord amb la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md).
 
-Els convenis on intervenen els donants són el I, III i annex, els gestors en el I, II i III i annexos, els proveïdors el III i els receptors el II i III. 
+> El document III és una extenció de la llicència general i en (re)defineix les normes de funcionament.
+
+> Tot dispositiu té una llicència que depen de la combinació de les restriccions dels documents commentats i desccrits en més detall abaix.
+
   
-##### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor <!-- EN: DEED-OF-ASSIGNMENT-OF-ASSETS-DONOR-TO-MANAGER -->
+### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor 
 
 > Estat: en desenvolupament la versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
 
 En aquest conveni el donant/cedent transfereixen les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment o una part excloures.
 
+En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex al conveni I. 
+
 > Aquest conveni el signarien tots els donants que volen donar al circuit (Aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 > Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi les dels documents II i III.
 
-##### (CL-II) Llicències de circuit  - II) Conveni de cessió entre gestor i receptor
+### (CL-II) Llicències de circuit  - II) Conveni de cessió entre gestor i receptor
+
+> Estat: en desenvolupament la versió 1.0  
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-NotForProfit](./1-CL-Circuit-License/CL-II-Agreement-Manger-To-Receiver-NotForProfit.md)>
+> Enllaç: CL-I-Agreement-Manager-to-Receiver-NotForProfit (en desenvolupament) 
 
 Aquest conveni és idèntic al I, només cal intercanviar els rols. Assegurem que les responsabilitats transferides al gestor alhora es transfereixen al receptor. El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
 
 > Aquest conveni el signarien tots els receptors que volen rebre del circuit (Aquesta signatura es pot realitzar en el moment que l'entitat presenta el primer projecte).  
 
-##### (CL-III) Llicències de circuit  - III) Conveni de gestió entre totes les parts.
+### (CL-III) Llicències de circuit  - III) Conveni de gestió entre Grups d'Interès.
 
 En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en els punts I i II. 
 
 > En el cas d'implementació d'un transferhub aquest conveni el signarien els receptors en el moment de rebre el dispositius. Pot passar que un receptor tingui dispositius amb diferents pactes tipus III (i també tipus II). Per exemple suposem que un receptor rep d'un donant públic i de un refabricador, l'equip del doannt públic no el podrà vendre i en canvi si podrà vendre l'equip del refabricador. Aquests pactes (o restriccions) aniran relfexades a l'etiqueta o seran visibles via realitat aumentada al llegir-se el codi QR.
 
-##### (DL) Llicències de Dades
+## (DL) Llicències de Dades
 > Les parts aporten dades a eReuse.org segons la tipologia i es defineixen almenys tres tipus de llicència segons el contingut de les dades aportades
 
 ##### DL.1 - Profit - Product and component: durability (technical and Hardware ID).
