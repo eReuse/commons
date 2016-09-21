@@ -96,7 +96,7 @@ En un circuit participa més d'un donant i ténen voluntats diferents en referè
 ### (CL-II) Conveni de cessió entre gestor i receptor
 
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-NotForProfit](./1-CL-Circuit-License/CL-II-Agreement-Manger-To-Receiver-NotForProfit.md)  
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-NotForProfit](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-NotForProfit.md)  
 > Enllaç: CL-I-Agreement-Manager-to-Receiver-ForProfit (en desenvolupament) 
 
 El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
