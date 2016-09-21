@@ -29,7 +29,7 @@ Està composta de tres convenis:
 
 En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document annex al conveni I. 
 
-![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
+![Image of Document schema License](./98-utils/img/DocumentLicenseSchema600.png) 
 
 El procés d'elaboració de la llicència d'un circuit consta d'unir els tres convenis.
 
@@ -38,7 +38,7 @@ Els convenis on intervenen els donants són el I, III i annex, els gestors en el
 ##### (CL-I) Llicències de circuit  - I) Conveni de cessió entre donant i gestor <!-- EN: DEED-OF-ASSIGNMENT-OF-ASSETS-DONOR-TO-MANAGER -->
 
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-DEED-OF-ASSIGNMENT-OF-ASSETS-DONOR-TO-MANAGER](https://github.com/eReuse/commons/blob/devel/1-CL-Circuit-License/CL-I-DEED-OF-ASSIGNMENT-OF-ASSETS-DONOR-TO-MANAGER.md)
+> Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
 
 En aquest conveni el donant/cedent transfereixen les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment o una part excloures.
 
