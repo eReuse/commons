@@ -11,8 +11,8 @@ D’altra part, @name-person-receiver en representació de @name-company-receive
 
 ### MANIFESTEN:
 
-La cessionària és:  
-> *explicació del tipus d’entitat què és (lucre o no lucre), quina és la seva missió i la finalitat d’interès públic i social per al compliment de la qual està interessada en la donació dels equips informàtics de la cedent*
+La cessionària és una entitat independent, amb fi social, sense ànim de lucre que té per a missió:  
+> *explicació de la seva missió i la finalitat d’interès públic i social per al compliment de la qual està interessada en la donació dels equips informàtics de la cedent*
 
 una organització independent i sense ànim de lucre que .... 
 
@@ -30,33 +30,33 @@ En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament 
 
 1.1 La cedent fa donació de tots els seus drets, títols, interessos i beneficis en i per al maquinari a la cessionària per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
 
-1.2 La cessionària es compromet a complir totes les obligacions de la cedent en relació amb el maquinari, l'ús del mateix, les condicions de la donació i a retornar-lo un cop no en faci ús. 
+1.2 La cessionària es compromet a complir totes les obligacions de la cedent en relació amb el maquinari, l'ús del mateix, les condicions de la donació i a retornar-lo un cop no en faci un ús en el context de la cessionària. 
 
 1.3 La cedent lliura els equips prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat.
 
-1.4 La cedent dóna i assigna a la cessionària maquinari que funciona, supera les proves de rendiment i que prèviament la cessionària ha acceptat telemàticament.
+1.4 La cedent dóna i assigna a la cessionària maquinari que funciona i supera les proves de rendiment.
 
 
 ### 2\. CONDICIONS DE LA DONACIÓ
 
 La cessionària es compromet a fer tots els actes i gestions per tal de que:
 
-2.1 Anar a buscar a les instal·lacions del donant els dispositius que prèviament ha acceptat telemàticament. 
+2.1 Acceptar telemáticament l'oferta del maquinari.
 
-2.2 Fer un ús social del maquinari. 
+2.2 Anar a buscar el maquinari a les instal·lacions del donant. 
 
-2.3 Usar el maquinari, tractar de reparar-lo si s'espatlla i actualitzar-ne els components. 
+2.3 Fer ús del maquinari, tractar de reparar-lo si s'espatlla i d'actualitzar-ne els components. 
 
 2.4 Traçar els dispositius (incloent els components) amb la ubicació geogràfica del maquinari i confirmar que encara és l'entitat que en fa reús.
 
 2.5 En cas que el maquinari quedi en desus ha de retornar-lo al cedent, i en cas que el cedent el descarti, l'ha de portar a un punt de recollida pel reciclatge (punt autoritzat per les autoritats competents) i fer les accions que el cedent li sol·liciti per a que en quedi constància.  
 
-2.6 Elaborar una memòria d'impacte social de l'ús dels dispositius rebuts, que s'ha d'enviar després dels sis mesos de la cessió i que tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
+2.6 Elaborar una memòria d'impacte social de l'ús del maquinari, que s'ha d'enviar després dels sis mesos de la cessió i que tindrà una llicència Creative Commons d’Attribució 4.0 Internacional i no comercial (CC BY-NC).  
 
-2.7 No revendre a tercers sota cap concepte el maquinari.     
+2.7 No revendre el maquinari a tercers sota cap concepte.   
 
 
-### 4. RESPONSABILITATS
+### 3. RESPONSABILITATS
 
 La cedent podrà repetir contra la cessionària tots els danys i perjudicis que derivin d’un incompliment per part d’aquesta en la seva gestió i obligacions contretes en el present acord en relació al maquinari.
 
