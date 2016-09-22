@@ -4,7 +4,8 @@
 2.1 [(CL-I) Conveni de cessió entre donant i gestor](#cl-i-conveni-de-cessió-entre-donant-i-gestor)   
 2.2 [(CL-I-A) Annex al conveni de cessió entre donant i gestor](#cl-i-a-annex-al-conveni-de-cessió-entre-donant-i-gestor)  
 2.2 [(CL-II) Conveni de cessió entre gestor i receptor](#cl-ii-conveni-de-cessió-entre-gestor-i-receptor)  
-2.3 [(CL-III) Conveni de gestió del circuit](#cl-iii-conveni-de-gestió-del-circuit)
+2.3 [(CL-III) Conveni de gestió del circuit](#cl-iii-conveni-de-gestió-del-circuit)  
+2.4 [Com participar d'un circuit de dispositius](#com-participar-dun-circuit-de-dispositius)
 
 # Llicències Generals
 
@@ -124,27 +125,27 @@ Els dispositius d'un circuit queden lligats a uns compromissos assumits en els d
 
 ## Com participar d'un circuit de dispositius
 ### Donant
-Ets un donant que vol donar a un circuit, has de fer dos passos:
-1. Sol·licitar al gestor del circuit el document (CL-I) Conveni de cessió entre donant i gestor.
-2. Sol·licitar al gestor del circuit el document (CL-III) per comprendre el funcionament i governança del circuit
-3. Cercar o elaborar un Annex (CLI-I-A) on es recullin les teves voluntats no expresades en el conveni.
-4. Signar els documents CL-I i CLI-A amb el gestor
-5. Fer la donació de dispositius al circuit
+Ets un donant que vol donar a un circuit:  
+1. Sol·licitar al gestor del circuit el document (CL-I) Conveni de cessió entre donant i gestor.  
+2. Sol·licitar al gestor del circuit el document (CL-III) per comprendre el funcionament i governança del circuit.  
+3. Cercar o elaborar un Annex (CLI-I-A) on es recullin les teves voluntats no expresades en el conveni.  
+4. Signar els documents CL-I i CLI-A amb el gestor.  
+5. Fer la donació de dispositius al circuit.  
 
 ### Receptor
-Ets un receptor i vols rebre d'un circtuis.
-1. Sol·licita el (CL-III) per comprendre el funcionament i governança del circuit.
-2. Sol·licita el (CL-II) i accepta'l en cas d'estar-hi d'acord. 
-3. Fes-ho saber al gestor i apuntat a la cua de recepció de dispositius
-4. El gestor et notificarà que hi ha un donant, signa el document III amb les condicions de la donació 
+Ets un receptor i vols rebre d'un circtuis:
+1. Sol·licita el (CL-III) per comprendre el funcionament i governança del circuit.  
+2. Sol·licita el (CL-II) i accepta'l en cas d'estar-hi d'acord.  
+3. Fes-ho saber al gestor i apuntat a la cua de recepció de dispositius.  
+4. El gestor et notificarà que hi ha un donant, signa el document III amb les condicions de la donació.   
 
 ### Gestor
-Ets un gestor que vol crear un circuit
+Ets un gestor que vol crear un circuit:    
 1. Posa't en contacte amb eReuse.org i t'ajudarem
 ### Proveïdor
-Ets un proveïdor que ofereix qualsevol servei al voltant del cicle de vida dels dispositius digitals
-1. Contacte al gestor d'un circuit. A la web d'eReuse.org es publicaran els circuits existents.
-2. Sol·licita el (CL-III) per comprendre el funcionament i governança del circuit i signa'l en cas d'estar-hi d'acord. 
+Ets un proveïdor que ofereix qualsevol servei al voltant del cicle de vida dels dispositius digitals:
+1. Contacte al gestor d'un circuit. A la web d'eReuse.org es publicaran els circuits existents.  
+2. Sol·licita el (CL-III) per comprendre el funcionament i governança del circuit i signa'l en cas d'estar-hi d'acord.  
 
 # (DL) Llicències de Dades
 > Les parts aporten dades a eReuse.org segons la tipologia i es defineixen almenys tres tipus de llicència segons el contingut de les dades aportades
