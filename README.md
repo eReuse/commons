@@ -1,10 +1,10 @@
 # Taula de continguts
 1. [Llicències Generals](#Llicències-Generals)
 2. [Llicència específica d'un circuit de dispositius](#llicència-específica-dun-circuit-de-dispositius)  
-2.1 [Conveni de cessió entre donant i gestor](#Conveni-de-cessió-entre-donant-i-gestor)   
-2.2 [Annex al conveni de cessió entre donant i gestor](#(CL-I)-Annex-al-conveni-de-cessió-entre-donant-i-gestor)  
-2.2 [Conveni de cessió entre gestor i receptor](#Conveni-de-cessió-entre-gestor-i-receptor)  
-2.3 [Conveni de gestió entre grups d'interès](#Conveni-de-gestió-entre-Grups-d'Interès)
+2.1 [Conveni de cessió entre donant i gestor](#cl-i-conveni-de-cessió-entre-donant-i-gestor)   
+2.2 [Annex al conveni de cessió entre donant i gestor](#cl-i-annex-al-conveni-de-cessió-entre-donant-i-gestor)  
+2.2 [Conveni de cessió entre gestor i receptor](#cl-ii-conveni-de-cessió-entre-gestor-i-receptor)  
+2.3 [Conveni de gestió entre grups d'interès](#cl-iii-conveni-de-gestió-entre-grups-dinterès-o-llicència-del-comú)
 
 ## Llicències Generals
 
@@ -23,7 +23,7 @@
 > Estat: No iniciada  
 > Enllaç: 
 
-## Llicència específica d'un circuit de dispositius
+## Llicència d'un circuit de dispositius
 
 Està composta de quatre convenis o documents:
 
@@ -111,13 +111,13 @@ El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'
 
 > Aquest conveni el signarien tots els receptors que volen rebre del circuit (Aquesta signatura es pot realitzar en el moment que l'entitat presenta el primer projecte).  
 
-### (CL-III) Conveni de gestió entre Grups d'Interès o Llicència del comú.
+### (CL-III) Conveni de gestió del circuit
 
 > Estat: en desenvolupament la versió 1.0 
 
-En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en la Llicència General d'un Circuit.
+En aquest conveni posem tot allò que afecta a la gestió i regula com resoldre situacions específiques o compromisos que poden variar en el temps. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en la Llicència General d'un Circuit.
 
-Els dispositius queden lligats a uns compromissos assumits en els documents I i II, un circuit ha de respectar aquests compromisos i fer-los prevaldre. 
+Els dispositius d'un circuit queden lligats a uns compromissos assumits en els documents I i II, un circuit ha de respectar aquests compromisos i fer-los prevaldre. 
 
 > Suposem que un donant vol donar un dispositiu al circuit X que ha rebut del circuit Y, si el circuit Y obliga als seus receptors a portar els dispositius a un punt verd, llavors el gestor del comú del Circuit Y haurà d'avisar al donant que només pot donar al circuit X si el gestor del circuit li ho permet. 
 
