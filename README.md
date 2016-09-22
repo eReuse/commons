@@ -1,29 +1,29 @@
 # Taula de continguts
 1. [Llicències Generals](#Llicències-Generals)
-2. [Llicència específica d'un circuit de dispositius](#llicència-específica-dun-circuit-de-dispositius)  
+2. [Llicència d'un circuit de dispositius](#llicència-específica-dun-circuit-de-dispositius)  
 2.1 [(CL-I) Conveni de cessió entre donant i gestor](#cl-i-conveni-de-cessió-entre-donant-i-gestor)   
 2.2 [(CL-I-A) Annex al conveni de cessió entre donant i gestor](#cl-i-a-annex-al-conveni-de-cessió-entre-donant-i-gestor)  
 2.2 [(CL-II) Conveni de cessió entre gestor i receptor](#cl-ii-conveni-de-cessió-entre-gestor-i-receptor)  
 2.3 [(CL-III) Conveni de gestió del circuit](#cl-iii-conveni-de-gestió-del-circuit)
 
-## Llicències Generals
+# Llicències Generals
 
  > Llicència d'àmbit general amb els principis, definicions i pactes d'àmbit general entre els grups d'interès. Els acords específics entre els grups d'interès s'inclouran preferentment en les llicències derivades. 
 
-#### (GCL) Llicència General d'un Circuit de Dispositius / General Circuit License:
+#### (GCL) Llicència General d'un Circuit de Dispositius 
 
 > Llicència d'àmbit general en el àmbit dels dispositius digitals  
 > Estat: en desenvolupament la versió 1.0  
 > Enllaç: [General-Circuit-License_CA.md](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md)
-
+> Explicació 
 
 #### (GDL) Llicència General de Dades
 
 > Llicència d'àmbit general en el àmbit de les dades que es generen durant el cicle de vida dels dispositius que gestionen.  
 > Estat: No iniciada  
-> Enllaç: 
 
-## Llicència d'un circuit de dispositius
+
+# Llicència d'un circuit de dispositius
 
 Està composta de quatre convenis o documents:
 
@@ -122,7 +122,31 @@ Els dispositius d'un circuit queden lligats a uns compromissos assumits en els d
 > Suposem que un donant vol donar un dispositiu al circuit X que ha rebut del circuit Y, si el circuit Y obliga als seus receptors a portar els dispositius a un punt verd, llavors el gestor del comú del Circuit Y haurà d'avisar al donant que només pot donar al circuit X si el gestor del circuit li ho permet. 
 
 
-## (DL) Llicències de Dades
+## Com participar d'un circuit de dispositius
+### Donant
+Ets un donant que vol donar a un circuit, has de fer dos passos:
+1. Sol·licitar al gestor del circuit el document (CL-I) Conveni de cessió entre donant i gestor.
+2. Sol·licitar al gestor del circuit el document (CL-III) per comprendre el funcionament i governança del circuit
+3. Cercar o elaborar un Annex (CLI-I-A) on es recullin les teves voluntats no expresades en el conveni.
+4. Signar els documents CL-I i CLI-A amb el gestor
+5. Fer la donació de dispositius al circuit
+
+### Receptor
+Ets un receptor i vols rebre d'un circtuis.
+1. Sol·licita el (CL-III) per comprendre el funcionament i governança del circuit.
+2. Sol·licita el (CL-II) i accepta'l en cas d'estar-hi d'acord. 
+3. Fes-ho saber al gestor i apuntat a la cua de recepció de dispositius
+4. El gestor et notificarà que hi ha un donant, signa el document III amb les condicions de la donació 
+
+### Gestor
+Ets un gestor que vol crear un circuit
+1. Posa't en contacte amb eReuse.org i t'ajudarem
+### Proveïdor
+Ets un proveïdor que ofereix qualsevol servei al voltant del cicle de vida dels dispositius digitals
+1. Contacte al gestor d'un circuit. A la web d'eReuse.org es publicaran els circuits existents.
+2. Sol·licita el (CL-III) per comprendre el funcionament i governança del circuit i signa'l en cas d'estar-hi d'acord. 
+
+# (DL) Llicències de Dades
 > Les parts aporten dades a eReuse.org segons la tipologia i es defineixen almenys tres tipus de llicència segons el contingut de les dades aportades
 
 ##### DL.1 - Profit - Product and component: durability (technical and Hardware ID).
@@ -134,7 +158,7 @@ TODO.
  * Definir llicència DL.2
  * Definir llicència DL.3* 
 
-## How to create odt or docx file
+## Com crear un fitxer odt o docx a partir d'un fitxer md (Markdown)
 1.  Select the file
 2.  Download de md (Markdown) document (remember click on raw)
 3.  Conversion from markdown to odt: in command line "pandoc doc.md -o doc.odt
