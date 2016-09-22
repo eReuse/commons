@@ -1,6 +1,6 @@
 # Taula de continguts
 1. [Llicències Generals](#Llicències-Generals)
-2. [Llicència específica d'un circuit de dispositius](#Llicència-específica-d'un-circuit-de-dispositius)  
+2. [Llicència específica d'un circuit de dispositius](#llicència-específica-dun-circuit-de-dispositius)  
 2.1 [Conveni de cessió entre donant i gestor](#Conveni-de-cessió-entre-donant-i-gestor)   
 2.2 [Annex al conveni de cessió entre donant i gestor](#(CL-I)-Annex-al-conveni-de-cessió-entre-donant-i-gestor)  
 2.2 [Conveni de cessió entre gestor i receptor](#Conveni-de-cessió-entre-gestor-i-receptor)  
