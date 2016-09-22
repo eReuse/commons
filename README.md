@@ -1,10 +1,10 @@
 # Taula de continguts
 1. [Llicències Generals](#Llicències-Generals)
 2. [Llicència específica d'un circuit de dispositius](#llicència-específica-dun-circuit-de-dispositius)  
-2.1 [Conveni de cessió entre donant i gestor](#cl-i-conveni-de-cessió-entre-donant-i-gestor)   
-2.2 [Annex al conveni de cessió entre donant i gestor](#cl-i-annex-al-conveni-de-cessió-entre-donant-i-gestor)  
-2.2 [Conveni de cessió entre gestor i receptor](#cl-ii-conveni-de-cessió-entre-gestor-i-receptor)  
-2.3 [Conveni de gestió entre grups d'interès](#cl-iii-conveni-de-gestió-entre-grups-dinterès-o-llicència-del-comú)
+2.1 [(CL-I) Conveni de cessió entre donant i gestor](#cl-i-conveni-de-cessió-entre-donant-i-gestor)   
+2.2 [(CL-I-A) Annex al conveni de cessió entre donant i gestor](#cl-i-a-annex-al-conveni-de-cessió-entre-donant-i-gestor)  
+2.2 [(CL-II) Conveni de cessió entre gestor i receptor](#cl-ii-conveni-de-cessió-entre-gestor-i-receptor)  
+2.3 [(CL-III) Conveni de gestió del circuit](#cl-iii-conveni-de-gestió-del-circuit)
 
 ## Llicències Generals
 
@@ -93,7 +93,7 @@ En aquest conveni el cedent (donant) transfereix les responsabilitats (ambiental
 
 > Aquest conveni el signarien tots els donants que volen donar al circuit (aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 
-### (CL-I) Annex al conveni de cessió entre donant i gestor 
+### (CL-I-A) Annex al conveni de cessió entre donant i gestor 
 > Estat: en desenvolupament la versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager ANNEX](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
 
