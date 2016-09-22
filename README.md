@@ -103,7 +103,7 @@ En aquest conveni el cedent (donant) transfereix les responsabilitats (ambiental
 
 En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, tot donant pot definir aquestes voluntats en un document **annex** al conveni I. En funció d'aquest annex els dispositius es donaran a uns o altres receptors, o podran accedir uns o altres proveïdors.
 
->  Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi les dels documents II i III. per ex: "el receptor només pot ser una entitat sense ànim de lucre". 
+>  Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md).
 
 ### (CL-II) Conveni de cessió entre gestor i receptor
 
