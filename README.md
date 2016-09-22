@@ -1,10 +1,16 @@
-Llicències i convenis de transferència de béns:
+# Taula de continguts
+1. [Llicències Generals](#Llicències-Generals)
+2. [Llicència específica d'un circuit de dispositius](#Llicència-específica-d'un-circuit-de-dispositius)  
+2.1 [Conveni de cessió entre donant i gestor](#Conveni-de-cessió-entre-donant-i-gestor)   
+2.2 [Annex al conveni de cessió entre donant i gestor](#(CL-I)-Annex-al-conveni-de-cessió-entre-donant-i-gestor)  
+2.2 [Conveni de cessió entre gestor i receptor](#Conveni-de-cessió-entre-gestor-i-receptor)  
+2.3 [Conveni de gestió entre grups d'interès](#Conveni-de-gestió-entre-Grups-d'Interès)
 
 ## Llicències Generals
 
  > Llicència d'àmbit general amb els principis, definicions i pactes d'àmbit general entre els grups d'interès. Els acords específics entre els grups d'interès s'inclouran preferentment en les llicències derivades. 
 
-#### (GCL) Llicència General d'un Circuit de Dispositius:
+#### (GCL) Llicència General d'un Circuit de Dispositius / General Circuit License:
 
 > Llicència d'àmbit general en el àmbit dels dispositius digitals  
 > Estat: en desenvolupament la versió 1.0  
@@ -17,15 +23,15 @@ Llicències i convenis de transferència de béns:
 > Estat: No iniciada  
 > Enllaç: 
 
-## Llicència de circuit
+## Llicència específica d'un circuit de dispositius
 
-Està composta de tres documents:
+Està composta de quatre convenis o documents:
 
- * I) el conveni de cessió de dispositius entre el donant i el gestor, i l'annex amb les especificitats del donant, 
+ * I) el conveni de cessió de dispositius entre el donant i el gestor i un annex al document I amb les especificitats del donant, 
  * II) el conveni de cessió de dispositius entre el gestor i el receptor, i
  * III) el conveni de gestió del circuit on es defineixen les normes de funcionament.
 
-Els convenis on intervenen els donants són el I i l'annex, els gestors en el I, annex al I, II i III, els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) el III i els receptors en el II. 
+Els convenis on intervenen els donants són el I i l'annex, els gestors en el I, annex al I, II i III, els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) el III i els receptors en el II i el III quan accepten un dispositiu d'un circuit. 
 
 ![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
 
@@ -71,27 +77,29 @@ Els convenis on intervenen els donants són el I i l'annex, els gestors en el I,
 
 
 
-> Els documents I i II accepten la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md).
+> Els documents I i II estan d'acord (agree) amb la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-License_CA.md).
 
 > Els documents Annex al I i III són una extenció de la llicència general i en (re)defineixen les normes de funcionament sense invalidad els principis i clàusules de la llicència general.
 
-> Un dispositiu està vinculat a un document tipus II, obligacions del donant, i a un document tipus III, obligacions dels grups d'interès. 
-
-* Tot dispositiu té una llicència que depen de la combinació de les restriccions dels documents commentats i descrits en més detall a continuació. *
-
+> Un dispositiu està vinculat a un document tipus II, obligacions del donant, i a un document tipus III, obligacions del circuit.  
   
 ### (CL-I) Conveni de cessió entre donant i gestor 
 
 > Estat: en desenvolupament la versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager.md)  
-> Enllaç: [CL-I-Agreement-Donor-to-Manager ANNEX](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
+
 
 En aquest conveni el cedent (donant) transfereix les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment. 
 
-En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, per ex: "el receptor només pot ser una entitat sense ànim de lucre", etc... cada donant defineix aquestes voluntats en un document **annex** al conveni I. En funció d'aquest annex els dispositius es donaran a uns o altres receptors o els  
+> Aquest conveni el signarien tots els donants que volen donar al circuit (aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 
-> Aquest conveni el signarien tots els donants que volen donar al circuit (Aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
-> Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi les dels documents II i III.
+### (CL-I) Annex al conveni de cessió entre donant i gestor 
+> Estat: en desenvolupament la versió 1.0  
+> Enllaç: [CL-I-Agreement-Donor-to-Manager ANNEX](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
+
+En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, tot donant pot definir aquestes voluntats en un document **annex** al conveni I. En funció d'aquest annex els dispositius es donaran a uns o altres receptors, o podran accedir uns o altres proveïdors.
+
+>  Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi les dels documents II i III. per ex: "el receptor només pot ser una entitat sense ànim de lucre". 
 
 ### (CL-II) Conveni de cessió entre gestor i receptor
 
@@ -107,13 +115,12 @@ El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'
 
 > Estat: en desenvolupament la versió 1.0 
 
-En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en la llicència.
+En aquest conveni posem tot allò que afecta a totes les parts i regula com resoldre situacions específiques o compromisos que poden variar durant la vigència del conveni del donant. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en la Llicència General d'un Circuit.
 
-Els dispositius que arriben al comú procedeixen de donants o d'latres circuits tal i que aniran lligats a uns compromissos assumits en els documents I i Annex, i document II, tal que un comú ha de respectar aquests compromisos i fer-los prevaldre. 
+Els dispositius queden lligats a uns compromissos assumits en els documents I i II, un circuit ha de respectar aquests compromisos i fer-los prevaldre. 
 
-> Suposem que un donant vol donar un dispositiu que va rebre d'un altre circuit (li direm circuit X), si    un dispositius procedent d'un altre circuit (X), i aquest obliga al receptor a portar-lo a un punt verd, el gestor del comú haurà d'avisar al donant de que només pot donar el dispositius si  
+> Suposem que un donant vol donar un dispositiu al circuit X que ha rebut del circuit Y, si el circuit Y obliga als seus receptors a portar els dispositius a un punt verd, llavors el gestor del comú del Circuit Y haurà d'avisar al donant que només pot donar al circuit X si el gestor del circuit li ho permet. 
 
-> En el cas d'implementació d'un transferhub aquest conveni el signarien els receptors en el moment de rebre el dispositius. Pot passar que un receptor tingui dispositius amb diferents pactes tipus III (i també tipus II). Per exemple suposem que un receptor rep d'un donant públic i de un refabricador, l'equip del doannt públic no el podrà vendre i en canvi si podrà vendre l'equip del refabricador. Aquests pactes (o restriccions) aniran relfexades a l'etiqueta o seran visibles via realitat aumentada al llegir-se el codi QR.
 
 ## (DL) Llicències de Dades
 > Les parts aporten dades a eReuse.org segons la tipologia i es defineixen almenys tres tipus de llicència segons el contingut de les dades aportades
