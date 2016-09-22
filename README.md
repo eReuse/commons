@@ -26,13 +26,13 @@
 
 # Llicència d'un circuit de dispositius
 
-Està composta de quatre convenis o documents:
+Està composta de quatre convenis o documents principals:
 
  * I) el conveni de cessió de dispositius entre el donant i el gestor i un annex al document I amb les especificitats del donant, 
  * II) el conveni de cessió de dispositius entre el gestor i el receptor, i
  * III) el conveni de gestió del circuit on es defineixen les normes de funcionament.
 
-Els convenis on intervenen els donants són el I i l'annex, els gestors en el I, annex al I, II i III, els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) el III i els receptors en el II i el III quan accepten un dispositiu d'un circuit. 
+Els convenis on intervenen els donants són el I i l'annex, els gestors en el I, annex al I, II i III, els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) el III i els receptors en el II i en el Annex al I adaptat al receptor. 
 
 ![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
 
@@ -82,7 +82,10 @@ Els convenis on intervenen els donants són el I i l'annex, els gestors en el I,
 
 > Els documents Annex al I i III són una extenció de la llicència general i en (re)defineixen les normes de funcionament sense invalidad els principis i clàusules de la llicència general.
 
-> Un dispositiu està vinculat a un document tipus II, obligacions del donant, i a un document tipus III, obligacions del circuit.  
+> Tot dispositiu sempre està vinculat a les obligacions amb el donant (document tipus II, un Annex al I), i obligacions amb el circuit ( document Waybill que està d'acord amb el document III).  
+
+En el moment de fer una cessió del donant al gestor es crea un document tipus albarà (Waybill) que fa de **certificat de lliurament** (veure explicació en CL-I), i on es fa referència a l'acord vigent entre les parts (documents I i Annex al I). Aquest albarà conté un llistat exhaustiu dels dispositius que es cedeixen i la seva tipologia (per a reparar o per a reutilitzar). En el moment que un dispositiu cedit al gestor es portar a recilar, ja sigui perquè no s'ha pogut reparar o perque un receptor l'ha portat a un punt verd, el gestor emet un albarà que fa de **certificat de reciclatge** (veure explicació en CL-I). 
+
   
 ### (CL-I) Conveni de cessió entre donant i gestor 
 

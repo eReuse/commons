@@ -52,12 +52,11 @@ b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilitza
 
 ### 3.  CERTIFICATS
 
-3.1. **Certificat de lliurament (albarà**): Quan la cedent dóna a la cessionària els equips, aquesta ha de lliurar telemàticament a la cedent un albarà, on constarà:
+3.1. **Certificat de lliurament (albarà**): Quan la cedent dóna a la cessionària el maquinari, aquesta ha de lliurar telemàticament a la cedent un albarà, on constarà:
 
   -   La identificació del maquinari (número d’inventari de la cedent).
   -   La marca i model del maquinari cedit
-  -   La identificació del maquinari del fabricant o el número de sèrie  (identificador del fabricant), només pel maquinari considerat *per a
-    reutilitzar*,
+  -   La identificació del maquinari del fabricant o el número de sèrie  (identificador del fabricant), només pel maquinari considerat *per a reutilitzar*,
   -   El receptor i/o proveïdor de la cessionària a qui aquesta fa la cessió. 
   -   La tipologia de maquinari que es defineix com a *per a reutilitzar o per a reparar.*
 
