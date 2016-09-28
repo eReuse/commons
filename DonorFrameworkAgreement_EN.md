@@ -1,1 +1,0 @@
-- [] translate to english when [Donors Agreement] is finished (https://github.com/eReuse/commons/blob/master/DonorFrameworkAgreement_CA.md)
