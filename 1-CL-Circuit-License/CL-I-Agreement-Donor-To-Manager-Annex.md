@@ -14,7 +14,9 @@ D’altra part, @name-person-receiver en representació de @name-company-manager
 
 ### 1\. OBJECTE
 
-1. La cessionària es compromet a que el maquinari vagi a tres tipologies de receptors: a) el que ho rebran *gratuïtament* (sense pagar cap cost), b) els que hauran de contribuïr amb un *mínim de costos* (transport, magatzem i altres no assumibles), i c) els que hauran de contribuir compensant els costos de tipus b a més dels costos de treball, gestió i serveis de les empreses d'economia social que en fan la 'posada a punt' i la distribució als receptors. Els percentatges de tipus a, b i c es defineixen al manifest.
+1. El present annex subscriu els compromisos adquirits per la cessionaria i el cedent en el conveni vigent i extent la Llicència General d'un Circuit de eReuse.org versió 5 del 19 de setembre del 2016. 
+
+2. La cessionària es compromet a que el maquinari vagi a tres tipologies de receptors: a) el que ho rebran *gratuïtament* (sense pagar cap cost), b) els que hauran de contribuïr amb un *mínim de costos* (transport, magatzem i altres no assumibles), i c) els que hauran de contribuir compensant els costos de tipus b a més dels costos de treball, gestió i serveis de les empreses d'economia social que en fan la 'posada a punt' i la distribució als receptors. Els percentatges de tipus a, b i c es defineixen al manifest.
 
 ### MANIFESTEN:
 
@@ -22,11 +24,11 @@ D’altra part, @name-person-receiver en representació de @name-company-manager
 
 2. La cessionària es compromet que els proveïdors que faran la 'posada a punt' i la distribució del maquinari reutilitzable són entitats sense ànim de lucre.
 
-3. La cessionària es compromet a que el maquinari reutilitzable vagi almenys en un 50% als receptors de tipus "a" i "b".
+3. La cessionària es compromet a que el maquinari reutilitzable vagi almenys en un 50% a receptors de tipus "a" i "b".
 
 4. La cessionària es compromet que almenys el 50% del maquinari reutilitzable vagi a receptors de la ciutat de Barcelona.
 
-5. La cessionaria es compromet que almenys el 50% del maquinari vagi a entitats sense ànim de lucre.
+5. La cessionaria es compromet que almenys el 50% del maquinari vagi a receptors tipus entitats sense ànim de lucre.
 
 6. La cessionaria es compromet a ser transparent amb el cedent amb els costos imputats a les tipologies de receptors tipus "b" i tipus "c".
 
