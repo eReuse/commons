@@ -60,7 +60,7 @@ b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilitza
   -   El receptor i/o proveïdor de la cessionària a qui aquesta fa la cessió. 
   -   La tipologia de maquinari que es defineix com a *per a reutilitzar o per a reparar.*
 
-3.2. **Certificat de reciclatge:** Quan la cedent dóna a la cessionària el maquinari per a reparar (i fins a 10 dies naturals després de la donació), aquesta o els seus proveïdors han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que s'ha enviat a reciclar i el que s'ha enviat a la posada a punt per a la reutilització i en aquest certificat constarà la relació de números d’inventari de la cedent així com la marca i el model del maquinari cedit.
+3.2. **Certificat de reciclatge:** Quan la cedent dóna a la cessionària el maquinari per a reparar (i fins a 30 dies naturals després de la donació), la cessionària o els seus proveïdors han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que s'ha enviat a reciclar i el que s'ha enviat a la posada a punt per a la reutilització i en aquest certificat constarà la relació de números d’inventari de la cedent així com la marca i el model del maquinari cedit.
 
 ### 4. RESPONSABILITATS
 

@@ -108,7 +108,7 @@ En un circuit participa més d'un donant i ténen voluntats diferents en referè
 ### (CL-II) Conveni de cessió entre gestor i receptor
 
 > Estat: Finalitzat versió 1.0  
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-ES](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-ES)  
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-ES](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-ES.md)  
 > Enllaç: [CL-I-Agreement-Manager-to-Receiver-Entity-ES (en desenvolupament)   
 > Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-CAT (en traducció)   
 > Enllaç: [CL-I-Agreement-Manager-to-Receiver-Entity-CAT (en desenvolupament)   
