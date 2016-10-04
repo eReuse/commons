@@ -107,11 +107,15 @@ En un circuit participa més d'un donant i ténen voluntats diferents en referè
 
 ### (CL-II) Conveni de cessió entre gestor i receptor
 
-> Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-NotForProfit](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-NotForProfit.md)  
-> Enllaç: CL-I-Agreement-Manager-to-Receiver-ForProfit (en desenvolupament) 
+> Estat: Finalitzat versió 1.0  
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-ES](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-ES)  
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Entity-ES (en desenvolupament) 
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-CAT (en traducció) 
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Entity-CAT (en desenvolupament) 
 
-El signen el gestor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
+El signen el gestor i el receptor, o en cas que el gestor o delegui, pot signar-ho un proveïdor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
+
+Aquest conveni té la forma jurídica de comodat que és un tipus de préstec gratuït que el receptor ha de retornar al gestor/distribuïdor un cop ja no en faci ús.
 
 > Aquest conveni el signarien tots els receptors que volen rebre del circuit (Aquesta signatura es pot realitzar en el moment que l'entitat presenta el primer projecte).  
 
