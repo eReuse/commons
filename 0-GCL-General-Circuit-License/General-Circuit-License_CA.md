@@ -1,6 +1,6 @@
 Llicència General d'un Circuit Comú de Dispositius Digitals
 ============================================================
-Llicència eReuse.org, Versió 0 Revisió 5, 19 de setembre 2016
+Llicència eReuse.org, Versió 0 Revisió 6, 5 d'octubre 2016
 
 ## Principis Fonamentals
 1. Ets lliure d'utilitzar el circuit per qualsevol propòsit en tant que no perjudiquis el seu funcionament, la llibertat dels altres usuaris, i respectis les condicions d'ús dels seus recursos.
@@ -19,13 +19,11 @@ Llicència eReuse.org, Versió 0 Revisió 5, 19 de setembre 2016
 
 3. Un Circuit és d'accés i de participació oberta en quan els usuaris el poden usar, contribuir al sistema de recursos i participar en el seu desenvolupament, operacions i governança. 
 
-4. Un Circuit ha de promoure el consum i producció de dispositius circulars. Un dispositiu digital és circular si és durable, és viable la seva **reparació** i existeixen **recanvis**, és pot millorar/actualitzar amb **components** <!--normalització, de mòduls a components -->, permet un **diagnòstic** i una **identificació** única desatesos dels seus components (possibilitant la **traçabilitat**), i és fàcil de desmantellar i de recuperar les matèries primeres (**reciclar**).
+4. Un Circuit ha de promoure el consum i producció de dispositius circulars. Un dispositiu digital és circular si és durable, és viable la seva **reparació** i existeixen **recanvis**, és pot millorar/actualitzar amb **components**, permet un **diagnòstic** i una **identificació** única desatesos dels seus components (possibilitant la **traçabilitat**), i és fàcil de desmantellar i de recuperar les matèries primeres (**reciclar**).
 
 5. Un Circuit és un acord d'adhesió i explotació que es fa entre iguals, de cada participant amb el conjunt, i què és comú per a tothom que en forma part. Cada Circuit va lligat a una llicència comú per tothom, que fa alhora les funcions de contracte d'adhesió i de llicència d'ús del sistema de recursos, esdevenint així una garantia per qui subscriuen el Circuit (sobre quins són els termes i condicions aplicables). La creació de Circuits no és exclusiva i se'n poden crear llicències derivades.
 
 ## Grups d'interès
-
-<!--todo: merge i linkar la wiki, http://wiki.ereuse.org/def:stakeholders -->
 
 Els grups d’interès són grups, col·lectius, organitzacions i individus que extreuen i creen valor amb la circularitat dels dispositius digitals. *La mostra presentada és orientativa i se’n poden crear de nous*.
 
@@ -46,9 +44,7 @@ Interessades en la gestió de les atribucions i obligacions específiques per re
 
 ## Requeriments del circuit i condicions d’ús general del sistema de recursos.
 
-Tot usuari del Circuit al que pertany acorda el compliment dels principis i consideracions d’interès públic, social i ambiental indicades en els punts anteriors i es reconeix amb capacitat legal necessària per a obligar-se en representació de les respectives entitats a les que pertanyen, la subscripció del present acord, que es regirà pels següents requeriments i condicions d'ús.
-
- <!--queda un pèl estrany, es pot afegir simplement 'tot usuari d'un Circuit' en general-->
+Tot usuari del Circuit acorda el compliment dels principis i consideracions d’interès públic, social i ambiental indicades en els punts anteriors i es reconeix amb capacitat legal necessària per a obligar-se en representació de les respectives entitats a les que pertanyen, la subscripció del present acord, que es regirà pels següents requeriments i condicions d'ús.
 
 ## Condicions d'ús
 
@@ -91,9 +87,7 @@ El Sistema de Recursos s’ha de preservar, sostenir i millorar:
 
 
 ## Resolució de conflictes
-Presentem els principals aspectes que són generadors de conflictes entre els cedents, proveïdors i receptors del circuit. Definim un conjunt de criteris bàsics que el circuit ha d'aplicar. També en pot crear de nous, que han de quedar recollits en una llicència derivada.
-
-<!--Comentaris del següent paràgraf: Es pot expandir el 'publicat a eReuse.org' explicant on s'han de publicar les llicències i informació general (i quina) del Circuit-->
+Presentem els principals aspectes que són generadors de conflictes entre els cedents, proveïdors i receptors del circuit. Definim un conjunt de principis bàsics que criteris bàsics que es pot expandir en una llicència derivada de comú acord entre els grups d'interès del circuit
 
 1. En cas de qüestions, dubtes o conflictes relatius a d'interpretació o aplicació de la llicència, tothom es pot dirigir als gestors del circuit perquè ho resolguin. La petició es formalitza a través d'un correu dirigit als responsables del circuit (publicat a eReuse.org), especificant-ho clarament a l'assumpte (e.x. "Consulta / Conflicte sobre el circuit en relació a...."), i en el text del correu, una descripció de la qüestió, de les seves motivacions, dels punts afectats quan n'hi han, propostes, etc. És a dir, procurar que estigui ben documentat i sigui entenedor. Un cop el gestor ha rebut la notificació i en funció de la naturalesa de la petició aplicarà el següent procediment:
 
@@ -112,7 +106,6 @@ Presentem els principals aspectes que són generadors de conflictes entre els ce
 4. A les resolucions s'hi pot presentar un recurs, o alternativament, acudir als Tribunals competents.
 
 ### Sobre la Llicència General d'un Comú Circular de Dispositius
-<!--un comú o ús comú?-->
 
 1. Gestació, interpretació i revisió del text. Una activitat innovadora com la que es realitza a eReuse.org exigeix d'un procés continuat en el temps de revisió i actualització que permeti adaptar-nos a noves realitats i millorar la claredat en les seves disposicions expressant millor els mateixos criteris que s'apliquen. Com que aquest text pot canviar amb el pas del temps i alhora serveix per adquirir uns compromisos en el moment de la seva acceptació, es preveu com cal interpretar el text de manera que es pugui revisar respectant els compromisos adquirits:
 
