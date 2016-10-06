@@ -25,7 +25,7 @@ En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament 
 
 ### 1\. OBJECTE
 
-1.1. La cedent fa donació de tots els seus drets, títols, interessos i beneficis en i per al maquinari a la cessionària per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
+1.1. La cedent fa donació de tots els seus drets i, títols, en i per al maquinari a la cessionària, que accepta, per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
 
 ### 2\. CONDICIONS DE LA DONACIÓ
 
@@ -47,7 +47,7 @@ b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilitza
 
 2.5.  En el moment de la cessió de bens, la cedent permet a la cessionària lliurar el maquinari a entitats que li proveeixen de serveis (proveïdors) i a les entitats receptores i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la  cessionària hi sigui presencialment. 
 
-2.6.  La cedent dóna i assigna a la cessionària el maquinari que funciona i supera les proves de rendiment (per a reutilitzar), i el maquinari que no funciona o té baix rendiment (per a reparar) però que pot ser reparat, actualitzat o reciclat. La totalitat del maquinari per a reutilitzar és dóna als receptors, i la totalitat del maquinari per a reparar i/o reciclar, als proveïdors per a que el reparin,  actualitzin o en facin el reciclatge adeqüat.
+2.6.  La cedent dóna i assigna a la cessionària el maquinari que funciona i supera les proves de rendiment (per a reutilitzar), i el maquinari que no funciona o té baix rendiment (per a reparar) però que pot ser reparat, actualitzat o reciclat. La totalitat del maquinari per a reutilitzar és donarà als receptors per part de la cessionària, i la totalitat del maquinari per a reparar,es donarà per la cessionària als proveïdors per a que el reparin, actualitzin o en facin el reciclatge adeqüat.
 
 
 ### 3.  CERTIFICATS
@@ -66,6 +66,8 @@ b.  Els *proveïdors* prioritzin la reparació i preparació per a la reutilitza
 
 La cedent podrà repetir contra la cessionària tots els danys i perjudicis que derivin d’un incompliment per part d’aquesta en la seva gestió i obligacions contretes en el present acord en relació al maquinari.
 
+La cedent no es fa responsable del funcionament del maquinari i no dona cap garantia a la cessionària en relació a aquest. 
+
 ### 5. VIGÈNCIA
 
 El present conveni té una vigència de dos anys i es renovarà de forma tàcita de forma anual excepte decisió de qualsevol de les parts comunicada per escrit a l’altra amb una anticipació mínima d’un mes. En tot cas, la vigència màxima de l’acord, incloent el termini inicial i les eventuals pròrrogues, serà de 4 anys.
@@ -82,14 +84,14 @@ Ambdues parts es comprometen al compliment de la Llei Orgànica 15/1999, de 13 d
 
 ### 8. CAUSES D’EXTINCIÓ I EFECTES DE L’INCOMPLIMENT
 
-El present acord s'extingirà per alguna de les causes següents: 
+El present acord s'extingirà per alguna de les causes següents, sens perjudici d'aquelles obligacions que hagin de romandre vigents amb posterioritat a l'extinció: 
   - Per finalització del termini de vigència. 
   - Per mutu acord de les parts manifestat per escrit.
   - Per incompliment dels acords que s'hi estableixen.
   - Per la denúncia d'una de les parts feta amb un mínim de dos mesos d'antelació, la qual cosa donarà lloc a la finalització del seus efectes un cop finalitzat el període de preavís i sense perjudici de finalitzar els compromisos iniciats.
   - Per les causes generals establertes en la legislació vigent.
 
-Qualsevol incompliment de les estipulacions d’aquest conveni permetrà a la part perjudicada optar per exigir-ne el compliment o la resolució.
+Qualsevol incompliment de les estipulacions d’aquest acord permetrà a la part perjudicada optar per exigir-ne el compliment o la resolució.
 
 ### 9. JURISDICCIÓ
 
@@ -97,6 +99,10 @@ Les parts, per a la resolució de qualsevol qüestió o controvèrsia que pugui 
 
 I en prova de conformitat les dues parts signen aquest acord, per duplicat i a un sol efecte, en la data i el lloc esmentats a l’encapçalament.
 
-@name-person-donor ...........................................
 
-@name-company-donor ...........................................
+|   cessionària                  |   cedent                       |
+|--------------------------------|--------------------------------|
+|                                |                                | 
+| @name-person-donor             |  @name-company-donor           | 
+
+

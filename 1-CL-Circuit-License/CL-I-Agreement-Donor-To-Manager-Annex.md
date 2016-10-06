@@ -14,7 +14,7 @@ D’altra part, @name-person-receiver en representació de @name-company-manager
 
 ### 1\. OBJECTE
 
-1. El present annex subscriu els compromisos adquirits per la cessionària i el cedent en el conveni vigent i és una extensió  la Llicència General d'un Circuit de eReuse.org versió 5 del 19 de setembre del 2016.  
+1. El present annex és una extenció els compromisos adquirits per la cessionària i el cedent en el conveni vigent i és una extensió  la Llicència General d'un Circuit de eReuse.org versió 6 del 5 d'Octubre del 2016.  
 
 2. La cessionària es compromet a que el maquinari vagi a tres tipologies de receptors: a) el que ho rebran *gratuïtament* (sense pagar cap cost), b) els que hauran de contribuïr amb un *mínim de costos* (transport, magatzem i altres no assumibles), i c) els que hauran de contribuïr compensant els costos de tipus "b", a més dels costos de treball, gestió i serveis de les empreses d'economia social que en fan la 'posada a punt' i la distribució als receptors. Els percentatges de tipus a, b i c es defineixen al manifest.
 
