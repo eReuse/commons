@@ -100,9 +100,8 @@ Les parts, per a la resolució de qualsevol qüestió o controvèrsia que pugui 
 I en prova de conformitat les dues parts signen aquest acord, per duplicat i a un sol efecte, en la data i el lloc esmentats a l’encapçalament.
 
 
-|   cessionària                  |   cedent                       |
-|--------------------------------|--------------------------------|
-|                                |                                | 
-| @name-person-donor             |  @name-company-donor           | 
+Sr./Sra. @name-person-donor,@name-company-donor, la part CEDENT.
+
+Sr./Sra. @name-person-manager,  @name-company-manager, la part CESSIONÀRIA.
 
 
