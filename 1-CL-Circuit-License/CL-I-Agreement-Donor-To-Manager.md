@@ -1,3 +1,7 @@
+Conveni de cessió de dispositius entre el donant i el gestor
+============================================================
+Versió 0 Revisió 8, 6 d'octubre 2016
+
 @city, @day de @month de @year
 
 ### INTERVENEN:
