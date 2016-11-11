@@ -28,9 +28,11 @@ TERCER: Seràn a compte del comodatari les despeses que siguin necessaries i pre
 
 QUART: El comodatari podrà efectuar reparacions i/o millores sense exprés consentiment del comodante, quedant en tot cas les expenses invertides en benefici del bé, sense que procedeixi reemborsament de cap espècie a favor del comodatari, en cap cas.
 
-CINQUÈ: El comodatario s'obliga a mantenir, conservar i cuidar correctament el bé cedit, podent el comodant inspeccionar el bé quan ho estimi oportú, a fi de constatar el seu estat.
+CINQUÈ: El comodatari s'obliga a mantenir, conservar i cuidar correctament el bé cedit, i en cas de que extregui algun dels seus components (memòria, disc,...) l'haurà de substituir per un d’iguals característiques. En cas que el bé s'espatlli el comodatari no haurà de compensar al comodant.
 
-SISENA: L'incompliment de qualsevol de les clàusules anteriors, serà causa d'extinció del present contracte.
+SISENA: Quan el comodatari es vulgui desfer del bé cedit haurà d'avisar al comodant i facilitar que en faci la recollida per canalitzar-lo a un altre interessat. En cas que el comodant no trobi cap interessat que el vulgui tornar a reutilitzar, el comodatari l'ha de portar al punt verd que el comodant indiqui, sempre que sigui de la vostra proximitat (menys 5 kilòmetres), en cas contrari a un punt verd autoritzat per les autoritats competents.
+
+SETENA: L'incompliment de qualsevol de les clàusules anteriors, serà causa d'extinció del present contracte.
 
 Les parts, per a la resolució de qualsevol qüestió o controvèrsia que pugui sorgir en relació a la interpretació o compliment del present acord, se sotmeten als Jutjats i Tribunals del ciutat de Barcelona, amb renúncia expressa a qualsevol altre fur que pogués ser aplicable o a l'arbitratge de dret en cas d'acord en aquest sentit.
 
