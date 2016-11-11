@@ -20,15 +20,15 @@ II. Que SENYOR/SENYORA @name-person-receiver està interessat en l’ús de dit 
 
 ESTIPULACIONS:
 
-PRIMER: La cessió objecte del present document, es formalitza amb el fi de que el comodatari pugui utilitzar el bé @computers durant un període de temps indefinit mentre faci un ús del mateix.
+PRIMERA: La cessió objecte del present document, es formalitza amb el fi de que el comodatari pugui utilitzar el bé @computers durant un període de temps indefinit mentre faci un ús del mateix.
 
 SEGONA: A la signatura del present document, el comodant lliura el bé  al comodatari, que rep l'ús del mateix.
 
-TERCER: Seràn a compte del comodatari les despeses que siguin necessaries i precises per conservar el bé en les mateixes condicions en què es troba actualment.
+TERCERA: Seràn a compte del comodatari les despeses que siguin necessaries i precises per conservar el bé en les mateixes condicions en què es troba actualment.
 
-QUART: El comodatari podrà efectuar reparacions i/o millores sense exprés consentiment del comodante, quedant en tot cas les expenses invertides en benefici del bé, sense que procedeixi reemborsament de cap espècie a favor del comodatari, en cap cas.
+QUARTA: El comodatari podrà efectuar reparacions i/o millores sense exprés consentiment del comodante, quedant en tot cas les expenses invertides en benefici del bé, sense que procedeixi reemborsament de cap espècie a favor del comodatari, en cap cas.
 
-CINQUÈ: El comodatari s'obliga a mantenir, conservar i cuidar correctament el bé cedit, i en cas de que extregui algun dels seus components (memòria, disc,...) l'haurà de substituir per un d’iguals característiques. En cas que el bé s'espatlli el comodatari no haurà de compensar al comodant.
+CINQUENA: El comodatari s'obliga a mantenir, conservar i cuidar correctament el bé cedit, i en cas de que extregui algun dels seus components (memòria, disc,...) l'haurà de substituir per un d’iguals característiques. En cas que el bé s'espatlli el comodatari no haurà de compensar al comodant.
 
 SISENA: Quan el comodatari es vulgui desfer del bé cedit haurà d'avisar al comodant i facilitar que en faci la recollida per canalitzar-lo a un altre interessat. En cas que el comodant no trobi cap interessat que el vulgui tornar a reutilitzar, el comodatari l'ha de portar al punt verd que el comodant indiqui, sempre que sigui de la vostra proximitat (menys 5 kilòmetres), en cas contrari a un punt verd autoritzat per les autoritats competents.
 
