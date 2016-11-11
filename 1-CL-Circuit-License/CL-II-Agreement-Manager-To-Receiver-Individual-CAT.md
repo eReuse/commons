@@ -1,4 +1,4 @@
-Versión CAT 1.0  Revisió 0.0
+Versión CAT 1.0  Revisió 0.1
 
 A @city a @day de @month de @year
  
