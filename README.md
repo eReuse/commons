@@ -170,7 +170,7 @@ TODO.
 1.  Select the file
 2.  Download de md (Markdown) document (remember click on raw)
 3.  Conversion from markdown to odt: in command line "pandoc doc.md -o doc.odt
-4.  Conversion from markdown to docx: in command line "pandoc-s -S doc.md -o doc.docx
+4.  Conversion from markdown to docx: in command line "pandoc -s -S doc.md -o doc.docx
 
 More examples of conversion online (http://pandoc.org/demos.html#examples) or use Markdown Edit program.
 
