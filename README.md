@@ -90,7 +90,7 @@ En el moment de fer una cessió del donant al gestor es crea un document tipus a
 ### (CL-I) Conveni de cessió entre donant i gestor 
 
 > Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager.md)  
+> Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-CAT.md)  
 
 
 En aquest conveni el cedent (donant) transfereix les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment. 
@@ -98,8 +98,8 @@ En aquest conveni el cedent (donant) transfereix les responsabilitats (ambiental
 > Aquest conveni el signarien tots els donants que volen donar al circuit (aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 
 ### (CL-I-A) Annex al conveni de cessió entre donant i gestor 
-> Estat: en desenvolupament la versió 1.0  
-> Enllaç: [CL-I-Agreement-Donor-to-Manager ANNEX](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex.md)
+> Estat: versió 1.0  
+> Enllaç: [CL-I-Agreement-Donor-to-Manager-Annex-CAT](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex-CAT.md)
 
 En un circuit participa més d'un donant i ténen voluntats diferents en referència a qui pot gestionar i reutilitzar els dispositius que donen, tot donant pot definir aquestes voluntats en un document **annex** al conveni I. En funció d'aquest annex els dispositius es donaran a uns o altres receptors, o podran accedir uns o altres proveïdors.
 
@@ -109,9 +109,8 @@ En un circuit participa més d'un donant i ténen voluntats diferents en referè
 
 > Estat: Finalitzat versió 1.0  
 > Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-ES](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-ES.md)  
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Entity-ES (en desenvolupament)   
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-CAT (en traducció)   
-> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Entity-CAT (en desenvolupament)   
+> Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-CAT](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-CAT.md)    
+ 
 
 El signen el gestor i el receptor, o en cas que el gestor o delegui, pot signar-ho un proveïdor i el receptor. Es signen per periodes d'anys o sense data d'extinció i sempre les parts poden finalitzar-lo o una part excloures.
 
