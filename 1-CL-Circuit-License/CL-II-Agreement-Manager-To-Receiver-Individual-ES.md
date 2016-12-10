@@ -1,4 +1,4 @@
-Versión ES 1.0  
+> Versión ES 1.0 revisión 0.1  
 
 En @city a @day de @month de @year
  
@@ -37,11 +37,11 @@ TERCERA: Serán de cuenta del comodatario los gastos que fueran necesarios y pre
 
 CUARTA: El comodatario podrá efectuar reparaciones y/o mejoras sin expreso consentimiento del comodante, quedando en todo caso las expensas invertidas en beneficio del bien, sin que proceda reembolso de ninguna especie a favor del comodatario, en ningún caso.
 
-QUINTA: El comodatario se obliga a mantener, conservar y cuidar correctamente el bien cedido, pudiendo el comodante inspeccionar el bien cuando lo estime oportuno, a fin de constatar su estado.
+SEXTA: Cuando el comodatario se quiera deshacerse del bien cedido deberá avisar al comodante y facilitar que haga la recogida para canalizarlo a otro interesado. En caso de que el comodante no encuentre ningún interesado que lo quiera volver a reutilizar, el comodatario debe llevar al punto limpio que el comodante indique, siempre que sea de su proximidad (menos 5 kilómetros), en caso contrario a un punto verde autorizado por las autoridades competentes.
 
-SEXTA: El incumplimiento de cualquiera de las cláusulas anteriores, será causa de extinción del presente contrato.
+SÉPTIMA: El incumplimiento de cualquiera de las cláusulas anteriores, será causa de extinción del presente contrato.
 
-Las partes, para la resolución de cualquier cuestión o controversia que pueda surgir en relación a la interpretación o cumplimiento del presente acuerdo, se someten a los Juzgados y Tribunales de al ciudad de Barcelona, con renuncia expresa a cualquier otro fuero que pudiera ser aplicable o al arbitraje de derecho en caso de acuerdo en este sentido.
+Las partes, para la resolución de cualquier cuestión o controversia que pueda surgir en relación a la interpretación o cumplimiento del presente acuerdo, se someten a los Juzgados y Tribunales de al ciudad de Madrid, con renuncia expresa a cualquier otro fuero que pudiera ser aplicable o al arbitraje de derecho en caso de acuerdo en este sentido.
 
 Y en prueba de conformidad ambas partes firman este acuerdo, por duplicado ya un solo efecto, en la fecha y lugar mencionados en el encabezamiento.
 
