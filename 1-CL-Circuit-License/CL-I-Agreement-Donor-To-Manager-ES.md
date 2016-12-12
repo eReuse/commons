@@ -1,6 +1,6 @@
-Convenio de cesión de maquinario informático entre @abbreviation-company-donor y @name-person-manager
+Convenio de cesión de maquinario informático entre @abbreviation-company-donor y @name-company-manager
 ============================================================
-> Versión 0 Revisión 9, 10 de Diciembre 2016
+> Versión 0 Revisión 10, 12 de Diciembre 2016
 
 @city, @day de @month de @year
 
