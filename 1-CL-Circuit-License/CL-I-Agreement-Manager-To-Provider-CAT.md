@@ -1,14 +1,15 @@
-Conveni de cessió de dispositius entre @abbreviation-company-donor i @name-person-manager
+Conveni de cessió de dispositius entre @name-company-manager i @name-company-provider
 ============================================================
-> Versió 0 Revisió 9, 10 de Diciembre 2016
+> Versió 0 Revisió 1, 12 de Diciembre 2016
 
 @city, @day de @month de @year
 
 ### INTERVENEN:
 
-D'una part, @name-person-donor, @position-person-donor i representant de @name-company-donor (en endavant @abbreviation-company-donor), amb domicili social al carrer @street-donor @streetnumber-donor de @city-donor i CIF @vat-donor, en endavant, la part CEDENT.
 
-D’altra part, @name-person-manager en representació de @name-company-manager, amb seu a @street-manager, @streetnumber-manager de @city-manager i CIF @vat-manager, en endavant la part CESSIONÀRIA.
+D'una part, @name-person-manager, @position-person-manager i representant de @name-company-manager (en endavant @abbreviation-company-manager), amb domicili social al carrer @street-donor @streetnumber-donor de @city-manager i CIF @vat-manager, en endavant la part CEDENT.
+
+D’altra part, @name-person-provider en representació de @name-company-provider, amb seu a @street-manager, @streetnumber-manager de @city-provider i CIF @vat-provider, en endavant la part CESSIONÀRIA.
 
 ### MANIFESTEN:
 
@@ -19,7 +20,7 @@ La cessionària és:
 
 .....................................................................................................
 
-La cedent és propietària i prèviament ha utilitzat un maquinari per al funcionament del seus serveis i activitats, maquinari completament amortitzat econòmicament i sense utilització actual.
+La cedent és propietària d'un maquinari que ha rebut d'un altre cedent amb l'obligació de canalitzar-lo cap a entitats com el de la CESSIONÀRIA per a que en facin la posta a punt i distribució, el maquinari està completament amortitzat econòmicament i sense utilització actual.
 
 La cessionària està interessada en la donació del maquinari per al compliment de les finalitats d’interès públic i social indicades en el paràgraf primer.
 
@@ -49,19 +50,15 @@ d.1)  El cost total dels serveis ha d'estar per sota del preu de venda del maqui
 
 d.2)  Els proveïdors que participen de la prestació de serveis han de ser entitats sense ànim de lucre. 
 
-e)  La cessionària i la cedent es comprometen als acords establerts a l’annex del present conveni.
-
 2.3. La cessionària es compromet a fer tots els actes i gestions per tal de que:
 
 a. Els *receptors* allarguin el temps de vida útil del maquinari i arribat que se'n vulguin desfer, el retornin a la cessionària o el portin a en un punt autoritzat de reciclatge.
 
 b.  Els *proveïdors* prioritzin la reutilització al reciclatge.
 
-c.  Els receptors del maquinari que tinguin web han d'indicar de forma clara i visible a la seva web que el maquinari ha estat cedit per @abbreviation-company-donor, amb intermediació de @name-company-manager, i per a una finalitat sense ànim de lucre. 
+c.  Els receptors del maquinari que tinguin web han d'indicar de forma clara i visible a la seva web que el maquinari ha estat cedit per @abbreviation-company-donor (depen de cada donació en concret), amb intermediació de @name-company-manager i @name-company-provider, i per a una finalitat sense ànim de lucre. 
 
 2.4. La cedent lliura el maquinari prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat.
-
-2.5. En el moment de la cessió del maquinari, la cedent permet a la cessionària lliurar el maquinari als proveïdors i aquest lliurament es pot realitzar a les mateixes instal•lacions de la cedent i no requereix que la cessionària hi sigui presencialment.
 
 ### 3.  CERTIFICATS
 
@@ -114,8 +111,8 @@ Les parts, per a la resolució de qualsevol qüestió o controvèrsia que pugui 
 I en prova de conformitat les dues parts signen aquest acord, per duplicat i a un sol efecte, en la data i el lloc esmentats a l’encapçalament.
 
 
-Sr./Sra. @name-person-donor,@name-company-donor, la part CEDENT.
+Sr./Sra. @name-person-manager,@name-company-donor, la part CEDENT.
 
-Sr./Sra. @name-person-manager,  @name-company-manager, la part CESSIONÀRIA.
+Sr./Sra. @name-person-provider,  @name-company-manager, la part CESSIONÀRIA.
 
 
