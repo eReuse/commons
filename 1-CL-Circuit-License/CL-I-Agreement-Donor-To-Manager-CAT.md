@@ -1,6 +1,6 @@
 Conveni de cessió de dispositius entre @abbreviation-company-donor i @name-company-manager
 ============================================================
-> Versió 0 Revisió 10, 12 de Diciembre 2016
+> Versió 0 Revisió 10, 24 de Gener 2017
 
 @city, @day de @month de @year
 
