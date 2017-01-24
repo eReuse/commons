@@ -26,12 +26,11 @@ SEGONA: A la signatura del present document, el comodant lliura el bé al comoda
 
 TERCERA: Seràn a compte del comodatari les despeses que siguin necessaries i precises per conservar el bé en les mateixes condicions en què es troba actualment.
 
-QUARTA: El comodatari podrà efectuar reparacions i/o millores sense exprés consentiment del comodante, quedant en tot cas les expenses invertides en benefici del bé, sense que procedeixi reemborsament de cap espècie a favor del comodatari, en cap cas.
+QUARTA: El comodatari podrà efectuar reparacions i/o millores sense exprés consentiment del comodant, quedant en tot cas les expenses invertides en benefici del bé, sense que procedeixi reemborsament de cap espècie a favor del comodatari, en cap cas.
 
-QUINTA: El comodatario se obliga a mantener, conservar y cuidar correctamente el bien cedido, y en caso de que extraiga alguno de sus componentes (memoria, disco, ...) deberá sustituir por uno de iguales características. En caso de que el bien se estropee el comodatario no deberá compensar al comodante.
+QUINTA: El comodatari s'obliga a mantenir, conservar i cuidar adeqüadament el bé cedit, i en el cas de que extregui algun dels seus components (memòria, disc, ...) els haurà de substituir per un de caracterstiques iguals o superiors. En cas de que el bé s'espatlli el comodatari no ha de compensar al comodant.
 
-SISENA: Quan el comodatari es vulgui desfer del bé cedit haurà d’avisar al comodant i facilitar que en faci la recollida per canalitzar-lo a un altre interessat. En cas que el comodant no trobi cap interessat que el vulgui tornar a reutilitzar, el comodatari l’ha de portar al punt verd
-que el comodant indiqui, sempre que sigui de la vostra proximitat (menys 5 kilòmetres), en cas contrari a un punt verd autoritzat per les autoritats competents.
+SISENA: Quan el comodatari es vulgui desfer del bé cedit haurà d’avisar al comodant i facilitar que en faci la recollida per canalitzar-lo a un altre interessat. En cas que el comodant no trobi cap interessat que el vulgui tornar a reutilitzar, el comodatari l’ha de portar al punt verd que el comodant indiqui, sempre que sigui de la vostra proximitat (menys 5 kilòmetres), en cas contrari a un punt verd autoritzat per les autoritats competents.
 
 SETENA: L’incompliment de qualsevol de les clàusules anteriors, serà causa d’extinció del present contracte.
 
