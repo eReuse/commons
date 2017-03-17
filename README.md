@@ -120,7 +120,7 @@ Aquest conveni té la forma jurídica de comodat que és un tipus de préstec gr
 
 ### (CL-III) Conveni de gestió del circuit
 
-> Estat: en desenvolupament la versió 1.0 
+> Estat: Versió 1.0 Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-CAT](http://wiki.ereuse.org/circuit-pangea)  
 
 En aquest conveni posem tot allò que afecta a la gestió i regula com resoldre situacions específiques o compromisos que poden variar en el temps. Un pacte descrit en aquest conveni no pot desactivar un pacte descrit en la Llicència General d'un Circuit.
 
