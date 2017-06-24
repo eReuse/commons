@@ -1,6 +1,6 @@
-Llicència General d'un Circuit Comú de Dispositius Digitals
+Llicència General d'un Circuit ProComú de Dispositius Digitals
 ============================================================
-Llicència eReuse.org, Versió 0 Revisió 7, 14 de novembre 2016
+Llicència eReuse.org, Versió 0 Revisió 8, 24 de juny 2017
 
 ## Principis Fonamentals
 
