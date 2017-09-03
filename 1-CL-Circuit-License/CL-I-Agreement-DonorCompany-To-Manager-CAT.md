@@ -12,50 +12,50 @@ D’altra part, @name-person-manager en representació de @name-company-manager,
 
 ### MANIFESTEN:
 
-Que la cessionària és una organització independent i sense ànim de lucre que promou l’ús estratègic de les xarxes de comunicació i les tecnologies de la informació i comunicació (TIC) per al desenvolupament i la justícia social i vol facilitar el reaprofitament de maquinari en bon estat de funcionament per part d’entitats sense ànim de lucre i amb un fi social.
+Que la cessionària és una organització independent i sense ànim de lucre que promou l’ús estratègic de les xarxes de comunicació i les tecnologies de la informació i comunicació (TIC) per al desenvolupament i la justícia social i vol facilitar el reaprofitament de maquinari en bon estat de funcionament per part d’entitats sense ànim de lucre i amb un fi social, i que forma part del Circuit Pangea durant la vigència del present conveni i que es coneixedora dels seus *Acords i Compromisos* que són públics i consultables en el següent enllaç http://wiki.ereuse.org/circuit-pangea.
 
 Que la cedent és propietària d'un maquinari per al funcionament del seus serveis i activitats, equips completament amortitzats econòmicament i sense utilització actual.
 
-Que la cessionària està interessada en la donació del maquinari per al compliment de les finalitats d’interès públic i social indicades en el paràgraf primer.
+Que la cessionària està interessada en la cesió del maquinari per al compliment de les finalitats d’interès públic i social indicades en el paràgraf primer.
 
-En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament capacitat legal necessària per a obligar-se en representació de les respectives entitats, les dues parts acorden subscriure el present conveni de col·laboració, en subjecció a les clàusules i annexos que segueixen.
+En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament capacitat legal necessària per a obligar-se en representació de les respectives entitats, les dues parts acorden subscriure el present conveni de col·laboració, en subjecció a les clàusules.
 
 ### CLÀUSULES:
 
 ### 1\. OBJECTE DEL CONVENI
 
-1.1. La cedent fa donació de tots els seus drets i, títols, en i per al maquinari a la cessionària, que accepta, per al compliment de les finalitats indicades i fa constar que no té cap valor comptable.
+1.1. La cedent fa donació de tots els seus drets i, títols, en i per al maquinari a la cessionària, que accepta, per al compliment de les finalitats indicades i fa constar que no té cap valor comptable, i la cessionària el cedeix a entitats col·laboradores, que són sense afany de lucre, que es responsabilitzaran de restaurar el maquinari i distribuir-lo a les organitzacions receptores. Els termes i condicions usats en la selecció de les col·laboradores han estan establerts democràticament en els Acords i Compromisos del Circuit, on les col·laboradores hi formen part.
 
 ### 2\. COMPROMISOS DE LES PARTS
 
-2.1 La cedent dóna i assigna a la cessionària tot el maquinari, i la cessionària el dóna i assigna als seus proveïdors, que són sense afany de lucre que restauraran el maquinari i distribuiran a receptors finals. 
+2.1. Que la cessionària es compromet a complir totes les obligacions de la cedent en relació amb el maquinari i l'ús del mateix, que pot ser:
 
-a. El maquinari de la cedent *apte per a reutilitzar* és restaurarà pels restauradors, distribuïrà pels distribuïdors i es cedirà gratuïtament i indefinidament en caràcter de comodat als *receptors* que el reutilitzaran durant un període de temps indefinit i que quan se'n vulguin desfer, el retornaran a la cessionària o el portaran a en un punt autoritzat de reciclatge. 
+a)  El maquinari és restaurarà per entitats col·laboradores *restauradores*, distribuïrà per entitats col·laboradores *distribuïdores* i es cedirà gratuïtament i indefinidament en caràcter de comodat a entitats *receptores* que el reutilitzaran durant un període de temps indefinit i que quan se'n vulguin desfer, el retornaran a la cessionària o el portaran a en un punt autoritzat de reciclatge. 
 
-b. El maquinari de la cedent *no apte per a reutilitzar* és reciclarà adequadament per agents autoritzats per les autoritats competents.
+b)  El maquinari de la cedent *no apte per a reutilitzar* és reciclarà adequadament per agents autoritzats per les autoritats competents o es derivarà a programes d'aprenentatge-servei o de voluntariat mediambiental en reparació, la cessionària informarà a la cedent de les dades de l'organització, la tipologia d'entitat i la ubicació geogràfica, i que quan se'n vulguin desfer, el retornaran a la cessionària o el portaran a en un punt autoritzat de reciclatge
 
-2.2. La cessionària i/o els proveïdors poden facturar pels serveis al receptor pels serveis de restauració i distribució realitzats al maquinari de la cedent, sempre i quan el import total dels serveis estigui per sota del preu de venda del maquinari en el mercat de segona mà. La cessionària es compromet a ser transparent amb la cedent amb les factures de serveis realitzades.
+2.2. Que la cessionària i/o les organitzacions col·laboradores no poden crear lucre amb el maquinari de la cedent, no obstant poden facturar a les receptores pels serveis de restauració i distribució realitzats al maquinari de la cedent, sempre i quan el import total dels serveis estigui per sota del preu de venda del maquinari en el mercat de segona mà, la cessionària sigui transparent i el import sigui l'estipulat en el document d'Acords i Compromisos del Circuit.
 
-2.3. La cedent lliura el maquinari prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat.
+2.3. Que la cedent lliura el maquinari prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat.
 
-2.4. En el moment de la cessió del maquinari, la cedent permet a la cessionària lliurar el maquinari als proveïdors i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la cessionària hi sigui presencialment.
+2.4. En el moment de la cessió del maquinari, la cedent permet a la cessionària lliurar el maquinari organitzacions col·laboradores i aquest lliurament es pot realitzar a les mateixes instal·lacions de la cedent i no requereix que la cessionària hi sigui presencialment.
 
 2.5. La cessionària es compromet a fer arribar una memòria d'impacte social dels dispositius a la cedent com a màxim als sis mesos de la cessió dels dispositius, i a fer tots els actes i gestions per tal de que:
 
 a. Els receptors allarguin el temps de vida útil del maquinari i arribat el punt que el maquinari els hi quedi obsolet i no hi hagi més demanda de reús, el portin a en un punt autoritzat de reciclatge.
-b. Els proveïdors prioritzin la reparació i preparació per a la reutilització al reciclatge.
-c. L’entitat destinatària de qualsevol dels equips indiqui de forma clara i visible que els mateixos han estat cedits per la cedent.
+b. Les col·laboradores prioritzin la reutilització al reciclatge.
+c. Les receptores indiquin de forma clara i visible que els mateixos han estat cedits per la cedent.
 
 
-### 3. PROVEÏDORS I RECEPTORS DEL MAQUINARI
+### 3. COL·LABORADORES I RECEPTORES DEL MAQUINARI
 
-3.1 La cessionària es compromet que els restauradors i els distribuïdors seran cooperatives, fundacions, associacions i entitats sense afany de lucre, incloses les federacions, confederacions, coordinadores i xarxes compostes per cooperatives o associacions sense afany de lucre, així com a particulars acompanyats de serveis socials.
+3.1 La cessionària es compromet que les restauradores i les distribuïdores seran cooperatives, fundacions, associacions i entitats sense afany de lucre, incloses les federacions, confederacions, coordinadores i xarxes compostes per cooperatives o associacions sense afany de lucre, així com a particulars acompanyats de serveis socials.
 
-3.2 Es crearà una comissió de seguiment dels acords, que podrà proposar canvis del present document per tal de facilitat l’operativitat del conveni. La comissió de seguiment es convocarà semestralment.
+3.2 La cessionària es compromet que les receptores del maquinari hauràn de ser a cooperatives, escoles, fundacions, associacions i entitats sense afany de lucre, incloses les federacions, confederacions, coordinadores i xarxes compostes per cooperatives o associacions sense afany de lucre, així com a particulars acompanyats de serveis socials.
 
-3.3 El receptors del material donat o el destí final, haurà de ser a cooperatives, escoles, fundacions, associacions i entitats sense afany de lucre, incloses les federacions, confederacions, coordinadores i xarxes compostes per cooperatives o associacions sense afany de lucre, així com a particulars acompanyats de serveis socials.
+3.3 Els termes i condicions en la selecció de les organitzacions col·laboradores receptores es defineixen en un document específic, que es pot consultaren el següent enllaç http://wiki.ereuse.org/circuit-pangea i del que se'n poden fer noves versions sempre amb la conformitat prèvia i expressa de la cedent.
 
-3.4 Els termes i condicions en la selecció dels proveïdors i receptors es definiran en un document específic, que es pot consultaren el següent enllaç http://wiki.ereuse.org/circuit-pangea i del que se'n poden fer noves versions sempre amb la conformitat prèvia i expressa de la cedent.
+3.4 Es crearà una comissió de seguiment dels acords, que podrà proposar canvis del present document per tal de facilitat l’operativitat del conveni. La comissió de seguiment es convocarà semestralment.
 
 ### 4.  CERTIFICATS
 
@@ -64,12 +64,16 @@ c. L’entitat destinatària de qualsevol dels equips indiqui de forma clara i v
   -   La identificació del maquinari (número d’inventari de la cedent).
   -   La marca i model del maquinari cedit.
   -   La identificació del maquinari del fabricant o el número de sèrie  (identificador del fabricant).
-  -   El proveïdor de la cessionària a qui aquesta fa la cessió. 
+  -   L'organització col·laboradora de la cessionària a qui aquesta fa la cessió. 
   -   La tipologia de maquinari que es defineix com a *per a reutilitzar o per a reparar*.
 
-4.2. **Certificat de reciclatge:** A partir dels 30 dies naturals de la donació de la cedent a la cessionària, la cessionària o els seus proveïdors han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que no ha pogut restaurar-se i es destina al reciclatge, on constarà la relació de números d’inventari de la cedent, la marca i el model del maquinari.
+4.2. **Certificat de reciclatge:** 
+4.2.1 A partir dels 30 dies naturals de la donació de la cedent a la cessionària, la cessionària o els seus col·laboradors han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que no ha pogut restaurar-se i es destina al reciclatge, on constarà el nom de l'organització que en fa el reciclatge, la data, la relació de números d’inventari de la cedent, la marca, el model del maquinari
+4.2.2 Pel maquinari que les receptores porten a reciclar la cessionària generarà un nou certificat com el del punt 4.2.1. 
 
-4.3. **Certificat de reutilització:** A partir dels 60 dies naturals de la donació de la cedent a la cessionària, la cessionària o els seus proveïdors han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que ha estat restaurat i distribuït a receptors finals, indican5t el receptor, la ubicació geogràfica, on constarà la relació de números d’inventari de la cedent, la marca i el model del maquinari.
+4.3. **Certificat de reutilització:** 
+4.3.1 A partir dels 60 dies naturals de la donació de la cedent a la cessionària, la cessionària o les col·laboradores han de lliurar digitalment a la cedent un certificat amb la relació del maquinari que ha estat restaurat i distribuït a les receptores, indicanat el nom de l'organització restauradora, la data, receptora, la ubicació geogràfica, on constarà la relació de números d’inventari de la cedent, la marca i el model del maquinari.
+4.3.2 Pel maquinari que les receptores retornen al circuit i es torni a reutilitzar la cessionària generarà un nou certificat com el del punt 4.3.1. 
 
 ### 5. RESPONSABILITATS
 
