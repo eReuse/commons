@@ -1,14 +1,14 @@
-Conveni de col·laboració entre @abbreviation-company-donor i @name-company-manager per la cessió de dispositius
+Conveni de col·laboració entre @entitat-gestora-nom i @entitat-donant-nom per la cessió de dispositius
 ============================================================
-> Versió 0 Revisió 2, 18 de Juliol de 2017
+> Versió 0 Revisió 3, 30 de Setembre de 2017
 
-@city, @day de @month de @year
+@ciutat, @dia de @mes de @any
 
 ### INTERVENEN:
 
-D'una part, @name-person-donor, @position-person-donor i representant de @name-company-donor (en endavant @abbreviation-company-donor), amb domicili social al carrer @street-donor @streetnumber-donor de @city-donor i CIF @vat-donor, en endavant, la part CEDENT.
+D'una part, @entitat-donant-persona-nom, @entitat-donant-persona-posició i representant de @entitat-donant-nom (en endavant @entitat-donant-abreviació), amb domicili social al carrer @entitat-donant-adreça-carrer @entitat-donant-adreça-número de @entitat-donant-adreça-ciutat i CIF @entitat-donant-CIF, en endavant, la part CEDENT.
 
-D’altra part, @name-person-manager en representació de @name-company-manager, amb seu a @street-manager, @streetnumber-manager de @city-manager i CIF @vat-manager, en endavant la part CESSIONÀRIA.
+D’altra part, @entitat-gestora-persona-nom en representació de @entitat-gestora-nom (en endavant @entitat-gestora-abreviació), amb domicili social al carrer @entitat-gestora-adreça-carrer @entitat-gestora-adreça-número de @entitat-gestora-adreça-ciutat i CIF @entitat-gestora-CIF, en endavant, la part CESSIONÀRIA.
 
 ### MANIFESTEN:
 
@@ -30,11 +30,11 @@ En virtut del què s’ha exposat, ambdues parts, reconeixent-se recíprocament 
 
 2.1 La cedent dóna i assigna a la cessionària tot el maquinari, i la cessionària el dóna i assigna als seus proveïdors, que són sense afany de lucre que restauraran el maquinari i distribuiran a receptors finals. 
 
-a. El maquinari de la cedent *apte per a reutilitzar* és restaurarà pels restauradors, distribuïrà pels distribuïdors i es cedirà gratuïtament i indefinidament en caràcter de comodat als *receptors* que el reutilitzaran durant un període de temps indefinit i que quan se'n vulguin desfer, el retornaran a la cessionària o el portaran a en un punt autoritzat de reciclatge. 
+a. El maquinari de la cedent *apte per a reutilitzar* és restaurarà pels restauradors, distribuïrà pels distribuïdors i es cedirà gratuïtament i indefinidament en caràcter de cessió d'ús als *receptors* que el reutilitzaran durant un període de temps indefinit i que quan se'n vulguin desfer, el retornaran a la cessionària o el portaran a en un punt autoritzat de reciclatge. 
 
 b. El maquinari de la cedent *no apte per a reutilitzar* és reciclarà adequadament per agents autoritzats per les autoritats competents.
 
-2.2. La cessionària i/o els proveïdors poden facturar pels serveis al receptor pels serveis de restauració i distribució realitzats al maquinari de la cedent, sempre i quan el import total dels serveis estigui per sota del preu de venda del maquinari en el mercat de segona mà. La cessionària es compromet a ser transparent amb la cedent amb les factures de serveis realitzades.
+2.2. La cessionària i/o els proveïdors poden facturar al receptor pels serveis de restauració i distribució realitzats al maquinari de la cedent, sempre i quan el import total dels serveis estigui per sota del preu de venda del maquinari en el mercat de segona mà. La cessionària es compromet a ser transparent amb la cedent amb les factures de serveis realitzades.
 
 2.3. La cedent lliura el maquinari prèvia eliminació de les dades en compliment de la Llei de Protecció de dades de caràcter personal i eximeix a la cessionària d’aquesta responsabilitat.
 
