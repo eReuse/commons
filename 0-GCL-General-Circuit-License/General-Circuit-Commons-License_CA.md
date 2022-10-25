@@ -30,7 +30,7 @@ Un circuit segueix els Principis Fonamentals, que es faran servir d'inspiració 
 
 ## Participants.
 
-![Image of Document schema License](../98-utils/img/eReuse - Base modelo circuito - Referee - CAT.png) 
+![Image of Document schema License](../98-utils/img/eReuse-Base-modelo-circuito-Referee-CAT.png) 
 
 ### Entitats propeitaries inicials
 Són les entitats donants d'equipament al Circuit.
