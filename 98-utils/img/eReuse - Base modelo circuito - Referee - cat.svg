@@ -1,0 +1,2149 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="703.82904mm"
+   height="468.16122mm"
+   viewBox="0 0 703.82904 468.16122"
+   version="1.1"
+   id="svg7195"
+   inkscape:version="1.1.1 (3bf5ae0, 2021-09-20)"
+   sodipodi:docname="eReuse - Base modelo circuito - Referee - cat.svg"
+   inkscape:export-filename="/media/dades/ereuse/96. Resources/12. designs - concepts/eReuse - Circuit/eReuse - Base modelo circuito - Referee.png"
+   inkscape:export-xdpi="100"
+   inkscape:export-ydpi="100"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <defs
+     id="defs7189">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6760"
+       id="linearGradient6762"
+       x1="118.34818"
+       y1="302.04678"
+       x2="168.73135"
+       y2="302.04678"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(3.0185013,0,0,2.4233056,-316.09967,-685.04682)" />
+    <linearGradient
+       id="linearGradient6760"
+       inkscape:swatch="solid">
+      <stop
+         style="stop-color:#fefefe;stop-opacity:0.99607843;"
+         offset="0"
+         id="stop6758" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter6748"
+       x="-0.023813143"
+       width="1.0476263"
+       y="-0.02425157"
+       height="1.0485031">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="1.7369934"
+         id="feGaussianBlur6750" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="1"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.28370192"
+     inkscape:cx="1228.402"
+     inkscape:cy="817.75971"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     width="298mm"
+     fit-margin-top="0"
+     fit-margin-left="1.3877788e-16"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:showpageshadow="false"
+     showborder="true"
+     inkscape:window-width="1680"
+     inkscape:window-height="1013"
+     inkscape:window-x="1280"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:snap-text-baseline="false"
+     inkscape:pagecheckerboard="0" />
+  <metadata
+     id="metadata7192">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(216.19987,64.49423)">
+    <path
+       id="path3187-3"
+       d="m 14.249352,312.68821 -0.16195,-0.0206 -0.5134,-0.0433 -0.48641,-0.0647 -0.51339,-0.0649 -0.51343,-0.0649 h -0.0541 l -0.3243,1.48802 0.081,0.0206 0.51343,0.0649 0.51339,0.0646 0.5134,0.0649 0.51342,0.0433 0.16193,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3189-8"
+       d="m 18.734892,313.0764 h -0.10787 l -0.51337,-0.0433 -0.51343,-0.0433 -0.48638,-0.0206 -0.51343,-0.0433 -0.10784,-0.0206 -0.2163,1.50963 0.13505,0.0206 0.51342,0.0433 0.51337,0.0433 0.51343,0.0206 0.51339,0.0433 h 0.10785 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3191-0"
+       d="m 23.247412,313.27048 h -0.10785 -0.48635 l -0.51343,-0.0206 -0.51339,-0.0206 -0.48641,-0.0206 h -0.13502 l -0.10787,1.50958 0.13504,0.0206 0.5134,0.0206 h 0.5134 l 0.51342,0.0206 0.5134,0.0206 h 0.10784 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3193-4"
+       d="m 27.787002,313.27048 -0.13502,0.0206 h -0.48641 -0.5134 -0.48638 l -0.51342,0.0206 h -0.13502 v 1.50961 h 0.13502 0.51342 0.51342 0.5134 l 0.51343,-0.0206 h 0.13504 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3195-0"
+       d="m 32.299602,313.09797 h -0.13504 l -0.5134,0.0433 -0.48639,0.0206 -0.51339,0.0206 -0.48639,0.0206 h -0.10787 l 0.0813,1.53112 0.13501,-0.0206 0.5134,-0.0206 0.48641,-0.0206 0.51342,-0.0206 0.51335,-0.0433 h 0.16195 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3197-9"
+       d="m 36.812152,312.70977 -0.1891,0.0206 -0.48638,0.0433 -0.51343,0.0649 -0.48641,0.0433 -0.48636,0.0433 h -0.0812 l 0.18913,1.50958 h 0.081 l 0.5134,-0.0433 0.51339,-0.0433 0.48639,-0.0647 0.51342,-0.0433 0.1891,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3199-1"
+       d="m 41.270672,312.14907 -0.21601,0.0206 -0.48641,0.0647 -0.51342,0.0863 -0.48636,0.0649 -0.48641,0.0646 h -0.028 l 0.27009,1.5096 0.054,-0.0206 0.5134,-0.0649 0.48641,-0.0646 0.51342,-0.0649 0.48636,-0.0863 0.24344,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3201-9"
+       d="m 45.702172,311.37273 -0.27008,0.0646 -0.48639,0.0863 -0.48638,0.0863 -0.48638,0.0863 -0.48639,0.0863 0.40534,1.48804 0.48639,-0.0863 0.48635,-0.0863 0.51343,-0.0863 0.48641,-0.10793 0.27006,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3203-6"
+       d="m 50.052612,310.42387 -0.32427,0.0863 -0.45935,0.10766 -0.48638,0.10793 -0.48638,0.10769 -0.40534,0.0863 0.48635,1.48799 0.43239,-0.10793 0.48638,-0.10795 0.48636,-0.10792 0.48641,-0.10793 0.32424,-0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3205-2"
+       d="m 54.348972,309.30249 -0.37828,0.10765 -0.45937,0.12934 -0.45934,0.1293 -0.48638,0.1293 -0.35129,0.0863 0.59444,1.44484 0.37833,-0.0863 0.48641,-0.1293 0.45934,-0.12933 0.48636,-0.15096 0.37833,-0.10765 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3207-5"
+       d="m 58.564342,307.98699 -0.40535,0.15094 -0.45936,0.15097 -0.45937,0.1293 -0.45935,0.15095 -0.29734,0.10792 0.67556,1.40176 0.32428,-0.0863 0.45934,-0.15094 0.45934,-0.15097 0.48636,-0.15095 0.40537,-0.15094 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3209-4"
+       d="m 62.698612,306.49894 v 0 l -0.4594,0.17233 -0.45934,0.17232 -0.43233,0.17259 -0.45937,0.17258 -0.24318,0.0863 0.78365,1.38017 0.24347,-0.0863 0.45937,-0.17259 0.45934,-0.17232 0.45937,-0.17259 0.45937,-0.17233 v 0 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3211-4"
+       d="m 66.697762,304.83844 -0.028,0.0206 -0.4323,0.19423 -0.45934,0.19423 -0.43239,0.17259 -0.43235,0.19423 -0.1891,0.0863 0.86468,1.33705 0.18913,-0.0649 0.45937,-0.19423 0.45937,-0.19423 0.4323,-0.1942 0.45942,-0.19423 0.028,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3213-9"
+       d="m 70.615842,303.00538 -0.0812,0.0433 -0.43233,0.21561 -0.43236,0.21558 -0.40531,0.19423 -0.43233,0.19423 -0.16193,0.0863 0.97277,1.31551 0.16192,-0.0863 0.43236,-0.19423 0.43238,-0.21558 0.4323,-0.21561 0.43233,-0.21561 0.0813,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3215-9"
+       d="m 74.371792,301.02138 -0.0813,0.0646 -0.40536,0.21561 -0.43233,0.23725 -0.40529,0.21561 -0.40534,0.21558 -0.13505,0.0649 1.05381,1.2723 0.13505,-0.0649 0.40531,-0.23699 0.43236,-0.21561 0.43235,-0.23722 0.40532,-0.23699 0.10787,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3217-3"
+       d="m 78.019682,298.86484 -0.10785,0.0647 -0.40531,0.25877 -0.3783,0.23698 -0.40532,0.23726 -0.40531,0.23698 -0.10785,0.0649 1.13488,1.22922 0.10787,-0.0649 0.40529,-0.23699 0.40537,-0.25881 0.40531,-0.23699 0.40532,-0.25879 0.10787,-0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3219-6"
+       d="m 81.505432,296.57889 -0.10784,0.0647 -0.37833,0.25881 -0.37828,0.25877 -0.3783,0.25878 -0.3783,0.25877 -0.10784,0.0647 1.21592,1.16449 0.10787,-0.0649 0.3783,-0.25879 0.40534,-0.25876 0.37828,-0.28038 0.40531,-0.25876 0.0812,-0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3221-0"
+       d="m 84.829022,294.12046 -0.0812,0.0649 -0.35128,0.28035 -0.37828,0.25879 -0.35129,0.28035 -0.37832,0.28035 -0.10787,0.086 1.29701,1.12141 0.10787,-0.0863 0.3783,-0.28032 0.3783,-0.28033 0.3783,-0.30194 0.35127,-0.28036 0.0812,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3223-5"
+       d="m 87.990532,291.53265 -0.028,0.0206 -0.35132,0.30194 -0.35126,0.30189 -0.35128,0.28033 -0.35126,0.30194 -0.13505,0.10793 1.3511,1.05671 0.13504,-0.10795 0.37825,-0.30188 0.35129,-0.30189 0.35131,-0.30192 0.35126,-0.30197 0.028,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3225-0"
+       d="m 90.962912,288.81541 -0.29731,0.28035 -0.35132,0.32348 -0.32424,0.30192 -0.32425,0.32345 -0.16193,0.15095 1.43214,0.992 0.16193,-0.15097 0.35128,-0.32348 0.32428,-0.30192 0.35126,-0.32351 0.29734,-0.30188 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3227-2"
+       d="m 93.746112,285.96878 -0.21627,0.23698 -0.29733,0.32349 -0.32425,0.32348 -0.29734,0.32348 -0.24318,0.23724 1.51321,0.94886 0.216,-0.23699 0.32425,-0.34503 0.3243,-0.32348 0.32422,-0.34507 0.21627,-0.21561 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3229-9"
+       d="m 96.232032,283.14373 -0.27006,0.34504 -0.29734,0.34504 -0.29733,0.34505 -0.29732,0.34504 1.56724,0.86262 0.29734,-0.34504 0.29733,-0.34505 0.29732,-0.34507 0.29731,-0.3666 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3231-4"
+       d="m 99.123325,289.31137 -1.405073,0.17259 -1.02685,-5.56386 -6.89043,1.20767 -0.29732,-1.09984 8.37655,-1.48802 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2445"
+       d="m 277.5895,352.28434 c 0,-47.46502 -39.19228,-85.94876 -87.53116,-85.94876 -48.35204,0 -87.53117,38.48374 -87.53117,85.94876 0,47.47793 39.17913,85.94874 87.53117,85.94874 48.33888,0 87.53116,-38.47081 87.53116,-85.94874 z"
+       style="opacity:1;fill:#1c3316;fill-opacity:0.27174;fill-rule:nonzero;stroke:none;stroke-width:0.345127;filter:url(#filter6748)"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       transform="matrix(2.6146559,0,0,2.1951942,-249.26623,-620.81032)"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2447"
+       d="m 464.19928,103.92871 -0.0714,-3.50613 -0.28511,-3.506173 -0.46403,-3.53248 C 456.16872,48.199677 405.98454,13.876493 344.44997,12.031135 l -4.78279,-0.0528 -4.74721,0.0528 C 271.60079,13.929222 220.48858,50.229547 215.52725,96.916407 l -0.28515,3.506173 -0.0714,3.50613 0.0714,3.50612 0.28515,3.5325 c 4.78284,45.31606 53.28951,81.14188 114.64557,84.64803 l 4.74715,0.23724 4.74721,0.0528 c 63.39054,-0.0791 116.32308,-34.92948 123.71152,-81.43188 l 0.46403,-3.50612 0.28511,-3.53248 z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.81179112"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2449"
+       d="m 466.30899,103.92871 -0.0726,-3.45806 -0.28858,-3.458033 -0.46934,-3.48405 C 458.18501,48.963927 407.4197,15.111486 345.17263,13.291451 l -4.83822,-0.05203 -4.80214,0.05203 c -64.0524,1.872068 -115.7564,37.674526 -120.77517,83.721166 l -0.28864,3.458033 -0.0722,3.45806 0.0722,3.45808 0.28864,3.484 c 4.83819,44.69462 53.90655,80.02911 115.97306,83.48717 l 4.80211,0.23414 4.80214,0.052 c 64.1246,-0.078 117.67005,-34.45051 125.14408,-80.31517 l 0.46934,-3.45798 0.28858,-3.48405 z"
+       style="fill:none;stroke:#000002;stroke-width:2.14657307px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2451"
+       d="m -23.685461,178.59949 -0.62149,-0.21561 -0.78363,-0.30192 -0.48638,-0.19422 -0.16202,-0.0433 -0.83767,1.35864 0.18906,0.0649 0.48638,0.19423 0.81063,0.30192 0.62149,0.2156 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2455"
+       d="m -15.308871,181.46766 -0.72957,-0.23724 -1.13488,-0.36661 -0.24331,-0.0863 -0.72957,1.40176 0.24332,0.0863 1.13491,0.36658 0.72956,0.23699 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2457"
+       d="m -11.066501,182.80471 -1.24299,-0.38819 -0.89171,-0.28034 -0.70255,1.4233 0.8917,0.28036 1.24298,0.38814 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2459"
+       d="m -6.7971514,184.07706 -0.51338,-0.15095 -0.7566,-0.2156 -0.72959,-0.21561 -0.13504,-0.0433 -0.67553,1.42329 0.13504,0.0433 0.72956,0.21561 0.78364,0.23724 0.48639,0.15095 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2461"
+       d="m -2.5007414,185.30626 h -0.0272 l -0.81063,-0.23699 -0.83767,-0.2156 -0.48636,-0.15095 -0.64852,1.42332 0.51338,0.15095 0.81065,0.23724 0.83765,0.23698 v 0 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2463"
+       d="m 1.7956386,186.47082 v 0 l -0.8917,-0.23724 -0.86468,-0.23698 -0.40532,-0.10793 -0.59447,1.44488 0.37828,0.10793 0.8917,0.23698 0.89172,0.23699 v 0 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2465"
+       d="m 6.1460786,187.5922 -0.70255,-0.17259 -0.91871,-0.23698 -0.54044,-0.15095 -0.59447,1.44485 0.54041,0.15095 0.94576,0.23724 0.70254,0.17233 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2467"
+       d="m 10.523529,188.62735 -0.27022,-0.0647 -0.9727704,-0.21561 -0.94575,-0.23698 -0.56743,1.46641 0.94576,0.21561 0.99975,0.23698 0.27022,0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469"
+       d="m 14.900979,189.61933 -0.64849,-0.12931 -1.02682,-0.23698 -0.5134,-0.10793 -0.54044,1.46641 0.54044,0.10794 1.02679,0.23698 0.64852,0.12931 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2471"
+       d="m 19.305469,190.54666 -0.8917,-0.17233 -1.05383,-0.2156 -0.27022,-0.0649 -0.48638,1.46649 0.27021,0.0649 1.05384,0.21561 0.8917,0.19422 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2473"
+       d="m 23.736949,191.43082 -1.05381,-0.21561 -1.08087,-0.19422 -0.081,-0.0206 -0.45937,1.46642 0.081,0.0206 1.08085,0.2156 1.08087,0.19423 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2475"
+       d="m 28.168459,192.22873 v 0 l -1.10789,-0.19422 -1.10786,-0.2156 v 0 l -0.43233,1.48797 h 0.0272 l 1.10789,0.2156 1.1349,0.19423 v 0 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2477"
+       d="m 32.653989,192.94041 -1.10789,-0.17233 -1.10783,-0.17259 h -0.0272 l -0.37832,1.48803 v 0 l 1.16194,0.19422 1.08085,0.17233 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2479"
+       d="m 37.139549,193.60893 -0.9998,-0.15095 -1.16192,-0.15095 -0.081,-0.0206 -0.3783,1.48803 0.13502,0.0206 1.16194,0.17233 0.97277,0.12931 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2481"
+       d="m 41.625089,194.19119 -0.81066,-0.10793 -1.1889,-0.15095 -0.24334,-0.0206 -0.32425,1.48802 0.27022,0.0433 1.18896,0.15095 0.81063,0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2483"
+       d="m 46.137639,194.68718 -0.59447,-0.0649 -1.18893,-0.12931 -0.48639,-0.0433 -0.27021,1.488 0.51342,0.0649 1.18893,0.12932 0.59447,0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2485"
+       d="m 50.650209,195.09693 -0.29734,-0.0206 -1.21597,-0.10793 -0.75658,-0.0646 -0.21592,1.50958 0.78361,0.0649 1.21598,0.10792 0.29731,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2487"
+       d="m 55.189769,195.42041 -0.59444,-0.0433 -0.62148,-0.0433 -1.05386,-0.0649 -0.16192,1.50956 1.05378,0.0649 0.62151,0.0433 0.59449,0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2489"
+       d="m 59.729389,195.63607 h -0.2702 l -0.59446,-0.0206 -0.62151,-0.0433 -0.62148,-0.0206 -0.16192,-0.0206 -0.1351,1.53112 h 0.18939 l 0.62148,0.0433 0.62151,0.0206 0.62145,0.0206 0.24334,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2491"
+       d="m 64.268949,195.76546 h -0.5134 l -0.6215,-0.0206 -0.62148,-0.0206 h -0.5134 l -0.0811,1.50959 0.54042,0.0206 0.6215,0.0206 h 0.62148 l 0.51343,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2493"
+       d="m 68.808539,195.78702 h -0.1351 -0.6215 -0.62148 -0.59444 -0.29734 v 1.53114 h 0.27019 0.62148 0.62151 l 0.62148,-0.0206 h 0.16195 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2495"
+       d="m 73.348129,195.67919 -0.3783,0.0206 -0.62151,0.0206 -0.59444,0.0206 h -0.62151 -0.0274 l 0.0274,1.53112 h 0.054 l 0.62148,-0.0206 0.62151,-0.0206 0.62148,-0.0206 h 0.3783 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2497"
+       d="m 77.887719,195.46354 v 0 l -0.62151,0.0433 -0.59444,0.0433 -0.62148,0.0206 -0.43236,0.0206 0.10793,1.53117 0.43238,-0.0206 0.62148,-0.0433 0.62148,-0.0433 0.62151,-0.0206 h 0.0275 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2499"
+       d="m 82.427299,195.11849 -0.24317,0.0206 -0.62148,0.0649 -0.62151,0.0433 -0.59447,0.0647 h -0.18909 l 0.16192,1.50961 h 0.21627 l 0.62151,-0.0433 0.6215,-0.0649 0.62148,-0.0433 0.21601,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2501"
+       d="m 79.454919,200.83333 -1.08082,-0.73326 4.59362,-4.26993 -5.6745,-3.36419 0.86471,-0.90572 6.89042,4.07584 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2503"
+       d="m 188.99544,219.65928 -0.13502,-0.28035 -0.16195,-0.36663 -0.16193,-0.30192 -0.10784,-0.25879 -0.13504,-0.34501 -0.0541,-0.0863 -1.83743,0.43127 0.0812,0.12933 0.13504,0.36658 0.13504,0.28032 0.16193,0.34504 0.1891,0.38823 0.13504,0.25876 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2505"
+       d="m 190.88694,222.91564 -0.13504,-0.23725 -0.21601,-0.34502 -0.216,-0.3235 -0.1891,-0.32348 -0.1891,-0.30194 -0.028,-0.0863 -1.75638,0.62537 0.0541,0.10795 0.1891,0.30194 0.2163,0.34501 0.18909,0.32348 0.2163,0.36661 0.16193,0.23725 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2507"
+       d="m 193.04864,226.08578 -0.16195,-0.23723 -0.32425,-0.43132 -0.29733,-0.4313 -0.27006,-0.40976 -0.0541,-0.0649 -1.67534,0.71162 0.0541,0.0863 0.29734,0.40973 0.29731,0.4313 0.32428,0.45286 0.16192,0.23725 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2509"
+       d="m 195.42653,229.16957 -0.37833,-0.49598 -0.40531,-0.49602 -0.3783,-0.49599 -0.0541,-0.0433 -1.62126,0.77636 0.0541,0.0863 0.37831,0.49597 0.40528,0.49606 0.40535,0.49599 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2511"
+       d="m 197.96651,232.14561 -0.24345,-0.25877 -0.48638,-0.5607 -0.45934,-0.56071 -0.0813,-0.10792 -1.59427,0.86265 0.10787,0.10792 0.45934,0.56071 0.51343,0.5607 0.24344,0.28033 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2513"
+       d="m 200.66864,235.07849 -0.24347,-0.28033 -0.56745,-0.60386 -0.54041,-0.58227 -1.54022,0.90575 0.54041,0.60386 0.59449,0.60378 0.24345,0.25881 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2515"
+       d="m 203.50588,237.90355 -0.62148,-0.60386 -0.6485,-0.62534 -0.16192,-0.17233 -1.51323,0.92732 0.18938,0.17232 0.6485,0.64701 0.62145,0.62534 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2517"
+       d="m 206.4242,240.68548 -0.0813,-0.0863 -0.72959,-0.66853 -0.67553,-0.62537 -1.45913,0.97042 0.70255,0.64698 0.72956,0.69006 0.081,0.0647 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2519"
+       d="m 209.4776,243.38114 -0.40531,-0.34505 -0.40535,-0.34504 -0.40531,-0.36661 -0.32425,-0.28035 -1.43213,1.01357 0.35126,0.30191 0.40536,0.34505 0.40529,0.3666 0.40534,0.34505 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2521"
+       d="m 212.61209,246.0121 -0.13504,-0.0863 -0.43236,-0.36663 -0.43235,-0.36661 -0.4323,-0.36658 -0.16193,-0.12932 -1.37811,1.05669 0.13505,0.12933 0.45934,0.36658 0.43238,0.36663 0.45937,0.36661 0.10787,0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2523"
+       d="m 215.8276,248.5784 -0.0813,-0.0433 -0.48636,-0.3882 -0.4594,-0.36658 -0.48635,-0.3882 -0.10785,-0.0863 -1.35107,1.07829 0.10788,0.0863 0.48638,0.38815 0.48638,0.36661 0.48641,0.38819 0.0541,0.0647 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2525"
+       d="m 219.12423,251.07993 -0.3783,-0.25876 -0.5134,-0.38817 -0.51342,-0.3882 -0.27006,-0.1942 -1.29702,1.09982 0.27006,0.21561 0.5134,0.38814 0.51342,0.3882 0.35127,0.25876 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2527"
+       d="m 222.47489,253.53839 -0.51343,-0.36661 -0.54044,-0.38814 -0.54043,-0.40976 -0.081,-0.0433 -1.29709,1.12138 0.0813,0.0649 0.56746,0.38819 0.54041,0.40974 0.51342,0.36663 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2529"
+       d="m 225.90656,255.93215 -0.5134,-0.36663 -0.59446,-0.40971 -0.56746,-0.3882 -0.0541,-0.0206 -1.24296,1.143 0.028,0.0206 0.59449,0.40974 0.59446,0.40976 0.51338,0.34504 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2531"
+       d="m 229.41938,232.98193 -0.40534,-0.25879 -0.62148,-0.40971 -0.59452,-0.40978 -0.13504,-0.0863 -1.24296,1.16452 0.13501,0.10792 0.62151,0.40973 0.64855,0.40976 0.3783,0.23723 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2533"
+       d="m 232.95916,235.26788 -0.0813,-0.0433 -0.64852,-0.43132 -0.64852,-0.40971 -0.40532,-0.25879 -1.18893,1.18607 0.37827,0.25877 0.67556,0.40978 0.64852,0.43127 0.0813,0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2535"
+       d="m 236.55297,237.48908 -0.27009,-0.17232 -0.70255,-0.43133 -0.6755,-0.40973 -0.16193,-0.0863 -1.16192,1.18608 0.13505,0.10795 0.70255,0.40973 0.70252,0.43132 0.27008,0.17259 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2537"
+       d="m 240.20086,239.66718 -0.37833,-0.23722 -0.72953,-0.40976 -0.70258,-0.4313 v 0 l -1.16192,1.20766 v 0 l 0.72957,0.4313 0.72958,0.43132 0.40535,0.23723 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2539"
+       d="m 243.90275,241.80216 -0.37825,-0.21561 -0.7566,-0.4313 -0.70255,-0.40973 -1.13493,1.22923 0.72962,0.40973 0.75657,0.4313 0.3783,0.21561 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2541"
+       d="m 247.65875,243.87242 -0.24347,-0.12931 -0.78356,-0.43132 -0.78362,-0.4313 -0.081,-0.0433 -1.08085,1.25079 0.0812,0.0433 0.78365,0.43132 0.78359,0.4313 0.24347,0.12933 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2543"
+       d="m 251.44171,245.89955 -0.78362,-0.40971 -0.83767,-0.43132 -0.27009,-0.15095 -1.08085,1.25079 0.29734,0.15095 0.83767,0.45286 0.78359,0.40976 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2545"
+       d="m 255.25176,247.90517 -0.40534,-0.21561 -0.86469,-0.43135 -0.64849,-0.34502 -1.02682,1.27236 0.64852,0.34504 0.86468,0.4313 0.40532,0.21561 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2547"
+       d="m 259.11576,249.84602 -0.78361,-0.38814 -0.89168,-0.45289 -0.27035,-0.1293 -1.02679,1.29389 0.29734,0.12933 0.8917,0.45283 0.7566,0.38822 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2549"
+       d="m 263.00688,251.74374 -0.16195,-0.0649 -0.91871,-0.45289 -0.86469,-0.43132 -0.99978,1.29395 0.8917,0.45286 0.91874,0.43135 0.13502,0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2551"
+       d="m 266.92497,253.61996 -0.32425,-0.15097 -0.94578,-0.45286 -0.70255,-0.32346 -0.97274,1.29389 0.70252,0.34507 0.94578,0.45286 0.32425,0.12931 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2553"
+       d="m 270.87006,255.43145 -0.3783,-0.17258 -0.99975,-0.45287 -0.59452,-0.28035 -0.97274,1.31551 0.62148,0.28033 0.99978,0.45286 0.37833,0.17259 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2555"
+       d="m 274.8422,257.22136 -0.37828,-0.17232 -0.99983,-0.45292 -0.62148,-0.25876 -0.91871,1.31548 0.6215,0.28033 0.99976,0.45291 0.3783,0.17233 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2557"
+       d="m 278.84138,258.96817 -0.24345,-0.10795 -1.05386,-0.45287 -0.70252,-0.30189 -0.91874,1.33705 0.72956,0.30189 1.0268,0.45289 0.27008,0.10792 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2559"
+       d="m 282.89455,260.67182 -0.054,-0.0206 -1.08088,-0.4313 -0.89172,-0.38817 -0.89167,1.33705 0.89167,0.38819 1.08088,0.45284 0.0541,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2561"
+       d="m 286.94779,262.35391 -0.8377,-0.34505 -1.10789,-0.45288 -0.10787,-0.0433 -0.86471,1.35861 0.10787,0.0433 1.10789,0.45289 0.81063,0.34502 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2563"
+       d="m 291.00096,263.99284 -0.43235,-0.17232 -1.1349,-0.45286 -0.45935,-0.19423 -0.86471,1.35861 0.48641,0.19423 1.1349,0.45286 0.43233,0.17235 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2565"
+       d="m 295.10817,265.61027 -1.10784,-0.43128 -0.94578,-0.38822 -0.83767,1.38023 0.94581,0.36658 1.10784,0.43129 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2567"
+       d="m 299.21546,267.18454 -0.51343,-0.19423 -1.18896,-0.45289 -0.35126,-0.15095 -0.81065,1.3802 0.35128,0.1293 1.18894,0.45287 0.51339,0.19423 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2569"
+       d="m 303.37674,268.71568 -1.05386,-0.38817 -1.02679,-0.38817 -0.81066,1.38017 1.02685,0.38817 1.05381,0.38817 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2571"
+       d="m 307.51102,270.22526 -0.24347,-0.0863 -1.24296,-0.45286 -0.59444,-0.21558 -0.78364,1.3802 0.56745,0.21558 1.27,0.45288 0.24318,0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2573"
+       d="m 311.69932,271.71328 -0.64852,-0.23726 -1.27,-0.43127 -0.16195,-0.0649 -0.78359,1.38014 0.16192,0.0649 1.29702,0.45286 0.6215,0.21561 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2849"
+       d="m 291.29817,264.48888 -1.26997,-0.40973 -0.86469,-0.28035 -0.70257,1.4233 0.83767,0.25878 1.29704,0.40974 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2853"
+       d="m 299.75584,267.29238 -0.78361,-0.25879 -1.32403,-0.45289 -0.72959,1.40174 1.29701,0.45289 0.81069,0.25879 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2857"
+       d="m 308.13247,270.28995 -0.27006,-0.10792 -1.48619,-0.53914 -0.32425,-0.10793 -0.78361,1.3802 0.32427,0.10792 1.45915,0.53915 0.29729,0.10792 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2859"
+       d="m 312.26677,271.86422 -1.45918,-0.56068 -0.59446,-0.23722 -0.81066,1.38017 0.56745,0.21558 1.45915,0.56071 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2861"
+       d="m 305.07907,275.20686 -0.43235,-1.09984 6.70131,-1.72522 -2.67512,-5.21883 1.32405,-0.43127 3.24258,6.34019 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2945"
+       d="m 192.79708,44.452727 c 0,24.50639 -29.10457,44.3994 -65.01276,44.3994 -35.908241,0 -65.012831,-19.89301 -65.012831,-44.3994 0,-24.543324 29.10459,-44.43630848 65.012831,-44.43630848 35.90819,0 65.01276,19.89298448 65.01276,44.43630848 z"
+       style="fill:#fefefe;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.18142629"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2947"
+       d="m 191.17167,46.927209 c 0,29.54374 -33.12633,53.525851 -73.99633,53.525851 -40.870141,0 -73.996471,-23.982111 -73.996471,-53.525851 0,-29.588298 33.12633,-53.5703611 73.996471,-53.5703611 40.87,0 73.99633,23.9820631 73.99633,53.5703611 z"
+       style="fill:url(#linearGradient6762);fill-opacity:1;stroke:#000002;stroke-width:3.66359663px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2957"
+       d="m 308.15948,79.031807 c -0.37827,0 -0.67553,0.23698 -0.67553,0.53914 0,0.30187 0.29734,0.56067 0.67553,0.56067 0.37833,0 0.67557,-0.2588 0.67557,-0.56067 0,-0.30193 -0.29734,-0.53914 -0.67557,-0.53914 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2981"
+       d="m 449.16359,103.25248 c 0,26.84578 -26.23315,48.57804 -58.63876,48.57804 -32.33856,0 -58.57168,-21.73226 -58.57168,-48.57804 0,-26.790123 26.23312,-48.522403 58.57168,-48.522403 32.40561,0 58.63876,21.73228 58.63876,48.522403 z"
+       style="fill:none;stroke:#000002;stroke-width:4.27824783px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2985"
+       d="m 382.31727,92.124567 c 0,0.51758 -0.48636,1.03516 -1.1889,1.25081 -0.21601,0.0647 -0.45937,0.10793 -0.70255,0.10793 -0.99984,0 -1.89153,-0.64696 -1.89153,-1.35864 v -0.47456 h 3.78298 z m -1.48616,13.801813 h -13.75386 v -9.229953 c 0,-0.25878 -0.27006,-0.47446 -0.56743,-0.47446 h -6.89044 c -0.29734,0 -0.56745,0.2156 -0.56745,0.47446 v 9.229953 h -2.29682 V 94.388947 c 0.13502,0 0.27035,0.0206 0.40531,0.0206 0.75658,0 1.51318,-0.25878 2.08063,-0.6685 0.13505,-0.0863 0.24345,-0.19422 0.35132,-0.28036 0.54038,0.5607 1.37805,0.94886 2.32386,0.94886 0.9457,0 1.78337,-0.3666 2.29674,-0.9273 0.51343,0.5607 1.3511,0.9273 2.29685,0.9273 0.91874,0 1.75636,-0.3666 2.26978,-0.9273 0.54041,0.5607 1.37811,0.9273 2.29682,0.9273 0.94573,0 1.78337,-0.3666 2.2968,-0.9273 0.51342,0.5607 1.35104,0.9273 2.29685,0.9273 0.94575,0 1.81038,-0.38816 2.3238,-0.94886 0.10788,0.0863 0.21601,0.19422 0.35129,0.28036 0.56745,0.40972 1.32403,0.6685 2.08066,0.6685 0.13504,0 0.27006,-0.0206 0.40529,-0.0206 z m -14.91576,-4.85219 h -5.72852 v -3.924893 h 5.72852 z m 0,4.85219 h -5.72852 v -3.92489 h 5.72852 z M 355.26892,92.124567 v -0.47443 h 3.78301 v 0.47443 c 0,0.71167 -0.89172,1.35861 -1.89151,1.35861 -0.24317,0 -0.51337,-0.0433 -0.7566,-0.12931 -0.67551,-0.2156 -1.1349,-0.73323 -1.1349,-1.22922 z m 3.53983,-5.95203 h 2.32381 l -1.91849,4.57186 h -3.53978 z m 4.8368,5.4776 v 0.47443 c 0,0.75479 -0.78362,1.35861 -1.72932,1.35861 -0.94581,0 -1.7294,-0.60382 -1.7294,-1.35861 v -0.47443 z m -3.21556,-0.90574 1.89153,-4.57186 h 2.35085 l -0.94575,4.57186 z m 7.78216,0.90574 v 0.47443 c 0,0.75479 -0.7566,1.35861 -1.70233,1.35861 -0.94575,0 -1.72937,-0.60382 -1.72937,-1.35861 v -0.47443 z m -3.32362,-0.90574 0.94576,-4.57186 h 2.37786 v 4.57186 z m 4.48554,0 v -4.57186 h 2.37786 l 0.94575,4.57186 z m 3.43172,0.90574 v 0.47443 c 0,0.75479 -0.78364,1.35861 -1.72937,1.35861 -0.94575,0 -1.70235,-0.60382 -1.70235,-1.35861 v -0.47443 z m -13.75386,-6.85777 c 0,-0.23724 0.27006,-0.4529 0.56745,-0.4529 h 18.34745 c 0.29734,0 0.56746,0.21561 0.56746,0.4529 v 0.45287 h -19.48236 z m 14.8077,5.95203 -0.94576,-4.57186 h 2.35085 l 1.89148,4.57186 z m 0.081,0.90574 h 3.45871 v 0.47443 c 0,0.75479 -0.78359,1.35861 -1.72937,1.35861 -0.94578,0 -1.72934,-0.60382 -1.72934,-1.35861 z m 7.97126,-0.90574 h -3.53978 l -1.91852,-4.57186 h 2.32381 z m -2.24274,-5.15412 v -0.79791 c 0,-0.75479 -0.7566,-1.35861 -1.70236,-1.35861 h -18.34747 c -0.94578,0 -1.70236,0.60382 -1.70236,1.35861 v 0.79791 c -3.75597,5.52072 -3.78299,5.34821 -3.78299,5.60699 v 0.9273 c 0,0.77635 0.56748,1.50959 1.4862,1.94087 v 12.313813 c 0,0.2588 0.24288,0.45287 0.56742,0.45287 h 25.21093 c 0.32425,0 0.56743,-0.19423 0.56743,-0.45287 V 94.065437 c 0.91871,-0.43128 1.48616,-1.16452 1.48616,-1.94087 v -0.9273 c 0,-0.25878 -0.0812,-0.15095 -3.78296,-5.60699 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.6388458"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3101"
+       d="m 161.19051,105.72968 -0.1891,-0.36663 -0.18912,-0.3666 -0.1891,-0.38817 -0.1891,-0.3666 -0.16195,-0.38819 -0.1891,-0.38819 -0.1891,-0.3666 -0.16195,-0.38819 -0.16192,-0.36658 -1.81041,0.49599 0.18912,0.38816 0.16192,0.38819 0.1891,0.38817 0.18913,0.38819 0.16192,0.38816 0.1891,0.38819 0.18912,0.38819 0.21598,0.38817 0.16195,0.34504 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3103"
+       d="m 164.00067,110.64655 -0.0541,-0.10793 -0.24318,-0.3666 -0.21601,-0.36663 -0.216,-0.3666 -0.21627,-0.36661 -0.21601,-0.3666 -0.21629,-0.36663 -0.21598,-0.36661 -0.21601,-0.3666 -0.13504,-0.23724 -1.7294,0.62538 0.13504,0.23698 0.21601,0.36666 0.21601,0.38816 0.216,0.36661 0.21627,0.38818 0.21601,0.36658 0.24344,0.36666 0.21601,0.3666 0.24347,0.36658 0.0541,0.10793 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3105"
+       d="m 167.32434,115.36936 -0.18912,-0.25875 -0.27006,-0.34505 -0.24347,-0.34507 -0.27006,-0.34504 -0.24318,-0.34504 -0.24347,-0.34505 -0.27006,-0.36663 -0.24289,-0.34501 -0.24347,-0.34505 -0.0541,-0.0863 -1.67531,0.71167 0.0541,0.0863 0.24318,0.36664 0.27006,0.3666 0.24347,0.34504 0.27006,0.36663 0.24318,0.36658 0.27008,0.34504 0.27006,0.3451 0.27009,0.36657 0.1891,0.23725 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3107"
+       d="m 171.10733,119.85497 -0.0541,-0.0433 -0.29731,-0.32348 -0.29734,-0.32346 -0.29734,-0.34504 -0.27006,-0.32346 -0.29734,-0.3235 -0.29734,-0.34505 -0.27006,-0.32346 -0.27009,-0.34504 -0.21598,-0.2588 -1.62134,0.8195 0.24318,0.28034 0.27006,0.34501 0.29734,0.34505 0.29734,0.32348 0.27006,0.34504 0.29734,0.34505 0.29731,0.32348 0.29731,0.34504 0.32425,0.32349 0.0541,0.0647 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3109"
+       d="m 175.29563,124.10331 -0.1891,-0.19422 -0.32427,-0.30195 -0.32425,-0.30189 -0.32424,-0.32349 -0.32428,-0.30189 -0.32424,-0.32349 -0.29734,-0.30192 -0.32425,-0.32348 -0.29734,-0.32348 -0.10784,-0.10768 -1.51323,0.92731 0.10787,0.1293 0.32427,0.32346 0.29734,0.32349 0.32427,0.32345 0.32425,0.30195 0.32425,0.32348 0.32429,0.32349 0.35124,0.32345 0.3243,0.30193 0.216,0.19422 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3111"
+       d="m 179.91626,128.07133 -0.028,-0.0206 -0.35129,-0.28034 -0.35126,-0.28036 -0.35128,-0.3019 -0.35126,-0.28036 -0.35129,-0.30192 -0.35126,-0.28034 -0.32425,-0.30192 -0.35129,-0.30193 -0.29731,-0.2588 -1.43214,1.0136 0.32422,0.28036 0.35129,0.3019 0.35129,0.30192 0.35129,0.30192 0.35128,0.30192 0.35129,0.28034 0.37828,0.30192 0.35126,0.3019 0.3783,0.28036 0.028,0.0206 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3113"
+       d="m 184.94221,131.73746 -0.21601,-0.12931 -0.37827,-0.28033 -0.37831,-0.25878 -0.3783,-0.2588 -0.37832,-0.28034 -0.37828,-0.2588 -0.37833,-0.28034 -0.37825,-0.25877 -0.3783,-0.28036 -0.13504,-0.12931 -1.32405,1.12139 0.16192,0.10793 0.3783,0.28036 0.3783,0.28034 0.37833,0.28036 0.40529,0.28034 0.3783,0.28036 0.3783,0.25878 0.40532,0.28033 0.3783,0.25881 0.21598,0.15095 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3115"
+       d="m 190.29245,135.05851 -0.40531,-0.2156 -0.40532,-0.23699 -0.40534,-0.23698 -0.40532,-0.23724 -0.40528,-0.25881 -0.40532,-0.23698 -0.3783,-0.23724 -0.40534,-0.25878 -0.40532,-0.25877 v 0 l -1.1889,1.18607 v 0 l 0.40529,0.25881 0.40531,0.25877 0.40534,0.25878 0.40529,0.2588 0.43238,0.23699 0.40529,0.25877 0.43238,0.23698 0.40529,0.23699 0.3783,0.23724 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3117"
+       d="m 195.9399,138.03453 -0.10784,-0.0433 -0.43238,-0.2156 -0.43233,-0.21561 -0.43238,-0.2156 -0.43231,-0.21561 -0.43233,-0.2156 -0.43238,-0.2156 -0.40529,-0.23699 -0.43238,-0.2156 -0.27006,-0.15095 -1.08085,1.27237 0.29734,0.12931 0.43233,0.23725 0.43233,0.23724 0.43235,0.2156 0.43233,0.23724 0.43236,0.21561 0.45937,0.2156 0.43233,0.2156 0.45937,0.21561 0.10787,0.0647 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3119"
+       d="m 201.88461,140.64393 -0.24346,-0.0863 -0.43236,-0.19422 -0.45934,-0.17259 -0.4594,-0.19422 -0.45934,-0.19423 -0.45935,-0.19422 -0.43235,-0.19423 -0.45934,-0.19422 -0.43236,-0.19422 -0.13504,-0.0649 -0.94578,1.31549 0.13504,0.0647 0.4594,0.21561 0.45934,0.19422 0.4594,0.19422 0.45934,0.19423 0.45937,0.19422 0.45937,0.19422 0.48635,0.19423 0.45937,0.19422 0.24289,0.0863 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3121"
+       d="m 208.0725,142.86516 -0.32427,-0.10818 -0.45937,-0.15095 -0.48636,-0.15095 -0.48638,-0.17233 -0.45937,-0.15095 -0.48641,-0.17232 -0.45937,-0.17233 -0.45934,-0.17259 -0.48641,-0.17233 h -0.028 l -0.81063,1.35861 0.028,0.0206 0.48641,0.17232 0.48636,0.19423 0.48641,0.15095 0.48635,0.17233 0.48641,0.17258 0.48639,0.17233 0.48633,0.15095 0.48638,0.17232 0.32427,0.086 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3123"
+       d="m 214.47656,144.67665 -0.35131,-0.0863 -0.48636,-0.12931 -0.5134,-0.12932 -0.48641,-0.12931 -0.5134,-0.12931 -0.48635,-0.12931 -0.48641,-0.15095 -0.48636,-0.1293 -0.48641,-0.15095 -0.64849,1.42334 0.48641,0.15095 0.48638,0.15095 0.51337,0.12931 0.51342,0.15095 0.48639,0.12931 0.51337,0.12931 0.5134,0.12931 0.51339,0.12931 0.35132,0.0863 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3125"
+       d="m 221.04275,146.07841 -0.32425,-0.0647 -0.51339,-0.0863 -0.51343,-0.10793 -0.51342,-0.0863 -0.51343,-0.10793 -0.51337,-0.10794 -0.48638,-0.10792 -0.51342,-0.10794 -0.5134,-0.10793 -0.5134,1.46644 0.5134,0.10793 0.5134,0.10794 0.54041,0.10792 0.51342,0.10794 0.51342,0.10793 0.54042,0.10793 0.51339,0.10793 0.54044,0.0863 0.29731,0.0649 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3127"
+       d="m 216.74634,150.84433 -0.72954,-0.97045 6.07979,-2.86819 -4.02622,-4.63654 1.18896,-0.64694 4.89087,5.62854 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3141"
+       d="m 279.62499,20.201588 0.3783,0.15095 0.45935,0.194222 0.43235,0.194223 0.45935,0.215604 0.43235,0.194225 0.43233,0.194223 0.45934,0.215603 0.43239,0.194226 0.43233,0.215603 h 0.028 l 0.97277,-1.293907 v 0 l -0.45934,-0.215604 -0.4594,-0.215604 -0.43233,-0.215603 -0.45937,-0.215604 -0.45934,-0.194223 -0.45934,-0.194222 -0.4594,-0.215604 -0.45934,-0.194225 -0.35129,-0.150948 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3143"
+       d="m 273.51817,17.850966 0.0541,0.02061 0.48638,0.150947 0.45937,0.172329 0.45937,0.172328 0.45937,0.172588 0.45934,0.172328 0.45937,0.172585 0.45934,0.172329 0.45935,0.172328 0.35131,0.150947 0.83767,-1.380172 -0.35131,-0.12931 -0.45935,-0.172328 -0.45937,-0.194223 -0.48641,-0.172588 -0.45934,-0.172328 -0.48636,-0.172585 -0.45936,-0.172585 -0.48639,-0.172329 -0.45937,-0.172328 -0.0812,-0.02061 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3145"
+       d="m 267.19519,15.888535 0.216,0.06466 0.48633,0.12931 0.48641,0.150948 0.48639,0.129312 0.45934,0.150948 0.48638,0.129309 0.4594,0.15095 0.48641,0.150948 0.48633,0.150947 0.18912,0.06491 0.70255,-1.423344 -0.1891,-0.06491 -0.48641,-0.150948 -0.48635,-0.15095 -0.48641,-0.150947 -0.48633,-0.150948 -0.48641,-0.129312 -0.48636,-0.150947 -0.48641,-0.12931 -0.51343,-0.15095 -0.216,-0.04328 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3147"
+       d="m 260.68302,14.357389 0.40532,0.06465 0.48641,0.107675 0.48635,0.107929 0.5134,0.107932 0.48641,0.107672 0.48636,0.107931 0.48641,0.12931 0.48636,0.107932 0.48641,0.129312 h 0.028 l 0.56742,-1.444882 -0.028,-0.02061 -0.51342,-0.107931 -0.48641,-0.12931 -0.48633,-0.107931 -0.51343,-0.12931 -0.48641,-0.107932 -0.51339,-0.107931 -0.51343,-0.107929 -0.48633,-0.107932 -0.40537,-0.08629 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3149"
+       d="m 254.06278,13.214431 0.0541,0.02061 0.51342,0.06492 0.48638,0.06465 0.5134,0.08629 0.48639,0.06466 0.51339,0.08629 0.48639,0.08629 0.51342,0.08629 0.48641,0.08629 0.37825,0.06491 0.40531,-1.488 -0.37827,-0.06465 -0.48638,-0.08604 -0.5134,-0.08629 -0.5134,-0.08629 -0.51342,-0.08629 -0.51343,-0.08629 -0.51337,-0.06491 -0.51342,-0.08629 -0.5134,-0.06491 h -0.0541 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3151"
+       d="m 247.3345,12.524345 h 0.21601 l 0.48641,0.04327 0.5134,0.04328 0.51339,0.04328 0.51343,0.04328 0.51339,0.06466 0.48633,0.04327 0.51343,0.04328 0.51342,0.06491 0.21601,0.02061 0.27006,-1.509586 -0.21601,-0.02061 -0.51342,-0.06465 -0.54039,-0.04328 -0.51342,-0.04328 -0.5134,-0.06491 -0.51342,-0.04328 -0.5134,-0.04327 -0.54041,-0.04328 -0.5134,-0.04328 -0.21627,-0.02061 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3153"
+       d="m 240.55212,12.244008 h 0.32427 l 0.5134,0.02061 h 0.5134 l 0.51342,0.02061 h 0.51337 l 0.51343,0.02061 0.51339,0.02061 0.51343,0.02061 0.5134,0.02061 h 0.0813 l 0.13504,-1.50956 h -0.10787 l -0.51342,-0.04328 -0.51337,-0.02061 -0.54041,-0.02061 h -0.5134 l -0.5134,-0.02061 -0.54046,-0.02061 h -0.51337 -0.54047 -0.32425 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3155"
+       d="m 233.76979,12.41649 0.40532,-0.02061 0.51339,-0.04327 0.54044,-0.02061 0.5134,-0.02061 h 0.5134 l 0.51339,-0.02061 0.51343,-0.02061 h 0.5134 l 0.48635,-0.02061 -0.028,-1.509562 h -0.51339 l -0.51343,0.02061 h -0.54041 l -0.5134,0.02061 -0.54044,0.02061 -0.51339,0.02061 -0.54044,0.02061 -0.5134,0.02061 -0.43233,0.02061 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3157"
+       d="m 227.01445,12.998775 0.45937,-0.04328 0.51337,-0.06491 0.51342,-0.06491 0.51343,-0.04328 0.51339,-0.04328 0.54042,-0.06465 0.51342,-0.04327 0.5134,-0.04327 0.40534,-0.02061 -0.16193,-1.531146 -0.43232,0.04328 -0.54044,0.04327 -0.54039,0.04328 -0.51342,0.06491 -0.54047,0.04328 -0.51339,0.06491 -0.54041,0.04328 -0.51343,0.06466 -0.45937,0.06491 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3159"
+       d="m 220.36719,14.033907 0.40534,-0.08629 0.51337,-0.08629 0.51343,-0.08629 0.51342,-0.08629 0.5134,-0.08629 0.5134,-0.08629 0.54043,-0.08629 0.51337,-0.06466 0.40535,-0.06491 -0.35129,-1.488001 -0.40532,0.04328 -0.54041,0.08629 -0.5134,0.08629 -0.54043,0.08629 -0.51343,0.08629 -0.54041,0.08629 -0.51342,0.08603 -0.5134,0.107932 -0.43233,0.06491 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3161"
+       d="m 213.82804,15.478786 0.29728,-0.08604 0.51343,-0.107928 0.51342,-0.129313 0.51343,-0.12931 0.51337,-0.107931 0.51342,-0.12931 0.5134,-0.107931 0.5134,-0.107929 0.45937,-0.107932 -0.48639,-1.46644 -0.48638,0.107932 -0.5134,0.107929 -0.51342,0.107931 -0.54041,0.12931 -0.51343,0.107931 -0.5134,0.12931 -0.54041,0.129313 -0.51342,0.129309 -0.32422,0.08629 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3163"
+       d="m 207.45102,17.33339 0.10788,-0.02061 0.51342,-0.172328 0.48641,-0.150947 0.51334,-0.172329 0.51343,-0.15095 0.48638,-0.150947 0.51337,-0.150948 0.51343,-0.15095 0.48638,-0.12931 0.0813,-0.02061 -0.6215,-1.444879 -0.0813,0.02061 -0.51339,0.150948 -0.5134,0.150947 -0.51343,0.15095 -0.51339,0.150948 -0.5134,0.172328 -0.51342,0.150948 -0.5134,0.172328 -0.5134,0.15095 -0.13504,0.04327 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3165"
+       d="m 201.29015,19.597769 0.29731,-0.12931 0.51343,-0.194225 0.48635,-0.194223 0.48641,-0.194223 0.5134,-0.194225 0.48633,-0.172329 0.48641,-0.194222 0.51342,-0.172329 0.29734,-0.107931 -0.7566,-1.380173 -0.32427,0.107932 -0.5134,0.172328 -0.51342,0.194223 -0.48636,0.194225 -0.5134,0.172585 -0.51342,0.194223 -0.51343,0.215604 -0.48633,0.194225 -0.3243,0.12931 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3167"
+       d="m 195.34546,22.228754 0.40532,-0.194226 0.48638,-0.236982 0.48639,-0.215603 0.45934,-0.236985 0.48641,-0.215604 0.48636,-0.215603 0.48641,-0.215604 0.51342,-0.215604 0.10784,-0.04327 -0.89169,-1.358612 -0.13505,0.06491 -0.48635,0.215604 -0.51343,0.215604 -0.48641,0.236982 -0.51337,0.215603 -0.48636,0.237242 -0.48641,0.215603 -0.51342,0.236985 -0.3783,0.194223 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3169"
+       d="m 194.4267,16.362968 1.37811,0.301921 -1.89154,5.412891 6.91748,1.12137 -0.29731,1.121397 -8.40367,-1.358612 z"
+       style="fill:#141515;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3171"
+       d="m 194.56185,215.13057 -1.02682,1.29392 -1.9185,-0.992 1.0268,-1.27239 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3173"
+       d="m 198.45289,216.96363 -0.35126,-0.15095 -0.48638,-0.2156 -0.45937,-0.21561 -0.48639,-0.21561 -0.18939,-0.0863 -0.97276,1.31551 0.216,0.0863 0.48641,0.21561 0.45937,0.23696 0.48641,0.21561 0.37825,0.15095 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3175"
+       d="m 202.47905,218.62415 -0.0812,-0.0206 -0.48641,-0.17235 -0.45937,-0.19421 -0.48636,-0.19423 -0.48641,-0.21561 h -0.028 l -0.89164,1.33705 0.054,0.0206 0.48639,0.19423 0.48638,0.21561 0.48638,0.1942 0.48641,0.19423 0.0813,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3177"
+       d="m 206.58631,220.13371 -0.29731,-0.10795 -0.48636,-0.17259 -0.48641,-0.17232 -0.48635,-0.17259 -0.32425,-0.10766 -0.78364,1.3802 0.32427,0.1293 0.48636,0.17259 0.51342,0.17232 0.48639,0.17233 0.29733,0.10795 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3179"
+       d="m 210.80166,221.44919 -0.10785,-0.0206 -0.48638,-0.15094 -0.48639,-0.15095 -0.51342,-0.15094 -0.48638,-0.15095 -0.028,-0.0206 -0.72956,1.42332 0.0541,0.0206 0.51342,0.15097 0.5134,0.15095 0.48638,0.15094 0.5134,0.15095 0.10787,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3181"
+       d="m 215.09804,222.59216 -0.43233,-0.10792 -0.5134,-0.1293 -0.48641,-0.12933 -0.51342,-0.1293 -0.21598,-0.0433 -0.62148,1.4233 0.24344,0.0649 0.5134,0.15094 0.51342,0.1293 0.51337,0.10819 0.43239,0.10793 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3183"
+       d="m 219.44848,223.54104 -0.29734,-0.0433 -0.5134,-0.10766 -0.48641,-0.10792 -0.5134,-0.10768 -0.37825,-0.0863 -0.51342,1.46643 0.40532,0.0863 0.51342,0.10792 0.48633,0.10793 0.5134,0.10792 0.32427,0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3185"
+       d="m 223.87998,224.31738 -0.24347,-0.0206 -0.48635,-0.0863 -0.5134,-0.0863 -0.48641,-0.0863 -0.48636,-0.0863 -0.40534,1.48796 0.48638,0.0863 0.5134,0.0863 0.51343,0.0863 0.51339,0.0863 0.2163,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3187"
+       d="m 228.3385,224.89965 -0.16195,-0.0206 -0.5134,-0.0433 -0.48641,-0.0647 -0.51339,-0.0649 -0.51343,-0.0649 h -0.0541 l -0.3243,1.48801 0.081,0.0206 0.51343,0.0649 0.51339,0.0646 0.5134,0.0649 0.51342,0.0433 0.16193,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3189"
+       d="m 232.82404,225.28784 h -0.10787 l -0.51337,-0.0433 -0.51343,-0.0433 -0.48638,-0.0206 -0.51343,-0.0433 -0.10784,-0.0206 -0.2163,1.50963 0.13505,0.0206 0.51342,0.0433 0.51337,0.0433 0.51343,0.0206 0.51339,0.0433 h 0.10785 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3191"
+       d="m 237.33656,225.48192 h -0.10785 -0.48635 l -0.51343,-0.0206 -0.51339,-0.0206 -0.48641,-0.0206 h -0.13502 l -0.10787,1.50958 0.13504,0.0206 0.5134,0.0206 h 0.5134 l 0.51342,0.0206 0.5134,0.0206 h 0.10784 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3193"
+       d="m 241.87615,225.48192 -0.13502,0.0206 h -0.48641 -0.5134 -0.48638 l -0.51342,0.0206 h -0.13502 v 1.50961 h 0.13502 0.51342 0.51342 0.5134 l 0.51343,-0.0206 h 0.13504 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3195"
+       d="m 246.38875,225.30941 h -0.13504 l -0.5134,0.0433 -0.48639,0.0206 -0.51339,0.0206 -0.48639,0.0206 h -0.10787 l 0.0813,1.53112 0.13501,-0.0206 0.5134,-0.0206 0.48641,-0.0206 0.51342,-0.0206 0.51335,-0.0433 h 0.16195 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3197"
+       d="m 250.9013,224.92121 -0.1891,0.0206 -0.48638,0.0433 -0.51343,0.0649 -0.48641,0.0433 -0.48636,0.0433 h -0.0812 l 0.18913,1.50958 h 0.081 l 0.5134,-0.0433 0.51339,-0.0433 0.48639,-0.0647 0.51342,-0.0433 0.1891,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3199"
+       d="m 255.35982,224.36051 -0.21601,0.0206 -0.48641,0.0647 -0.51342,0.0863 -0.48636,0.0649 -0.48641,0.0646 h -0.028 l 0.27009,1.5096 0.054,-0.0206 0.5134,-0.0649 0.48641,-0.0646 0.51342,-0.0649 0.48636,-0.0863 0.24344,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3201"
+       d="m 259.79132,223.58417 -0.27008,0.0646 -0.48639,0.0863 -0.48638,0.0863 -0.48638,0.0863 -0.48639,0.0863 0.40534,1.48804 0.48639,-0.0863 0.48635,-0.0863 0.51343,-0.0863 0.48641,-0.10793 0.27006,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3203"
+       d="m 264.14176,222.63532 -0.32427,0.0863 -0.45935,0.10766 -0.48638,0.10793 -0.48638,0.10768 -0.40534,0.0863 0.48635,1.48799 0.43239,-0.10792 0.48638,-0.10795 0.48636,-0.10792 0.48641,-0.10793 0.32424,-0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3205"
+       d="m 268.43812,221.51393 -0.37828,0.10766 -0.45937,0.12933 -0.45934,0.1293 -0.48638,0.1293 -0.35129,0.0863 0.59444,1.44484 0.37833,-0.0863 0.48641,-0.1293 0.45934,-0.12933 0.48636,-0.15095 0.37833,-0.10766 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3207"
+       d="m 272.65349,220.19843 -0.40535,0.15094 -0.45936,0.15097 -0.45937,0.1293 -0.45935,0.15095 -0.29734,0.10792 0.67556,1.40176 0.32428,-0.0863 0.45934,-0.15094 0.45934,-0.15097 0.48636,-0.15095 0.40537,-0.15094 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3209"
+       d="m 276.78776,218.71038 v 0 l -0.4594,0.17233 -0.45934,0.17232 -0.43233,0.17259 -0.45937,0.17258 -0.24318,0.0863 0.78365,1.38017 0.24347,-0.0863 0.45937,-0.17259 0.45934,-0.17232 0.45937,-0.17259 0.45937,-0.17233 v 0 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3211"
+       d="m 280.78691,217.04988 -0.028,0.0206 -0.4323,0.19423 -0.45934,0.19423 -0.43239,0.17259 -0.43235,0.19423 -0.1891,0.0863 0.86468,1.33705 0.18913,-0.0649 0.45937,-0.19423 0.45937,-0.19423 0.4323,-0.1942 0.45942,-0.19423 0.028,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3213"
+       d="m 284.70499,215.21682 -0.0812,0.0433 -0.43233,0.21561 -0.43236,0.21558 -0.40531,0.19423 -0.43233,0.19423 -0.16193,0.0863 0.97277,1.31551 0.16192,-0.0863 0.43236,-0.19423 0.43238,-0.21558 0.4323,-0.21561 0.43233,-0.21561 0.0813,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3215"
+       d="m 288.46094,213.23282 -0.0813,0.0646 -0.40536,0.21561 -0.43233,0.23725 -0.40529,0.21561 -0.40534,0.21558 -0.13505,0.0649 1.05381,1.2723 0.13505,-0.0649 0.40531,-0.23699 0.43236,-0.21561 0.43235,-0.23722 0.40532,-0.23699 0.10787,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3217"
+       d="m 292.10883,211.07628 -0.10785,0.0647 -0.40531,0.25877 -0.3783,0.23698 -0.40532,0.23726 -0.40531,0.23698 -0.10785,0.0649 1.13488,1.22922 0.10787,-0.0649 0.40529,-0.23699 0.40537,-0.25881 0.40531,-0.23699 0.40532,-0.25879 0.10787,-0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3219"
+       d="m 295.59458,208.79033 -0.10784,0.0647 -0.37833,0.25881 -0.37828,0.25877 -0.3783,0.25878 -0.3783,0.25877 -0.10784,0.0647 1.21592,1.16449 0.10787,-0.0649 0.3783,-0.25879 0.40534,-0.25876 0.37828,-0.28038 0.40531,-0.25876 0.0812,-0.0649 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3221"
+       d="m 298.91817,206.3319 -0.0812,0.0649 -0.35128,0.28035 -0.37828,0.25879 -0.35129,0.28035 -0.37832,0.28035 -0.10787,0.086 1.29701,1.12141 0.10787,-0.0863 0.3783,-0.28032 0.3783,-0.28033 0.3783,-0.30194 0.35127,-0.28036 0.0812,-0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3223"
+       d="m 302.07968,203.74409 -0.028,0.0206 -0.35132,0.30194 -0.35126,0.30189 -0.35128,0.28033 -0.35126,0.30194 -0.13505,0.10793 1.3511,1.05671 0.13504,-0.10795 0.37825,-0.30188 0.35129,-0.30189 0.35131,-0.30192 0.35126,-0.30197 0.028,-0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3225"
+       d="m 305.05206,201.02685 -0.29731,0.28035 -0.35132,0.32348 -0.32424,0.30192 -0.32425,0.32345 -0.16193,0.15095 1.43214,0.992 0.16193,-0.15097 0.35128,-0.32348 0.32428,-0.30192 0.35126,-0.32351 0.29734,-0.30188 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3227"
+       d="m 307.83526,198.18022 -0.21627,0.23698 -0.29733,0.32349 -0.32425,0.32348 -0.29734,0.32348 -0.24318,0.23724 1.51321,0.94886 0.216,-0.23699 0.32425,-0.34503 0.3243,-0.32348 0.32422,-0.34507 0.21627,-0.21561 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3229"
+       d="m 310.32118,195.35517 -0.27006,0.34504 -0.29734,0.34504 -0.29733,0.34505 -0.29732,0.34504 1.56724,0.86262 0.29734,-0.34504 0.29733,-0.34505 0.29732,-0.34507 0.29731,-0.3666 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3231"
+       d="m 313.21247,201.52281 -1.40507,0.17259 -1.02685,-5.56386 -6.89043,1.20767 -0.29732,-1.09984 8.37655,-1.48802 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3237"
+       d="m 213.85508,93.221777 h 0.0541 l 0.48636,-0.12931 0.51342,-0.12931 0.51338,-0.10793 0.51342,-0.12931 0.0813,-0.0206 -0.51342,-1.46644 -0.10784,0.0206 -0.51343,0.12931 -0.51342,0.12931 -0.54041,0.12931 -0.5134,0.12931 h -0.028 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3239"
+       d="m 209.58568,94.429417 0.29734,-0.10793 0.51343,-0.12931 0.48635,-0.15095 0.5134,-0.15095 0.32427,-0.0863 -0.62148,-1.44488 -0.35128,0.10793 -0.51343,0.12931 -0.51339,0.15095 -0.48639,0.15095 -0.32425,0.10793 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3241"
+       d="m 205.39738,95.788027 0.10787,-0.0433 0.48639,-0.15094 0.48638,-0.17233 0.48641,-0.17259 0.48636,-0.15095 0.028,-0.0206 -0.7026,-1.40173 -0.0541,0.0206 -0.48636,0.15095 -0.51339,0.17259 -0.48641,0.17232 -0.48639,0.17259 -0.10784,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3243"
+       d="m 201.31714,97.340757 0.40534,-0.17232 0.48638,-0.19423 0.45937,-0.17259 0.45937,-0.17232 0.21601,-0.0863 -0.81061,-1.38018 -0.216,0.0863 -0.48639,0.19423 -0.48638,0.17232 -0.45934,0.19423 -0.43233,0.17259 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3245"
+       d="m 197.34505,99.065977 0.27006,-0.12931 0.43233,-0.2156 0.45937,-0.19423 0.45934,-0.19422 0.35129,-0.15095 -0.91874,-1.33705 -0.35126,0.15094 -0.45939,0.19423 -0.45935,0.2156 -0.45934,0.21561 -0.27006,0.10793 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3247"
+       d="m 193.481,100.94217 0.13504,-0.0863 0.45937,-0.21561 0.43233,-0.2156 0.43238,-0.2156 0.43228,-0.215613 0.028,-0.0206 -0.99984,-1.29393 -0.028,0.0206 -0.43235,0.2156 -0.45934,0.21561 -0.43236,0.23724 -0.45937,0.2156 -0.13504,0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3249"
+       d="m 189.75204,102.99087 0.0541,-0.0206 0.40529,-0.23698 0.43238,-0.23699 0.40529,-0.23698 0.43238,-0.23724 0.10785,-0.0647 -1.05384,-1.27232 -0.13504,0.0863 -0.4323,0.23698 -0.43233,0.23724 -0.43236,0.23698 -0.43233,0.25881 -0.028,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3251"
+       d="m 186.1582,105.19054 0.37828,-0.23698 0.40534,-0.2588 0.40534,-0.23699 0.40532,-0.25877 0.1891,-0.12931 -1.16192,-1.20764 -0.21601,0.12931 -0.40531,0.25877 -0.40534,0.25878 -0.40535,0.2588 -0.37827,0.23698 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3253"
+       d="m 182.75352,107.54116 0.27006,-0.19422 0.37833,-0.25878 0.3783,-0.28036 0.3783,-0.28034 0.27006,-0.17232 -1.24299,-1.16455 -0.27006,0.19423 -0.3783,0.28036 -0.40529,0.28034 -0.37832,0.28036 -0.29734,0.19422 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3255"
+       d="m 179.48393,110.04273 0.1891,-0.15095 0.35129,-0.30189 0.37832,-0.28039 0.35127,-0.28031 0.32427,-0.25883 -1.29704,-1.09981 -0.35126,0.2588 -0.37833,0.3019 -0.35129,0.28036 -0.37827,0.30192 -0.18913,0.15095 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3257"
+       d="m 176.37645,112.67372 0.13505,-0.10793 0.32427,-0.30195 0.35126,-0.30192 0.35126,-0.3019 0.35129,-0.3019 v -0.0206 l -1.37808,-1.03516 v 0 l -0.3783,0.32349 -0.35127,0.30192 -0.35126,0.30192 -0.35128,0.30192 -0.13505,0.12932 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3259"
+       d="m 173.45818,115.43406 0.0541,-0.0649 0.32425,-0.32346 0.32422,-0.32348 0.3243,-0.30195 0.35126,-0.32348 0.0541,-0.0649 -1.45912,-0.99204 -0.0541,0.0863 -0.35132,0.30193 -0.32424,0.32348 -0.32428,0.32346 -0.35126,0.32348 -0.054,0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3261"
+       d="m 170.72903,118.30226 v -0.0206 l 0.29734,-0.32346 0.32424,-0.3235 0.29732,-0.34505 0.29733,-0.32346 0.10785,-0.10792 -1.51318,-0.92733 -0.10787,0.12931 -0.32425,0.32348 -0.29734,0.34502 -0.32424,0.32348 -0.29734,0.34507 -0.028,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3263"
+       d="m 168.189,121.29982 0.24347,-0.30189 0.27035,-0.34502 0.29731,-0.3451 0.27036,-0.34504 0.16192,-0.17258 -1.59427,-0.86263 -0.13505,0.19423 -0.29731,0.34504 -0.29734,0.34504 -0.27006,0.34505 -0.27008,0.32348 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3265"
+       d="m 165.83818,124.38365 0.1891,-0.25877 0.27035,-0.34502 0.24291,-0.34504 0.27006,-0.36666 0.18913,-0.23698 -1.64833,-0.79792 -0.18939,0.25878 -0.27006,0.36663 -0.24347,0.36658 -0.27006,0.34506 -0.1891,0.25878 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3267"
+       d="m 163.73051,127.57533 0.10784,-0.19422 0.24318,-0.36658 0.21601,-0.36663 0.24347,-0.36663 0.21598,-0.30189 -1.67529,-0.73321 -0.21627,0.34504 -0.24345,0.36658 -0.24347,0.36666 -0.24347,0.3666 -0.10784,0.19422 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3269"
+       d="m 161.81199,130.85326 0.0541,-0.12931 0.21601,-0.36661 0.216,-0.38819 0.21601,-0.3666 0.21601,-0.36663 v -0.0206 l -1.72937,-0.6685 v 0.0433 l -0.24345,0.38819 -0.216,0.3666 -0.2163,0.38817 -0.1891,0.38819 -0.081,0.12931 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3271"
+       d="m 160.10966,134.19589 0.028,-0.0206 0.1891,-0.38817 0.16192,-0.38819 0.18912,-0.38816 0.18939,-0.38819 0.0812,-0.10767 -1.78342,-0.5607 -0.0541,0.10767 -0.18912,0.38819 -0.1891,0.40972 -0.1891,0.3882 -0.18912,0.38818 -0.028,0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3273"
+       d="m 158.65048,137.62476 0.13504,-0.32346 0.16193,-0.38816 0.16192,-0.40975 0.16193,-0.38817 0.081,-0.2156 -1.7834,-0.49602 -0.10787,0.23724 -0.16192,0.38822 -0.16196,0.40973 -0.16192,0.40972 -0.13504,0.30192 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3275"
+       d="m 157.43451,141.09678 0.0541,-0.19423 0.13504,-0.40975 0.13502,-0.40975 0.13504,-0.38816 0.10787,-0.34504 -1.81043,-0.40978 -0.13505,0.34507 -0.13504,0.40975 -0.13502,0.40972 -0.13504,0.40975 -0.081,0.19423 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3277"
+       d="m 156.43475,144.61194 v -0.0433 l 0.10785,-0.40973 0.10787,-0.40977 0.10784,-0.4097 0.13505,-0.40978 v -0.0863 l -1.83743,-0.34504 -0.028,0.0863 -0.13504,0.43129 -0.10787,0.40977 -0.10785,0.40972 -0.10787,0.43129 v 0.0433 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3279"
+       d="m 155.67815,148.17025 0.0541,-0.30194 0.081,-0.40975 0.0812,-0.40973 0.0813,-0.43131 0.0541,-0.23698 -1.89156,-0.2588 -0.0541,0.2588 -0.0813,0.43133 -0.0813,0.4097 -0.0812,0.43134 -0.0541,0.30189 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3281"
+       d="m 155.16473,151.75007 v -0.0863 l 0.0541,-0.43131 0.054,-0.40975 0.0541,-0.43131 0.0541,-0.40972 v -0.0206 l -1.89153,-0.17233 v 0.0206 l -0.0541,0.40972 -0.0541,0.4529 -0.0541,0.43128 -0.0541,0.43131 v 0.0863 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3283"
+       d="m 154.89451,155.37304 v -0.30189 l 0.028,-0.43132 0.028,-0.43131 0.028,-0.43133 0.028,-0.21561 -1.9185,-0.10793 v 0.23724 l -0.028,0.45288 -0.028,0.43131 -0.028,0.43131 -0.028,0.30189 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3285"
+       d="m 154.86747,158.97447 v -0.0206 l -0.028,-0.43131 v -0.43131 -0.43131 -0.43131 -0.0649 l -1.89151,-0.0206 v 0.0649 l -0.028,0.4529 v 0.43131 l 0.028,0.45287 v 0.43131 0.0206 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3287"
+       d="m 155.05665,162.57585 v -0.15094 l -0.0541,-0.43129 -0.028,-0.43131 -0.028,-0.43129 -0.028,-0.34506 -1.8915,0.0647 0.028,0.34504 0.028,0.45288 0.028,0.45284 0.028,0.43131 0.028,0.15095 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3289"
+       d="m 155.51602,166.17726 -0.0541,-0.23698 -0.0541,-0.43131 -0.0541,-0.4529 -0.0812,-0.43126 -0.028,-0.23724 -1.8915,0.12931 0.028,0.2588 0.0541,0.45287 0.0813,0.45287 0.0541,0.45287 0.028,0.21561 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3291"
+       d="m 156.16454,169.75713 -0.0541,-0.28036 -0.0812,-0.43131 -0.10787,-0.45287 -0.081,-0.43131 -0.028,-0.19423 -1.89148,0.21561 0.054,0.19422 0.0813,0.45285 0.081,0.45287 0.10787,0.45289 0.054,0.28034 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3293"
+       d="m 156.62388,171.59015 v -0.0863 l -1.86447,0.32348 v 0.0647 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3295"
+       d="m 149.11196,168.89448 0.83767,-0.92727 5.67444,3.3426 3.75597,-4.76592 1.21598,0.60382 -4.56658,5.80105 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2451-19"
+       d="m -27.509811,175.52382 -0.62149,-0.2156 -0.78363,-0.30192 -0.48639,-0.19423 -0.16201,-0.0433 -0.83767,1.35861 0.18905,0.0649 0.48639,0.19423 0.81063,0.30195 0.62149,0.2156 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2451-3"
+       d="m -18.834201,180.13983 -0.62149,-0.2156 -0.78363,-0.3019 -0.48638,-0.19422 -0.16201,-0.0433 -0.83767,1.35861 0.18905,0.0649 0.48638,0.19423 0.81063,0.30192 0.62149,0.2156 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884658"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <image
+       y="78.175697"
+       x="386.4567"
+       id="image5902"
+       xlink:href="data:image/png;base64,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 "
+       style="image-rendering:optimizeSpeed"
+       preserveAspectRatio="none"
+       height="28.742672"
+       width="38.118973"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2947-9"
+       d="m 11.626497,334.81095 c 0,36.74782 -41.197279,66.57777 -92.024969,66.57777 -50.827798,0 -92.025068,-29.82995 -92.025068,-66.57777 0,-36.80322 41.19727,-66.63314 92.025068,-66.63314 50.82769,0 92.024969,29.82992 92.024969,66.63314 z"
+       style="fill:none;stroke:#000002;stroke-width:4.55654764px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2947-9-1"
+       d="m -24.853961,152.11972 c 0,33.31961 -38.99162,60.36676 -87.097789,60.36676 -48.10628,0 -87.09771,-27.04715 -87.09771,-60.36676 0,-33.36994 38.99143,-60.417063 87.09771,-60.417063 48.106169,0 87.097789,27.047123 87.097789,60.417063 z"
+       style="fill:#fefefe;fill-opacity:0.9918478;stroke:#000002;stroke-width:4.22104788px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2947-9-1-1"
+       d="m 446.45603,303.7598 c 0,27.60561 -32.54571,50.01439 -72.69922,50.01439 -40.15362,0 -72.69919,-22.40878 -72.69919,-50.01439 0,-27.6473 32.54557,-50.05602 72.69919,-50.05602 40.15351,0 72.69922,22.40872 72.69922,50.05602 z"
+       style="fill:#fefefe;fill-opacity:0.99728262;stroke:#000002;stroke-width:3.51019573px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#fefefe;fill-opacity:0.98369565;stroke:#000002;stroke-width:4.04988241px;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 240.20086,239.66718 c 0,31.84507 -37.55512,57.69528 -83.88903,57.69528 -46.33402,0 -83.888981,-25.85021 -83.888981,-57.69528 0,-31.89316 37.554961,-57.74333 83.888981,-57.74333 46.33391,0 83.88903,25.85017 83.88903,57.74333 z"
+       id="path2947-9-1-6"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <image
+       y="106.82146"
+       x="-163.21629"
+       width="103.53225"
+       height="90.124908"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 RK5CYII= "
+       id="image423"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6685"
+       width="87.905296"
+       height="26.42255"
+       x="76.751137"
+       y="58.232208" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.264583"
+       id="rect6687"
+       width="112.27316"
+       height="34.392735"
+       x="-170.89888"
+       y="160.437" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6689"
+       width="3.7797618"
+       height="4.5357141"
+       x="-100.89767"
+       y="195.05962" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.28426462"
+       id="rect6691"
+       width="149.57504"
+       height="27.378031"
+       x="-154.59737"
+       y="337.87305" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6693"
+       width="73.327377"
+       height="27.214287"
+       x="-115.29768"
+       y="359.78589" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6695"
+       width="113.09562"
+       height="14.658214"
+       x="102.4535"
+       y="258.55963" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6697"
+       width="72.894882"
+       height="18.315605"
+       x="343.60233"
+       y="321.30368" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.264583"
+       id="rect6699"
+       width="68.035713"
+       height="18.898809"
+       x="248.8015"
+       y="115.63022" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="-78.107819"
+       y="364.70547"
+       id="text1011"><tspan
+         sodipodi:role="line"
+         id="tspan1009"
+         x="-78.107811"
+         y="364.70547"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">PROPIETARI</tspan><tspan
+         sodipodi:role="line"
+         x="-78.107819"
+         y="385.8721"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+         id="tspan20953">INICIAL</tspan></text>
+    <text
+       id="text1674"
+       y="181.05835"
+       x="-110.84126"
+       style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583"
+         y="181.05835"
+         x="-110.84126"
+         sodipodi:role="line"
+         id="tspan1676">GESTORA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;line-height:1.15;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="217.35049"
+       y="270.51874"
+       id="text1680"><tspan
+         sodipodi:role="line"
+         id="tspan1678"
+         x="217.35049"
+         y="270.51874"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:9.87778px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">REACONDICIONADORA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="171.77556"
+       y="74.128189"
+       id="text1684"><tspan
+         sodipodi:role="line"
+         id="tspan1682"
+         x="171.77556"
+         y="74.128189"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">MANTENIDORA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="280.85834"
+       y="133.0715"
+       id="text1688"><tspan
+         sodipodi:role="line"
+         id="tspan1686"
+         x="280.85834"
+         y="133.0715"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:center;writing-mode:lr-tb;text-anchor:middle;stroke-width:0.264583">DISTRIBUIDORA</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       x="427.82043"
+       y="124.61808"
+       id="text1692"><tspan
+         sodipodi:role="line"
+         id="tspan1690"
+         x="427.82043"
+         y="124.61808"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:12.7px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583">RECEPTORA</tspan></text>
+    <text
+       id="text1696"
+       y="332.11145"
+       x="425.29602"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:16.9333px;line-height:1.25;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:end;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:14.1111px;font-family:'Liberation Sans';-inkscape-font-specification:'Liberation Sans, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:end;writing-mode:lr-tb;text-anchor:end;stroke-width:0.264583"
+         y="332.11145"
+         x="425.29602"
+         id="tspan1694"
+         sodipodi:role="line">RECICLADORA</tspan></text>
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect3985"
+       width="7.2162671"
+       height="17.372522"
+       x="112.91467"
+       y="19.521353" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect3990"
+       width="11.492593"
+       height="13.898015"
+       x="108.63834"
+       y="22.995857" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect5865"
+       width="41.955357"
+       height="54.42857"
+       x="-122.12619"
+       y="101.35732" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect5867"
+       width="4.1577382"
+       height="0.75595242"
+       x="-125.52798"
+       y="130.83945" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6529"
+       width="21.922617"
+       height="25.324387"
+       x="-127.41785"
+       y="113.45256" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6561"
+       width="13.054484"
+       height="9.2656422"
+       x="-216.06758"
+       y="0.43767467" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6563"
+       width="26.19244"
+       height="47.573971"
+       x="82.17865"
+       y="10.968734" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6565"
+       width="0"
+       height="11.225315"
+       x="112.91464"
+       y="52.128239" />
+    <image
+       width="51.223251"
+       height="46.911366"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image5320-5"
+       x="85.520569"
+       y="3.9125109" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.276445"
+       id="rect6597"
+       width="32.043945"
+       height="53.586037"
+       x="343.60233"
+       y="267.71765" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6599"
+       width="32.654236"
+       height="34.287239"
+       x="391.92139"
+       y="72.631119" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.23205204"
+       id="rect6601"
+       width="24.978958"
+       height="32.538483"
+       x="291.85828"
+       y="83.091736" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6603"
+       width="29.615187"
+       height="13.862394"
+       x="287.22202"
+       y="69.22934" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6605"
+       width="5.0624557"
+       height="17.033846"
+       x="303.09705"
+       y="79.031807" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6607"
+       width="15.875031"
+       height="26.836311"
+       x="287.22198"
+       y="69.22934" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6609"
+       width="25.702389"
+       height="39.309528"
+       x="287.22198"
+       y="69.22934" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect6611"
+       width="35.907738"
+       height="48.002975"
+       x="169.29346"
+       y="205.30075" />
+    <image
+       width="51.223251"
+       height="46.911366"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image5320-5-8"
+       x="324.42303"
+       y="269.83435" />
+    <image
+       width="28.479912"
+       height="51.505241"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 AABJRU5ErkJggg== "
+       id="image6690"
+       x="-122.65536"
+       y="104.28065" />
+    <image
+       width="28.479912"
+       height="51.505241"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 AABJRU5ErkJggg== "
+       id="image6690-1"
+       x="176.72128"
+       y="205.30075" />
+    <image
+       width="38.118942"
+       height="41.366787"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image5320-5-1"
+       x="391.92139"
+       y="71.043617" />
+    <image
+       width="28.479912"
+       height="51.505241"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 AABJRU5ErkJggg== "
+       id="image6690-4"
+       x="293.97498"
+       y="61.479141" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect7301"
+       width="32.072338"
+       height="50.781219"
+       x="-107.34989"
+       y="283.39569"
+       ry="5.8799295" />
+    <rect
+       style="fill:#f9f9f9;fill-opacity:1;stroke:#f9f9f9;stroke-width:0.26458332"
+       id="rect7306"
+       width="1.6036172"
+       height="4.2763124"
+       x="-116.9716"
+       y="293.0174" />
+    <image
+       width="59.99268"
+       height="57.494698"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 "
+       id="image5320"
+       x="-135.27023"
+       y="285.51233" />
+    <g
+       id="g11673"
+       transform="matrix(0.37234347,0,0,0.470699,-80.514542,294.99813)">
+      <path
+         class="st0"
+         d="M 2.54,65.44 H 15.13 C 14.2,65.2 13.5,64.34 13.5,63.34 V 2.17 C 13.5,0.98 14.48,0 15.67,0 h 90.97 c 1.19,0 2.17,0.98 2.17,2.17 v 61.16 c 0,1.01 -0.69,1.86 -1.63,2.1 h 13.16 c 1.4,0 2.54,1.14 2.54,2.54 v 0 c 0,1.4 -1.14,2.54 -2.54,2.54 H 2.54 C 1.14,70.51 0,69.37 0,67.97 v 0 C 0,66.58 1.14,65.44 2.54,65.44 Z M 17.21,3.4 H 105.4 V 62.72 H 17.21 Z m 40.66,62.99 h 7.14 c 0.67,0 1.22,0.55 1.22,1.22 v 0 c 0,0.67 -0.55,1.22 -1.22,1.22 h -7.14 c -0.67,0 -1.22,-0.55 -1.22,-1.22 v 0 c 0,-0.68 0.55,-1.22 1.22,-1.22 z"
+         id="path11671"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+    </g>
+    <g
+       id="g11673-2"
+       transform="matrix(0.37234347,0,0,0.47069899,115.96302,211.93164)">
+      <path
+         class="st0"
+         d="M 2.54,65.44 H 15.13 C 14.2,65.2 13.5,64.34 13.5,63.34 V 2.17 C 13.5,0.98 14.48,0 15.67,0 h 90.97 c 1.19,0 2.17,0.98 2.17,2.17 v 61.16 c 0,1.01 -0.69,1.86 -1.63,2.1 h 13.16 c 1.4,0 2.54,1.14 2.54,2.54 v 0 c 0,1.4 -1.14,2.54 -2.54,2.54 H 2.54 C 1.14,70.51 0,69.37 0,67.97 v 0 C 0,66.58 1.14,65.44 2.54,65.44 Z M 17.21,3.4 H 105.4 V 62.72 H 17.21 Z m 40.66,62.99 h 7.14 c 0.67,0 1.22,0.55 1.22,1.22 v 0 c 0,0.67 -0.55,1.22 -1.22,1.22 h -7.14 c -0.67,0 -1.22,-0.55 -1.22,-1.22 v 0 c 0,-0.68 0.55,-1.22 1.22,-1.22 z"
+         id="path11671-5"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+    </g>
+    <g
+       id="g11673-7"
+       transform="matrix(0.37234347,0,0,0.47069899,241.46842,76.545454)">
+      <path
+         class="st0"
+         d="M 2.54,65.44 H 15.13 C 14.2,65.2 13.5,64.34 13.5,63.34 V 2.17 C 13.5,0.98 14.48,0 15.67,0 h 90.97 c 1.19,0 2.17,0.98 2.17,2.17 v 61.16 c 0,1.01 -0.69,1.86 -1.63,2.1 h 13.16 c 1.4,0 2.54,1.14 2.54,2.54 v 0 c 0,1.4 -1.14,2.54 -2.54,2.54 H 2.54 C 1.14,70.51 0,69.37 0,67.97 v 0 C 0,66.58 1.14,65.44 2.54,65.44 Z M 17.21,3.4 H 105.4 V 62.72 H 17.21 Z m 40.66,62.99 h 7.14 c 0.67,0 1.22,0.55 1.22,1.22 v 0 c 0,0.67 -0.55,1.22 -1.22,1.22 h -7.14 c -0.67,0 -1.22,-0.55 -1.22,-1.22 v 0 c 0,-0.68 0.55,-1.22 1.22,-1.22 z"
+         id="path11671-1"
+         inkscape:connector-curvature="0"
+         style="clip-rule:evenodd;fill-rule:evenodd" />
+    </g>
+    <image
+       width="17.938864"
+       height="34.35743"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,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 6vAKEAELQwAAAABJRU5ErkJggg== "
+       id="image12428"
+       x="256.74075"
+       y="74.011986" />
+    <path
+       d="m 379.60424,305.25305 c -0.37729,0.76875 -0.67759,1.9254 -0.67759,2.6542 0,0.1692 0,0.38441 0.0369,0.68293 l -4.71546,-9.20065 c -0.15094,-0.29853 -0.26335,-0.72683 -0.26335,-1.1127 0,-0.38638 0.11241,-0.85608 0.26335,-1.15512 l 2.26379,-4.49371 -2.52714,-1.62489 8.22364,-0.17271 3.99783,8.17325 -2.56409,-1.66878 z m 3.62212,-25.93298 c 0.71611,-1.4137 1.88649,-2.18397 3.31871,-2.18397 1.54768,0 2.75508,0.81417 3.62207,2.48097 l 1.2828,2.43906 -4.45217,8.73235 -7.20413,-4.75084 z m 0.52665,33.33597 c -2.14985,0 -3.92242,-2.01134 -3.92242,-4.45026 0,-0.68492 0.26487,-1.8415 0.64216,-2.56832 l 1.20581,-2.43906 h 8.94128 v 9.45776 z m 7.16876,-33.59455 c -0.56522,-1.11122 -1.3198,-1.88348 -2.22532,-2.31178 h 9.27852 c 0.83004,0 1.47068,0.38639 1.84956,1.11468 l 2.30084,4.45026 2.48878,-1.67032 -3.99962,8.13282 -8.1836,-0.1308 2.52714,-1.62489 z m 14.2976,24.22272 c 1.13035,0 2.07439,-0.34242 2.86596,-1.02592 l -4.67846,9.2425 c -0.37728,0.72682 -1.05487,1.15512 -1.84667,1.15512 h -4.41528 v 3.29508 l -4.22424,-8.00188 4.22424,-8.00413 v 3.33917 z m 3.61902,-7.70349 c 0.34034,0.68491 0.52975,1.41173 0.52975,2.18245 0,1.54099 -0.86857,3.16735 -2.07438,3.93615 -0.56669,0.34453 -1.35985,0.5591 -2.14986,0.5591 h -2.49171 l -4.4493,-8.73235 7.20437,-4.66497 z"
+       id="path13680"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.05998884" />
+    <path
+       d="m 152.23761,20.877137 c -0.0827,-0.301321 -0.29656,-0.530069 -0.56394,-0.604847 -0.26623,-0.07478 -0.5482,0.01566 -0.74226,0.238453 l -3.32087,3.815259 -2.54214,-0.836021 -0.72749,-2.921224 3.32107,-3.816583 c 0.19483,-0.222791 0.27256,-0.546833 0.20749,-0.853006 -0.0651,-0.307056 -0.26412,-0.551686 -0.52631,-0.648082 -0.67086,-0.241983 -1.38471,-0.366174 -2.1237,-0.366174 -4.04643,0 -7.33813,3.782833 -7.33813,8.432791 0,0.984255 0.14377,1.934762 0.42785,2.83343 l -9.98815,11.478424 c -0.59542,0.683156 -0.92249,1.590206 -0.92249,2.553949 0,0.96374 0.32707,1.870791 0.92249,2.553947 0.59446,0.684257 1.38375,1.060136 2.22237,1.060136 0.83861,0 1.62789,-0.375879 2.22235,-1.060136 l 9.98815,-11.478425 c 0.78199,0.326467 1.60909,0.491686 2.46556,0.491686 4.04624,0 7.33793,-3.782833 7.33793,-8.433011 0,-0.849257 -0.10806,-1.669617 -0.31978,-2.440566 z m 0,0"
+       id="path1395"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.05267683" />
+    <path
+       d="m 145.59196,221.06544 c -0.0465,-0.17236 -0.16672,-0.30321 -0.31705,-0.34598 -0.14968,-0.0428 -0.30821,0.009 -0.41731,0.1364 l -1.86704,2.18238 -1.42923,-0.47822 -0.409,-1.67098 1.86715,-2.18314 c 0.10953,-0.12744 0.15324,-0.3128 0.11665,-0.48793 -0.0366,-0.17564 -0.14849,-0.31558 -0.2959,-0.37072 -0.37716,-0.13841 -0.7785,-0.20945 -1.19397,-0.20945 -2.27497,0 -4.1256,2.16383 -4.1256,4.82368 0,0.56301 0.0808,1.10671 0.24054,1.62076 l -5.61548,6.56583 c -0.33476,0.39077 -0.51864,0.90962 -0.51864,1.46089 0,0.55128 0.18388,1.07013 0.51864,1.4609 0.33421,0.3914 0.77796,0.60642 1.24944,0.60642 0.47148,0 0.91523,-0.21502 1.24945,-0.60642 l 5.61548,-6.56583 c 0.43964,0.18675 0.90465,0.28125 1.38617,0.28125 2.27485,0 4.12549,-2.16383 4.12549,-4.8238 0,-0.48579 -0.0607,-0.95505 -0.17979,-1.39604 z m 0,0"
+       id="path1395-9"
+       inkscape:connector-curvature="0"
+       style="stroke-width:0.02987269" />
+    <path
+       id="path2469-8"
+       d="m -96.098061,260.97575 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-6"
+       d="m -96.016461,257.12378 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-8"
+       d="m -95.930261,253.29845 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-6-3"
+       d="m -95.848661,249.44648 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-83"
+       d="m -95.762461,245.62115 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-6-33"
+       d="m -95.680861,241.76918 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-89"
+       d="m -95.594661,237.94385 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-6-0"
+       d="m -95.513061,234.09188 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-8-6"
+       d="m -95.426861,230.26655 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-6-3-8"
+       d="m -95.345261,226.41458 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-83-7"
+       d="m -95.259061,222.58925 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path2469-8-6-33-9"
+       d="m -95.177461,218.73728 -0.0145,0.66109 -0.0547,1.05239 -0.017,0.52434 1.53807,0.27711 0.0123,-0.55098 0.0548,-1.05235 0.0145,-0.66113 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png" />
+    <path
+       id="path3231-4-0"
+       d="m -89.665163,222.62859 -1.205982,0.74136 -3.247982,-4.63267 -5.763836,3.96418 -0.727827,-0.87653 6.998695,-4.83724 z"
+       style="fill:#000002;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:0.63884664"
+       inkscape:connector-curvature="0"
+       inkscape:export-xdpi="100"
+       inkscape:export-ydpi="100"
+       inkscape:export-filename="C:\Users\balle\image423.png"
+       inkscape:transform-center-x="-40.102242"
+       inkscape:transform-center-y="16.553833" />
+  </g>
+</svg>
