@@ -1,7 +1,7 @@
 # Taula de continguts
 1. [Llicències Generals](#LG)
-2. [Llicència d'un circuit de dispositius](#GCL)  
-2.1 [(CL-I) Conveni de cessió entre donant i gestor](#CL-I)   
+2. [Llicència d'un circuit de dispositius](#gcl)  
+2.1 [(CL-I) Conveni de cessió entre donant i gestora](#CL-I)   
 2.2 [(CL-I-A) Annex al conveni de cessió entre donant i gestora](#CL-IA)  
 2.2 [(CL-II) Conveni de cessió entre gestora / grup interès i receptora](#CL-IIA)  
 2.3 [(CL-III) Conveni de gestió del circuit](#CL-III)  
@@ -23,7 +23,7 @@
 > Estat: No iniciada  
 
 
-# Llicència d'un circuit de dispositius {#GCL}
+# Llicència d'un circuit de dispositius {#gcl}
 
 Està composta de tres convenis o documents principals:
 
