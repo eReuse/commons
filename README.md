@@ -25,13 +25,13 @@
 
 # Llicència d'un circuit de dispositius
 
-Està composta de quatre convenis o documents principals:
+Està composta de tres convenis o documents principals:
 
  * I) el conveni de cessió de dispositius entre el donant i la gestora del Circuit i un annex al document I amb les especificitats del donant, 
  * II) (opcional) el conveni de cessió de dispositius entre el gestor i el receptor, i 
  * III) el conveni de gestió del circuit on es defineixen les normes de funcionament.
 
-Els convenis on intervenen els donants són el I, les gestores en el I i si existeix la relació entre gestores i receptores també en el II,  i els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) en el III. Les receptores poden tenir documents específics de participació amb les gestores i/o els grups d'inerès. 
+Els convenis on intervenen els donants són el I, les gestores en el I i si existeix la relació entre gestores i receptores també en el II,  i els grups d'interès (proveïdors, observadors, administració pública, voluntaris,...) en el III.
 
 ![Image of Document schema License](./98-utils/img/DocumentLicenseSchema.png) 
 
@@ -85,16 +85,16 @@ Els convenis on intervenen els donants són el I, les gestores en el I i si exis
 
 En el moment de fer una cessió del donant al gestor es crea un document tipus albarà que fa de **certificat de lliurament**, i on es fa referència a l'acord vigent entre les parts (documents I i III).
   
-### (CL-I) Conveni de cessió entre donant i gestor 
+### (CL-I) Conveni de cessió entre donant i gestora 
 
 > Estat: en desenvolupament la versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-CAT.md)  
 
-En aquest conveni el cedent (donant) transfereix les responsabilitats (ambientals, legals, ..) cap al gestor. Seria similar a un conveni de cessió de béns. El signen el donant i el gestor. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment. 
+En aquest conveni el cedent (donant) transfereix les responsabilitats (ambientals, legals, ..) cap a la gestora. Seria similar a un conveni de cessió de béns. El signen el donant i la gestora. Es signen per periodes d'anys o sense data d'extinció i les parts poden finalitzar-lo en qualsevol moment. 
 
 > Aquest conveni el signarien tots els donants que volen donar al circuit (aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 
-### (CL-I-A) Annex al conveni de cessió entre donant i gestor 
+### (CL-I-A) Annex al conveni de cessió entre donant i gestora 
 > Estat: versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager-Annex-CAT](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex-CAT.md)
 
@@ -102,7 +102,7 @@ En un circuit participa més d'un donant i ténen voluntats diferents en referè
 
 >  Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-Commons-License_CA.md).
 
-### (CL-II) Conveni de cessió entre gestora i receptora
+### (CL-II) Conveni de cessió entre gestora/grup interès i receptora
 
 > Estat: Finalitzat versió 1.0  
 > Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-ES](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-ES.md)  
