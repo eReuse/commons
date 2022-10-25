@@ -1,13 +1,12 @@
 # Taula de continguts
-1. [Llicències Generals](#LG)
-2. [Llicència d'un circuit de dispositius](#gcl)  
-2.1 [(CL-I) Conveni de cessió entre donant i gestora](#CL-I)   
-2.2 [(CL-I-A) Annex al conveni de cessió entre donant i gestora](#CL-IA)  
-2.2 [(CL-II) Conveni de cessió entre gestora / grup interès i receptora](#CL-IIA)  
-2.3 [(CL-III) Conveni de gestió del circuit](#CL-III)  
+1. Llicències Generals
+2. Llicència d'un circuit de dispositius
+2.1 CL-I - Conveni de cessió entre donant i gestora
+2.2 CL-I-A Annex al conveni de cessió entre donant i gestora
+2.2 CL-II Conveni de cessió entre gestora / grup interès i receptora
+2.3 CL-III) Conveni de gestió del circuit
 
-
-# Llicències Generals {#LG}
+# Llicències Generals
 
  > Llicència d'àmbit general amb els principis, definicions i pactes d'àmbit general entre els grups d'interès. Els acords específics entre els grups d'interès s'inclouran preferentment en les llicències derivades. 
 
@@ -23,7 +22,7 @@
 > Estat: No iniciada  
 
 
-# Llicència d'un circuit de dispositius {#gcl}
+# Llicència d'un circuit de dispositius
 
 Està composta de tres convenis o documents principals:
 
@@ -85,7 +84,7 @@ Els convenis on intervenen els donants són el I, les gestores en el I i si exis
 
 En el moment de fer una cessió del donant al gestor es crea un document tipus albarà que fa de **certificat de lliurament**, i on es fa referència a l'acord vigent entre les parts (documents I i III).
   
-### (CL-I) Conveni de cessió entre donant i gestora {#CL-I}
+### (CL-I) Conveni de cessió entre donant i gestora
 
 > Estat: en desenvolupament la versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-CAT.md)  
@@ -94,7 +93,7 @@ En aquest conveni el cedent (donant) transfereix les responsabilitats (ambiental
 
 > Aquest conveni el signarien tots els donants que volen donar al circuit (aquesta signatura es pot realitzar en el moment que expresen la voluntat de donar). 
 
-### (CL-I-A) Annex al conveni de cessió entre donant i gestora {#CL-IA}
+### (CL-I-A) Annex al conveni de cessió entre donant i gestora
 > Estat: versió 1.0  
 > Enllaç: [CL-I-Agreement-Donor-to-Manager-Annex-CAT](./1-CL-Circuit-License/CL-I-Agreement-Donor-To-Manager-Annex-CAT.md)
 
@@ -102,7 +101,7 @@ En un circuit participa més d'un donant i ténen voluntats diferents en referè
 
 >  Si un donant vol incloure noves clàusules ho pot fer en un annex, sempre que una nova clàusula no invalidi la [Llicència General de Circuit d'eReuse.org](./0-GCL-General-Circuit-License/General-Circuit-Commons-License_CA.md).
 
-### (CL-II) Conveni de cessió entre gestora/grup interès i receptora {#CL-IIA}
+### (CL-II) Conveni de cessió entre gestora/grup interès i receptora
 
 > Estat: Finalitzat versió 1.0  
 > Enllaç: [CL-I-Agreement-Manager-to-Receiver-Individual-ES](./1-CL-Circuit-License/CL-II-Agreement-Manager-To-Receiver-Individual-ES.md)  
@@ -116,7 +115,7 @@ En el moment de rebre l'equipament es lliura un document albarà de lliurament (
 
 Aquest conveni pot tenir la forma jurídica de comodat que és un tipus de préstec gratuït, on la receptora cobreix els costos de fer el bé reutilitzable i té el compromís de retornar l'equipament a la gestora/grup d'interès un cop ja no en faci ús.
 
-### (CL-III) Conveni de gestió del circuit {#CL-III}
+### (CL-III) Conveni de gestió del circuit
 
 > Estat: Versió 1.0 Enllaç: [TODO]
 
