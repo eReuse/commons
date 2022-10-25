@@ -1,10 +1,12 @@
 # Taula de continguts
 1. Llicències Generals
+
 2. Llicència d'un circuit de dispositius
+
 2.1 CL-I - Conveni de cessió entre donant i gestora
-2.2 CL-I-A Annex al conveni de cessió entre donant i gestora
-2.2 CL-II Conveni de cessió entre gestora / grup interès i receptora
-2.3 CL-III) Conveni de gestió del circuit
+5.2 CL-I-A Annex al conveni de cessió entre donant i gestora
+6.2 CL-II Conveni de cessió entre gestora / grup interès i receptora
+7.3 CL-III) Conveni de gestió del circuit
 
 # Llicències Generals
 
